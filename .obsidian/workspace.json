@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT topic.md",
+                "file": "2 - Tags/it.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IT topic"
+              "title": "it"
             }
           }
         ]
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT topic.md",
+                "file": "2 - Tags/it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IT topic"
+              "title": "Outgoing links from it"
             }
           },
           {
@@ -151,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 - Tags/it.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of it"
             }
           },
           {
@@ -170,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,12 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd26aa8530808335",
+  "active": "325ba9b9736c3523",
   "lastOpenFiles": [
     "3 - Templates/Full Note.md",
     "1 - Main notes/Untitled.md",
     "Communication Technology.md",
-    "IT topic.md",
+    "2 - Tags/it.md",
     "3 - Templates",
     "2 - Tags",
     "1 - Main notes"
