@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4511692f3d6b2eb7",
+        "id": "29fe153a6ad3c0a8",
         "type": "tabs",
         "children": [
           {
-            "id": "5b02b866aa0301ce",
+            "id": "4688306ee9e99ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,7 +45,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "325ba9b9736c3523",
+            "id": "4f7eec9839d1a157",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -171,11 +173,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "325ba9b9736c3523",
+  "active": "4688306ee9e99ee6",
   "lastOpenFiles": [
-    "3 - Templates/Full Note.md",
     "1 - Main notes/Untitled.md",
-    "Communication Technology.md",
     "2 - Tags/it.md",
+    "3 - Templates/Main note.md",
+    "1 - Main notes/Communication Technology.md",
     "3 - Templates",
     "2 - Tags",
     "1 - Main notes"

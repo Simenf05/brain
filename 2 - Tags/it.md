@@ -1,18 +1,4 @@
 # IT
-#it #noe #noe2
-This is where i will be storing everything related to it.  
+#it 
 
-```python
-import sys
-
-def noe():
-	print("simen")
-
-noe()
-```
- 
 ---
-
-
-noe er kult
-

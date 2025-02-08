@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "1 - Main notes",
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }
