@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Tags/it.md",
+                "file": "1 - Main notes/process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "it"
+              "title": "process"
             }
           }
         ]
@@ -84,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -124,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Tags/it.md",
+                "file": "1 - Main notes/process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from it"
+              "title": "Outgoing links from process"
             }
           },
           {
@@ -153,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Tags/it.md",
+                "file": "1 - Main notes/process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of it"
+              "title": "Outline of process"
             }
           },
           {
@@ -177,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +190,11 @@
   },
   "active": "4688306ee9e99ee6",
   "lastOpenFiles": [
-    "1 - Main notes/Untitled.md",
-    "2 - Tags/it.md",
-    "3 - Templates/Main note.md",
     "1 - Main notes/Communication Technology.md",
+    "1 - Main notes/process.md",
+    "2 - Tags/it.md",
+    "1 - Main notes/Untitled.md",
+    "3 - Templates/Main note.md",
     "3 - Templates",
     "2 - Tags",
     "1 - Main notes"
