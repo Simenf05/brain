@@ -84,3 +84,76 @@ The order will be messed up.
 Go-back-N max window = 2**n -1
 Selective Repeat max window 2 ** (n-1)
 
+---
+## TCP: overview
+#tcp 
+
+- point-to-point
+	- one sender, one receiver
+- reliable in-order byte-stream
+	- no "message boundaries"
+- full duplex data
+	- bi-directional data flow in same connection
+- cumulative acks
+- pipelinning 
+	- congestion control and flow control
+- connection-oriented
+	- handshaking
+- Flow control
+---
+### TCP sequence numbers, ACKs
+
+
+User type "C"
+Host ACKs receipt of "C", echoes back "C"
+Host ACKs receipt of echoed "C"
+
+---
+### TCP round trip time, timeout
+#roundtriptime #timeout
+
+timout needs to be more than [[rtt]] 
+if timeout is to low then you will get premature timeout
+if it is to high you will get latency
+
+The best is to measure the time from segment transmission until ack receipt
+
+EWMA (exponential weighted moving average) is used to calculate the [[roundtriptime]].
+past values will determine the value
+typical value: a=0.125
+
+You still need safety margin so will calculate more than [[rtt]].
+
+
+## TCP sender
+
+create segment with seq #
+
+seq # is byte-stream number of first data byte in segment
+start timer if not already running
+
+#### event timeout 
+- retransmit segment that caused timeout
+- restart timer
+
+#### event Ack received 
+- move sendbase
+- if not
+
+
+### TCP receiver Ack generation
+
+---
+### TCP fast retransmit
+
+Receipt of three duplicate ACKs indicates 3 segments received after a missing segment - lost segment is likely. So retransmit
+##### Why 3 acks????
+There is a lot of science to find the fastest way to retransmit.
+
+Will often be faster then waiting for timeout.
+
+---
+### TCP flow control
+
+It is about not overpowering the receiver. 
+

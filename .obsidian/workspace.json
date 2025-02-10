@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Tags/it.md",
+                "file": "4 - Sketch notes/KTN - 10.02.25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "it"
+              "title": "KTN - 10.02.25"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -175,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +191,12 @@
   },
   "active": "94e33c00580ab196",
   "lastOpenFiles": [
+    "2 - Tags/it.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
     "1 - Main notes/ack.md",
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
     "4 - Sketch notes",
-    "2 - Tags/it.md",
     "1 - Main notes/Communication Technology.md",
     "1 - Main notes/process.md",
     "1 - Main notes/Untitled.md",
