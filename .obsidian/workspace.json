@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/KTN - 10.02.25.md",
+                "file": "4 - Sketch notes/Objekt - 11.02.25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KTN - 10.02.25"
+              "title": "Objekt - 11.02.25"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +192,9 @@
   },
   "active": "94e33c00580ab196",
   "lastOpenFiles": [
-    "2 - Tags/it.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
+    "4 - Sketch notes/Objekt - 11.02.25.md",
+    "2 - Tags/it.md",
     "1 - Main notes/ack.md",
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
