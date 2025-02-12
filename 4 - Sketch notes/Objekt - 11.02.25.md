@@ -1,6 +1,5 @@
 # Sketch note: 2025-02-11 12:33
-
-
+#it #oop
 ### Tre grensesnitt
 - Brukergrensesnitt: JavaFX  
 - Forrige lysark: Det som er synlig av en klasse  
