@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/MMI 12.02.25.md",
+                "file": "4 - Sketch notes/Objekt - 11.02.25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MMI 12.02.25"
+              "title": "Objekt - 11.02.25"
             }
           }
         ]
@@ -191,9 +191,11 @@
   },
   "active": "0c1a81eafa98c4d5",
   "lastOpenFiles": [
-    "1 - Main notes/GUI.md",
-    "4 - Sketch notes/MMI 12.02.25.md",
+    "1 - Main notes/interasksjonssystemer.md",
     "1 - Main notes/konseptuell modell.md",
+    "4 - Sketch notes/MMI 12.02.25.md",
+    "1 - Main notes/process.md",
+    "1 - Main notes/GUI.md",
     "4 - Sketch notes/Objekt - 11.02.25.md",
     "3 - Templates/Main note.md",
     "3 - Templates/Sketch note.md",
@@ -202,7 +204,6 @@
     "1 - Main notes/ack.md",
     "4 - Sketch notes",
     "1 - Main notes/Communication Technology.md",
-    "1 - Main notes/process.md",
     "1 - Main notes/Untitled.md",
     "3 - Templates",
     "2 - Tags",
