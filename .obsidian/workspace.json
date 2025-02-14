@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/Objekt - 11.02.25.md",
+                "file": "1 - Main notes/transport layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objekt - 11.02.25"
+              "title": "transport layer"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -191,15 +192,16 @@
   },
   "active": "0c1a81eafa98c4d5",
   "lastOpenFiles": [
+    "1 - Main notes/process.md",
+    "1 - Main notes/transport layer.md",
+    "4 - Sketch notes/KTN - 10.02.25.md",
+    "4 - Sketch notes/Objekt - 11.02.25.md",
     "1 - Main notes/interasksjonssystemer.md",
     "1 - Main notes/konseptuell modell.md",
     "4 - Sketch notes/MMI 12.02.25.md",
-    "1 - Main notes/process.md",
     "1 - Main notes/GUI.md",
-    "4 - Sketch notes/Objekt - 11.02.25.md",
     "3 - Templates/Main note.md",
     "3 - Templates/Sketch note.md",
-    "4 - Sketch notes/KTN - 10.02.25.md",
     "2 - Tags/it.md",
     "1 - Main notes/ack.md",
     "4 - Sketch notes",
