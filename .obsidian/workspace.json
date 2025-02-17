@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/transport layer.md",
+                "file": "4 - Sketch notes/KTN - 17.02.25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "transport layer"
+              "title": "KTN - 17.02.25"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -192,8 +191,9 @@
   },
   "active": "0c1a81eafa98c4d5",
   "lastOpenFiles": [
-    "1 - Main notes/process.md",
     "1 - Main notes/transport layer.md",
+    "4 - Sketch notes/KTN - 17.02.25.md",
+    "1 - Main notes/process.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
     "4 - Sketch notes/Objekt - 11.02.25.md",
     "1 - Main notes/interasksjonssystemer.md",
