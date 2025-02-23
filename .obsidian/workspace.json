@@ -11,24 +11,10 @@
             "id": "0c1a81eafa98c4d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/transport layer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "transport layer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -192,8 +178,9 @@
   },
   "active": "0c1a81eafa98c4d5",
   "lastOpenFiles": [
-    "1 - Main notes/process.md",
     "1 - Main notes/transport layer.md",
+    "1 - Main notes/udp.md",
+    "1 - Main notes/process.md",
     "4 - Sketch notes/MMI 12.02.25.md",
     "4 - Sketch notes/KTN - 17.02.25.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
