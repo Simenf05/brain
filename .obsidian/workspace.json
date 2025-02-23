@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe9d56988595f24",
+        "id": "b657db38d47d79d9",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1a81eafa98c4d5",
+            "id": "b22ec8f040729ee3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Reliable data transfer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reliable data transfer"
             }
           }
         ]
@@ -176,9 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c1a81eafa98c4d5",
+  "active": "b22ec8f040729ee3",
   "lastOpenFiles": [
     "1 - Main notes/transport layer.md",
+    "1 - Main notes/Reliable data transfer.md",
+    "1 - Main notes/Untitled.md",
+    "1 - Main notes/Multiplexing and demultiplexing.md",
     "1 - Main notes/udp.md",
     "1 - Main notes/process.md",
     "4 - Sketch notes/MMI 12.02.25.md",
@@ -194,7 +211,6 @@
     "1 - Main notes/ack.md",
     "4 - Sketch notes",
     "1 - Main notes/Communication Technology.md",
-    "1 - Main notes/Untitled.md",
     "3 - Templates",
     "2 - Tags",
     "1 - Main notes"
