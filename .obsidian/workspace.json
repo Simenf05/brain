@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Reliable data transfer.md",
+                "file": "4 - Sketch notes/KTN - 24.02.25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reliable data transfer"
+              "title": "KTN - 24.02.25"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +192,9 @@
   },
   "active": "b22ec8f040729ee3",
   "lastOpenFiles": [
-    "1 - Main notes/transport layer.md",
     "1 - Main notes/Reliable data transfer.md",
+    "4 - Sketch notes/KTN - 24.02.25.md",
+    "1 - Main notes/transport layer.md",
     "1 - Main notes/Untitled.md",
     "1 - Main notes/Multiplexing and demultiplexing.md",
     "1 - Main notes/udp.md",
