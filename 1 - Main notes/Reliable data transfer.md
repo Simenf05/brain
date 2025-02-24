@@ -19,6 +19,10 @@ In this example the transfer control is easy. For we only have to send the messa
 ## rdt2.0: channel with ==bit errors==
 
 In this example the channel is not perfect, and it might flip bits in packets. This means that when a packet is sent, any part of that packet might not contain the right bits. In many scenarios broken packet cannot be used for anything and therefore we need to prevent them. 
+### The real question; how to recover from errors?
+rdt2.0 implements a layer of security by having a system of acknowledgments (ACKs) and negative acknowledgements (NAKs). 
+An ACK is an acknowledgement that the correct packet was received. 
+
 
 
 
