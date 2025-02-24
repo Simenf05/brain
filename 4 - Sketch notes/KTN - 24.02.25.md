@@ -38,6 +38,11 @@ Network Layer: Internet
 IP datagram format
 
 
+Subnets
+
+The first part of the ip is the subnet that the network is part of. The last number of the ip is the identity of the host. 
+
+
 
 
 
