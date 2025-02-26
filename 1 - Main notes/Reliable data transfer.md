@@ -51,6 +51,9 @@ Instead of sending NAKs the receiver will send two or three ACKs of the same pac
 **The method**
 The sender will have a timer that keeps track of how long its been since the packet was sent. If the timer runs out and the sender haven't received ACK for the packet then the sender will resend that packet. The receiver already handles duplicates, so this isn't a problem anymore. 
 
+---
+## The cringe of stop-and-wait
+When using a model based on stop-and-wait we loose a lot of performance because of the 
 
 
 
