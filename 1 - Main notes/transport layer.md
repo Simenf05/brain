@@ -1,7 +1,7 @@
 2025-02-14 14:56
 
 Status:
-Tags: #communication #tcp #it #rdt #roundtriptime #rtt #udp
+Tags: #communication #tcp #it #rdt #roundtriptime #udp
 
 # Transport layer
 

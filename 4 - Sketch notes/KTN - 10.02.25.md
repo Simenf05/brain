@@ -112,17 +112,17 @@ Host ACKs receipt of echoed "C"
 ### TCP round trip time, timeout
 #roundtriptime #timeout
 
-timout needs to be more than [[rtt]] 
+timout needs to be more than [[round trip time]] 
 if timeout is to low then you will get premature timeout
 if it is to high you will get latency
 
 The best is to measure the time from segment transmission until ack receipt
 
-EWMA (exponential weighted moving average) is used to calculate the [[roundtriptime]].
+EWMA (exponential weighted moving average) is used to calculate the [[round trip time]].
 past values will determine the value
 typical value: a=0.125
 
-You still need safety margin so will calculate more than [[rtt]].
+You still need safety margin so will calculate more than [[round trip time]].
 
 
 ## TCP sender

@@ -1,7 +1,7 @@
 2025-02-23 16:19
 
-Status:
-Tags: #rdt #it #communication #transportlayer #tcp 
+Status: #in-writing
+Tags: #rdt #it #communication #transportlayer #tcp #roundtriptime 
 
 # Reliable data transfer
 
@@ -33,12 +33,12 @@ In this model the sender must wait for the receiving of the ACK or NAK. And when
 #### The fatal flaw
 There is also one fatal flow of the model; what if the ACK is corrupted. In this case the sender would be left hanging, and the entire system would crumble down. 
 
----
+
 ## rdt2.1: handling bad ACKs/NAKs
 To handle bad NAKs and ACKs, the sender should send sequence number with every packet. If the sender ever receives the bad NAK or ACK it will always resend the packet. Therefore the client also have to know what packet is current state, and discard any duplicates. This way we know that the information will be complete. 
 In the case there is only needed two sequence numbers, because the protocol uses stop-and-wait so it will only be one packet at a time.
 
----
+
 ## rdt2.2: the NAKs-less protocol
 Instead of sending NAKs the receiver will send two or three ACKs of the same packet for NAKs. This way the ACKs also have to use sequence numbers, but we can avoid having NAKs at all ([[tcp]] uses this).
 
@@ -53,7 +53,20 @@ The sender will have a timer that keeps track of how long its been since the pac
 
 ---
 ## The cringe of stop-and-wait
-When using a model based on stop-and-wait we loose a lot of performance because of the 
+When using a model based on stop-and-wait we loose a lot of performance because of the wait for [[round trip time]]. The sender could be doing a lot more in the time before the first ACK is received. 
+
+## Using pipe-lining to send multiple packets
+
+The use of pipe-lining helps the sender spend more of the time doing productive stuff. The concept enables the sender to send many packets right after each other. Then it can wait for all the packets to be sent at the same time, instead of waiting for each packet alone. This makes the performance much better because you only need to wait one [[round trip time]] for the entire bulk of packets. 
+
+But how do we handle the loss and knowing what to re-transmit? There is two solutions to this problem: 
+- Go-Back-N
+- Selective repeat
+
+### Go-Back-N
+The first option is to use a method called go-back-n. In this model the sender has a window of up to N transmitted but unACKed packet. 
+
+### Selective repeat
 
 
 
