@@ -11,11 +11,14 @@ The idea behind reliable data transfer is that the sending process and the recei
 
 Sender:
 - The sender does not know the state of the receiver, so this has to be communicated.
+
+---
 ## rdt1.0: transfer over a ==reliable channel==
 
 We will first consider both the sender and receiver as finite state machines, and the channel used will be a perfectly reliable channel. This means that there can be no bit error or packet loss. 
 In this example the transfer control is easy. For we only have to send the message in the channel has to receive it. This is almost never the case tho. 
 
+---
 ## rdt2.0: channel with ==bit errors==
 
 In this example the channel is not perfect, and it might flip bits in packets. This means that when a packet is sent, any part of that packet might not contain the right bits. In many scenarios broken packet cannot be used for anything and therefore we need to prevent them. 
@@ -28,9 +31,28 @@ NAK is the packet that the receiver will send back if the packet was corrupted. 
 ### The flow
 In this model the sender must wait for the receiving of the ACK or NAK. And when the receiver has sent the ACK or NAK, it too has to wait for the sender to receive it before the sender will send the next packet. This makes this model very slow and impractical for big amounts of packets. 
 #### The fatal flaw
-There is also one fatal flow of the model; what if the ACK is corrupted. In this case the sender would be left hanging, and the entire system would crumble down. To solve this the sender will resend any packet when the ACK or NAK is corrupt. To combat the problem of duplicates, the sender will add sequence number to every packet, and the receiver will discard any duplicates. 
+There is also one fatal flow of the model; what if the ACK is corrupted. In this case the sender would be left hanging, and the entire system would crumble down. 
 
-## 
+---
+## rdt2.1: handling bad ACKs/NAKs
+To handle bad NAKs and ACKs, the sender should send sequence number with every packet. If the sender ever receives the bad NAK or ACK it will always resend the packet. Therefore the client also have to know what packet is current state, and discard any duplicates. This way we know that the information will be complete. 
+In the case there is only needed two sequence numbers, because the protocol uses stop-and-wait so it will only be one packet at a time.
+
+---
+## rdt2.2: the NAKs-less protocol
+Instead of sending NAKs the receiver will send two or three ACKs of the same packet for NAKs. This way the ACKs also have to use sequence numbers, but we can avoid having NAKs at all ([[tcp]] uses this).
+
+---
+## rdt3.0: channels with **error** and **loss**
+
+**New channel assumption:** the channel can have loss of packets and ACKs
+- Checksum, sequence numbers, ACKs and re-transmits will be of help but not enough
+
+**The method**
+The sender will have a timer 
+- Sender has a timer that waits for the ACK of a packet
+- 
+
 
 
 
