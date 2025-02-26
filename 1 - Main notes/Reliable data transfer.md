@@ -49,9 +49,7 @@ Instead of sending NAKs the receiver will send two or three ACKs of the same pac
 - Checksum, sequence numbers, ACKs and re-transmits will be of help but not enough
 
 **The method**
-The sender will have a timer 
-- Sender has a timer that waits for the ACK of a packet
-- 
+The sender will have a timer that keeps track of how long its been since the packet was sent. If the timer runs out and the sender haven't received ACK for the packet then the sender will resend that packet. The receiver already handles duplicates, so this isn't a problem anymore. 
 
 
 
