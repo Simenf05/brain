@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b657db38d47d79d9",
+        "id": "ff8d3b9937979421",
         "type": "tabs",
         "children": [
           {
-            "id": "b22ec8f040729ee3",
+            "id": "d4de98efaa97c3c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/KTN - 10.02.25.md",
+                "file": "4 - Sketch notes/KTN - 27.02.25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,37 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KTN - 10.02.25"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b19656071aa8ce22",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21daa4025a4a55f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Reliable data transfer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reliable data transfer"
+              "title": "KTN - 27.02.25"
             }
           }
         ]
@@ -118,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -220,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21daa4025a4a55f3",
+  "active": "d4de98efaa97c3c7",
   "lastOpenFiles": [
-    "4 - Sketch notes/KTN - 10.02.25.md",
+    "4 - Sketch notes/KTN - 27.02.25.md",
     "1 - Main notes/Reliable data transfer.md",
+    "4 - Sketch notes/KTN - 10.02.25.md",
     "1 - Main notes/rtt.md",
     "1 - Main notes/transport layer.md",
     "1 - Main notes/udp.md",
