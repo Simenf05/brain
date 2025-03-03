@@ -40,3 +40,9 @@ IPv6 har tatt bort:
 Tunneling er å pakke inn ipv6 pakker i ipv4 når det skal sendes til rutere som ikke støtter ipv6.
 
 Det tar veldig lang tid å bytte til ipv6. Men det er en god endring. 
+
+## Network-layer functinos
+
+routing: determine route taken by packets from source to destination
+
+
