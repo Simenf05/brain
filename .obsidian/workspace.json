@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff8d3b9937979421",
+        "id": "72358584a76df624",
         "type": "tabs",
         "children": [
           {
-            "id": "d4de98efaa97c3c7",
+            "id": "68b029428b618334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/KTN - 03.03.25.md",
+                "file": "1 - Main notes/Reliable data transfer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KTN - 03.03.25"
+              "title": "Reliable data transfer"
             }
           }
         ]
@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4de98efaa97c3c7",
+  "active": "68b029428b618334",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "4 - Sketch notes/KTN - 03.03.25.md",
     "1 - Main notes/Reliable data transfer.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
