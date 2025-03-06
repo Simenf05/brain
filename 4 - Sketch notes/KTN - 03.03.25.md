@@ -46,3 +46,7 @@ Det tar veldig lang tid å bytte til ipv6. Men det er en god endring.
 routing: determine route taken by packets from source to destination
 
 
+
+Bruk det største nettet for kunder. 
+Bruk nest største for linknett.
+Bruk det minste for enkeltadresser på rutere.
