@@ -91,3 +91,30 @@ x⁴+x³+x+1
 \=
 11011
 
+
+## Multiple access links
+
+- Point to point 
+	- Point to point link between ehternet 
+- broadcast shaed wire or medium
+	- old fashion 
+
+Single shared broadcast channel
+two or more simultaneous transmission by nodes 
+
+Distributed algorithem that determines 
+
+### Tre mac protocoller
+- Channel partitioning
+	- Deler kanalen inn til mindre biter
+	- gir en bit til hver node
+- Random access 
+	- channel not divided, allow collision 
+	- recover from collisions
+- Taking turns 
+	- Nodes take turns, but nodes with more to send can take longer turns
+
+Channel partitions 
+- lager slots og deler ut tidsluker til nodes
+- unused slots go idle
+
