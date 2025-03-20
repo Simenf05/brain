@@ -46,3 +46,7 @@ MAC address:
 MAC address is like a social security number
 
 
+# Trådløse nettverk
+
+#mobilenetworks
+
