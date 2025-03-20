@@ -50,3 +50,9 @@ MAC address is like a social security number
 
 #mobilenetworks
 
+SNR: signal-to-noise ratio
+Det er hvor mye støy det er i forhold til signal. Det skal være m
+Med høyere SNR så blir det bedre signal. og mindre BER 
+
+
+
