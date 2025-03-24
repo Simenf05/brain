@@ -139,3 +139,40 @@ Public and private keys is a revolution in cryptography because it is way easier
 Verifiable, nonforgeable: recipient can prove to someone that bob and no one else must have signed document
 
 A signature can be that you send the encrypted version with the message, and then you can decrypt the message and match them. If there is a difference then the message has been intercepted. 
+
+# Message digests 
+#hashfunction #hash
+
+
+computationally expensive to public-key-encrypt long messages.
+
+Goal fixed-length easy-to-compute digital fingerprint
+- apply hash function H to m, get fixed size message digest H(m)
+
+Hash function properties:
+- many-to-1
+- produces fixed-size msg digest
+- given message digest x, computationally infeasible to find m such that x = H(m)
+
+## Internet checksum: poor crypto hash function
+
+large message m -> H(m) -> Kb-(H(m)) encrypted message digest is sent with m
+
+gets message and encrypted message digest
+
+decrypts the message digest and hashes m
+
+Alice gets two H(m) and compares the two
+
+### Big hash functions
+- MD5 
+- SHA-1 
+
+
+# Public key Certification Authorities
+
+Entity will register entities public key with CA and provides proof of identity to CA.
+
+- CA creates certificate binding identity E to E's public key
+- certificate containing E's public key digitally signed by CA: CA says "this is E's public key"
+
