@@ -176,3 +176,43 @@ Entity will register entities public key with CA and provides proof of identity 
 - CA creates certificate binding identity E to E's public key
 - certificate containing E's public key digitally signed by CA: CA says "this is E's public key"
 
+
+# Virtual private networks
+
+### IPsec service 
+
+- data integrity
+- origin authentication
+- replay attack prevention
+- confidentiality
+
+Two variants:
+- transport mode
+- tunnel mode
+
+In transport mode only the datagram is encrypted
+In tunnel mode entire traffic is encrypted
+
+Two protocols:
+- Authentication header (AH)
+- Encapsulation Security Protocol (ESP)
+	- More widely used
+
+### 802.11 authentication, encryption
+
+Arriving mobile must:
+- Associate with access point: establish communication over wireless link
+- Authenticate to network
+
+(1) discovery of security capabilities:
+- AP advertises its presence, forms of authentication and encryption
+- Device then requests the specific form of authentication and encryption desired
+
+(2) mutual authentication and shared symmetric key derivation
+- AS and mobile already have shared common secret (password)
+- AS and mobile use shared secret, nonces
+- 
+
+
+
+
