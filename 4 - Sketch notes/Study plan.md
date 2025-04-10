@@ -10,6 +10,11 @@
 - øvinger
 - tidligere eksamener
 
+##### Ting jeg ikke kan godt nok:
+- De morgans lov (begge versjoner)
+- Ekvivalensrelasjoner og delvise ordninger
+
+
 ### Objekt: 
 #### Todo:
 - tidligere eksamener
