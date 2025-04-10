@@ -11,10 +11,24 @@
             "id": "dff3f3f6413552e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Study plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Study plan"
             }
           }
         ]
@@ -178,6 +192,8 @@
   },
   "active": "dff3f3f6413552e2",
   "lastOpenFiles": [
+    "4 - Sketch notes/Study plan.md",
+    "Untitled",
     "4 - Sketch notes/KTN - 13.03.25.md",
     "4 - Sketch notes/KTN - 10.03.25.md",
     "1 - Main notes/Reliable data transfer.md",
