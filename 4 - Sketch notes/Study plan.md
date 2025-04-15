@@ -22,5 +22,11 @@
 
 ### KTN: 
 #### Todo:
+- Se videoer
+
+	- Ta notater til video
+	- Lese mer om det jeg ikke kan
+	- Se over presentasjonene
+
 - tidligere eksamen
 - lese i boken
