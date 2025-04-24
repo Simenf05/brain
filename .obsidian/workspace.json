@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Study plan"
             }
+          },
+          {
+            "id": "2b295fb850b48619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Multimedia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Multimedia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,9 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dff3f3f6413552e2",
+  "active": "2b295fb850b48619",
   "lastOpenFiles": [
     "4 - Sketch notes/Study plan.md",
+    "1 - Main notes/Multimedia.md",
     "Untitled",
     "4 - Sketch notes/KTN - 13.03.25.md",
     "4 - Sketch notes/KTN - 10.03.25.md",
