@@ -8,6 +8,7 @@
 ###  Matte:
 #### Todo:
 - øvinger
+- prøveeksamen
 - tidligere eksamener
 
 ##### Ting jeg ikke kan godt nok:
