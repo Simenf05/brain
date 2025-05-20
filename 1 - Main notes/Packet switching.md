@@ -15,6 +15,12 @@ The old way of switching is called circuit switching, this method establishes a 
 
 In packet switching the data is split up into packets of data. This way the switches can send data from multiple hosts at the same time while still keeping higher performance. 
 
+### Queuing packets
+
+If a packet switch receives more than it can send at the same time possibly from multiple hosts, then the packet switch will have to queue the packets. If this queue reaches the max capasity then packets will start to drop. This is a risky part of the packet switching model since there is no certanty that the  will be able to receive the pa
+
+
+
 ## References
 
 Jim Kurose youtube series. 
