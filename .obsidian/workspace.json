@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "03df338acadcf580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Network core.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Network core"
+            }
+          },
+          {
             "id": "2b295fb850b48619",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "last lecture ktn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dff3f3f6413552e2",
+  "active": "03df338acadcf580",
   "lastOpenFiles": [
-    "4 - Sketch notes/last lecture ktn.md",
     "4 - Sketch notes/Study plan.md",
+    "1 - Main notes/Network core.md",
+    "4 - Sketch notes/last lecture ktn.md",
     "Untitled",
     "4 - Sketch notes/KTN - 13.03.25.md",
     "4 - Sketch notes/KTN - 10.03.25.md",
@@ -243,7 +269,6 @@
     "3 - Templates/Main note.md",
     "3 - Templates/Sketch note.md",
     "2 - Tags/it.md",
-    "1 - Main notes/ack.md",
     "4 - Sketch notes",
     "3 - Templates",
     "2 - Tags",
