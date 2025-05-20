@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Network core.md",
+                "file": "1 - Main notes/Packet switching.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network core"
+              "title": "Packet switching"
             }
           },
           {
@@ -242,7 +242,7 @@
   "active": "03df338acadcf580",
   "lastOpenFiles": [
     "4 - Sketch notes/Study plan.md",
-    "1 - Main notes/Network core.md",
+    "1 - Main notes/Packet switching.md",
     "4 - Sketch notes/last lecture ktn.md",
     "Untitled",
     "4 - Sketch notes/KTN - 13.03.25.md",
