@@ -80,6 +80,54 @@
             }
           },
           {
+            "id": "134574a64f7ca473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Layers in the networking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Layers in the networking"
+            }
+          },
+          {
+            "id": "fa1b45d50948836f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Network Security.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Network Security"
+            }
+          },
+          {
             "id": "2b295fb850b48619",
             "type": "leaf",
             "state": {
@@ -104,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,10 +311,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c5dc3dfaf3eea0",
+  "active": "fa1b45d50948836f",
   "lastOpenFiles": [
-    "1 - Main notes/Packet switching.md",
+    "1 - Main notes/Layers in the networking.md",
+    "1 - Main notes/Network Security.md",
     "1 - Main notes/Performance in networks.md",
+    "1 - Main notes/traceroute.md",
+    "1 - Main notes/round trip time.md",
+    "1 - Main notes/Packet switching.md",
     "4 - Sketch notes/Study plan.md",
     "4 - Sketch notes/last lecture ktn.md",
     "Untitled",
@@ -289,10 +341,6 @@
     "4 - Sketch notes/OOP of.md",
     "4 - Sketch notes/KTN - 24.02.25.md",
     "4 - Sketch notes/MMI 12.02.25.md",
-    "4 - Sketch notes/KTN - 17.02.25.md",
-    "4 - Sketch notes/Objekt - 11.02.25.md",
-    "3 - Templates/Main note.md",
-    "3 - Templates/Sketch note.md",
     "4 - Sketch notes",
     "3 - Templates",
     "2 - Tags",
