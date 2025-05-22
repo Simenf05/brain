@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Layers in the networking.md",
+                "file": "1 - Main notes/Application layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Layers in the networking"
+              "title": "Application layer"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#oop",
+                "query": "tag:#transportlayer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,12 +205,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -311,9 +311,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1b45d50948836f",
+  "active": "134574a64f7ca473",
   "lastOpenFiles": [
+    "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Layers in the networking.md",
+    "1 - Main notes/transport layer.md",
+    "1 - Main notes/Application layer.md",
     "1 - Main notes/Network Security.md",
     "1 - Main notes/Performance in networks.md",
     "1 - Main notes/traceroute.md",
@@ -324,12 +327,10 @@
     "Untitled",
     "4 - Sketch notes/KTN - 13.03.25.md",
     "4 - Sketch notes/KTN - 10.03.25.md",
-    "1 - Main notes/Reliable data transfer.md",
     "Untitled.canvas",
     "4 - Sketch notes/KTN - 03.03.25.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
     "1 - Main notes/rtt.md",
-    "1 - Main notes/transport layer.md",
     "1 - Main notes/udp.md",
     "1 - Main notes/Untitled.md",
     "1 - Main notes/process.md",
@@ -340,7 +341,6 @@
     "1 - Main notes/Multiplexing and demultiplexing.md",
     "4 - Sketch notes/OOP of.md",
     "4 - Sketch notes/KTN - 24.02.25.md",
-    "4 - Sketch notes/MMI 12.02.25.md",
     "4 - Sketch notes",
     "3 - Templates",
     "2 - Tags",
