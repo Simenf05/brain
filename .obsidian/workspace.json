@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,10 +263,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03df338acadcf580",
+  "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
-    "1 - Main notes/Performance in networks.md",
     "1 - Main notes/Packet switching.md",
+    "1 - Main notes/Performance in networks.md",
     "4 - Sketch notes/Study plan.md",
     "4 - Sketch notes/last lecture ktn.md",
     "Untitled",
