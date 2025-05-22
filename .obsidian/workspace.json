@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Application layer.md",
+                "file": "1 - Main notes/transport layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Application layer"
+              "title": "transport layer"
             }
           },
           {
@@ -297,8 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,10 +312,10 @@
   },
   "active": "134574a64f7ca473",
   "lastOpenFiles": [
+    "1 - Main notes/Application layer.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Layers in the networking.md",
     "1 - Main notes/transport layer.md",
-    "1 - Main notes/Application layer.md",
     "1 - Main notes/Network Security.md",
     "1 - Main notes/Performance in networks.md",
     "1 - Main notes/traceroute.md",
