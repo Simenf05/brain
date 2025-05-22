@@ -1,7 +1,7 @@
 # Sketch note: 2025-02-10 08:10
 
 #it #communication #technology #transportlayer #tcp
-## [[transport layer]]
+## [[Transport layer]]
 
 
 - utilization - fraction of time sender busy sending

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Performance in networks.md",
+                "file": "1 - Main notes/Application layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Performance in networks"
-            }
-          },
-          {
-            "id": "134574a64f7ca473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/transport layer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "transport layer"
+              "title": "Application layer"
             }
           },
           {
@@ -152,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,14 +286,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "134574a64f7ca473",
+  "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
+    "1 - Main notes/Transport layer.md",
+    "1 - Main notes/Performance in networks.md",
+    "1 - Main notes/2025-05-22.md",
     "1 - Main notes/Application layer.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Layers in the networking.md",
-    "1 - Main notes/transport layer.md",
     "1 - Main notes/Network Security.md",
-    "1 - Main notes/Performance in networks.md",
     "1 - Main notes/traceroute.md",
     "1 - Main notes/round trip time.md",
     "1 - Main notes/Packet switching.md",
@@ -339,7 +316,6 @@
     "1 - Main notes/konseptuell modell.md",
     "1 - Main notes/Multiplexing and demultiplexing.md",
     "4 - Sketch notes/OOP of.md",
-    "4 - Sketch notes/KTN - 24.02.25.md",
     "4 - Sketch notes",
     "3 - Templates",
     "2 - Tags",
