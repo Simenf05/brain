@@ -22,7 +22,7 @@ Client:
 - Often has dynamic ip
 
 ## Peer-to-peer paradigm
-The end peers provide service to 
+In peer-to-peer communication the end users are also service providers. This way the load i split up and balanced between different end users. This is commonly used for 
 
 ## References
 [Jim Kurose video](https://www.youtube.com/watch?v=abeupgK5z48&list=PL1ya5dD_M8uX-BLUF1FEvUNsYWQL5_l0O&index=10)
