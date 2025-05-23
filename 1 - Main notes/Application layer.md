@@ -20,6 +20,7 @@ Client:
 - Communicates with the server 
 - Connected in intervals 
 - Often has dynamic ip
+- Should be on [[linux]]
 
 ## Peer-to-peer paradigm
 In peer-to-peer communication the end users are also service providers. This way the load i split up and balanced between different end users. This is commonly used for file sharing with torrents. When the files are big and might be expensive to send from a server will it be better to share the burden in a network of peers. 
@@ -31,7 +32,7 @@ When the communication is between two processes on the same host the communicati
 
 
 ### Making a protocol on the application layer
-When making a protocol on the application layer, you will have to design what requests and responses the server should use. 
+When making a protocol on the application layer, you will have to design what requests and responses the server should use. The protocol can be stateless or driven by states. There is many different variants to how to make the protocol.
 
 
 ## References

@@ -7,7 +7,7 @@ Tags: #communication #technology #transportlayer #applicationlayer #networklayer
 ### The five layers of the networking stack
 
 1. Application layer
-	- [[Hypertext transfere protocol|HTTP]], [[Domain name system|DNS]], SMTP, IMAP
+	- [[Hypertext transfer protocol|HTTP]], [[Domain name system|DNS]], SMTP, IMAP
 	- Is the protocols that power applications
 2. Transport layer
 	- [[tcp|TCP]], [[udp|UDP]]

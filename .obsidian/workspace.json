@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Application layer.md",
+                "file": "1 - Main notes/Hypertext transfer protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Application layer"
+              "title": "Hypertext transfer protocol"
             }
           }
         ],
@@ -217,9 +217,10 @@
   },
   "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
+    "1 - Main notes/Application layer.md",
+    "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/sockets.md",
     "4 - Sketch notes/Study plan.md",
-    "1 - Main notes/Application layer.md",
     "1 - Main notes/Transport control protocol.md",
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Performance in networks.md",
@@ -244,7 +245,6 @@
     "1 - Main notes/Communication Technology.md",
     "1 - Main notes/GUI.md",
     "1 - Main notes/interasksjonssystemer.md",
-    "1 - Main notes/konseptuell modell.md",
     "4 - Sketch notes",
     "3 - Templates",
     "2 - Tags",
