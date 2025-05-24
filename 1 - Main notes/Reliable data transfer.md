@@ -33,8 +33,10 @@ In this model the sender must wait for the receiving of the ACK or NAK. And when
 #### The fatal flaw
 There is also one fatal flow of the model; what if the ACK is corrupted. In this case the sender would be left hanging, and the entire system would crumble down. 
 
+The solution is that if the sender gets bad ACK or NAK then it would resend. Every packet would also have a sequence number so that 
 
-## rdt2.1: handling **bad ACKs/NAKs
+
+## rdt2.1: handling **bad** ACKs/NAKs
 To handle bad NAKs and ACKs, the sender should send sequence number with every packet. If the sender ever receives the bad NAK or ACK it will always resend the packet. Therefore the client also have to know what packet is current state, and discard any duplicates. This way we know that the information will be complete. 
 In the case there is only needed two sequence numbers, because the protocol uses stop-and-wait so it will only be one packet at a time.
 
