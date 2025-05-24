@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/sockets.md",
+                "file": "1 - Main notes/Application layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sockets"
+              "title": "Application layer"
             }
           },
           {
@@ -217,10 +217,10 @@
   },
   "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
-    "1 - Main notes/Simple mail transfer protocol.md",
-    "1 - Main notes/Domain name system.md",
     "1 - Main notes/Application layer.md",
     "1 - Main notes/sockets.md",
+    "1 - Main notes/Domain name system.md",
+    "1 - Main notes/Simple mail transfer protocol.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "4 - Sketch notes/Study plan.md",
     "1 - Main notes/Transport control protocol.md",
