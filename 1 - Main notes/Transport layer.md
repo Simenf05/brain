@@ -12,7 +12,7 @@ An analogy to this layer could be that if there was two houses with 12 children,
 
 ### Transport layer protocols: TCP and UDP
 
-The main two transport protocols is [[tcp|TCP]] and [[udp|UDP]]. They both divide the message to send up into ==segment==.
+The main two transport protocols is [[tcp|TCP]] and [[User datagram protocol|UDP]]. They both divide the message to send up into ==segment==.
 The difference between them is that TCP is connection-oriented and UDP is not. UDP does not require the processes to handshake and has no guarantee that it is reliable. TCP fixes this by implementing connection-oriented communication. With this it can guarantee that all segments will be sent and received. 
 
 ### [[Multiplexing and demultiplexing]]

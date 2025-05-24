@@ -10,7 +10,7 @@ Tags: #communication #technology #transportlayer #applicationlayer #networklayer
 	- [[Hypertext transfer protocol|HTTP]], [[Domain name system|DNS]], SMTP, IMAP
 	- Is the protocols that power applications
 2. Transport layer
-	- [[tcp|TCP]], [[udp|UDP]]
+	- [[tcp|TCP]], [[User datagram protocol|UDP]]
 	- Can implement [[Reliable data transfer|reliable data transfer]]
 	- Data on the layer is called *segments*
 3. Networking layer
