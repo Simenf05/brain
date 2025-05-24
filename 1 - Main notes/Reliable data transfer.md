@@ -13,13 +13,13 @@ Sender:
 - The sender does not know the state of the receiver, so this has to be communicated.
 
 ---
-## rdt1.0: transfer over a ==reliable channel==
+## rdt1.0: transfer over a reliable channel
 
 We will first consider both the sender and receiver as finite state machines, and the channel used will be a perfectly reliable channel. This means that there can be no bit error or packet loss. 
 In this example the transfer control is easy. For we only have to send the message in the channel has to receive it. This is almost never the case tho. 
 
 ---
-## rdt2.0: channel with ==bit errors==
+## rdt2.0: channel with bit errors
 
 In this example the channel is not perfect, and it might flip bits in packets. This means that when a packet is sent, any part of that packet might not contain the right bits. In many scenarios broken packet cannot be used for anything and therefore we need to prevent them. 
 ### The real question; how to recover from errors?
@@ -34,7 +34,7 @@ In this model the sender must wait for the receiving of the ACK or NAK. And when
 There is also one fatal flow of the model; what if the ACK is corrupted. In this case the sender would be left hanging, and the entire system would crumble down. 
 
 
-## rdt2.1: handling bad ACKs/NAKs
+## rdt2.1: handling **bad ACKs/NAKs
 To handle bad NAKs and ACKs, the sender should send sequence number with every packet. If the sender ever receives the bad NAK or ACK it will always resend the packet. Therefore the client also have to know what packet is current state, and discard any duplicates. This way we know that the information will be complete. 
 In the case there is only needed two sequence numbers, because the protocol uses stop-and-wait so it will only be one packet at a time.
 

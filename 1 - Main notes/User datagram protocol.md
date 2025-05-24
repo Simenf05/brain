@@ -33,4 +33,5 @@ To calculate the checksum you would need to first treat the segment as 16 bit in
 ```
 
 This is now the final checksum that we add to the header of the UDP segment.
+It is important to state that even though the checksum matches at the receivers end, the data might still be corrupted. There is edge cases where two flipped bits still let the checksum turn out the same, and this is part of the reason that UDP is unreliable. 
 ## References
