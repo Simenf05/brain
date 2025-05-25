@@ -1,3 +1,8 @@
+---
+aliases:
+  - udp
+---
+
 2025-02-23 15:45
 
 Status: #in-writing 
