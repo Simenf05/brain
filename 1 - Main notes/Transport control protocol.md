@@ -8,7 +8,6 @@ Tags: #communication #tcp #transportlayer #demultiplexing #multiplexing #rdt #it
 ### Overview of tcp
 TCP is one of the most used protocols and is the backbone of [[Hypertext transfer protocol|http]], [[Simple mail transfer protocol|smtp]] and many more [[application layer]] protocols. The reason for this is that it provides a reliable interface to send form one-to-one over the unreliable network. The protocol does not provide message sending like [[User datagram protocol|udp]], but a full in-order byte tunnel for sending. It also provides full duplexing of data and allows sending in both directions. This protocol really is the best thing ever invented. 
 The protocol uses cumulative ACKs like [[go-back-N]], and also pipe-lining and flow control to not overwhelm the receiver. TCP is connection oriented so it will require a handshake before any data can be sent.
-
 ### TCP segment structure
 
 | 16 bit                             |          | 8 bit    | 16 bit               |
@@ -20,10 +19,28 @@ The protocol uses cumulative ACKs like [[go-back-N]], and also pipe-lining and f
 | checksum                           |          |          | urg data pointer<br> |
 | options<br>                        |          |          |                      |
 | application data (variable length) |          |          |                      |
-
 ### TCP timeout values
+The easiest way to estimate the value for the timeout is to base it upon the [[round trip time]]. To do this we just start a timer when the segment is sent and measure how long it takes before the ACK is received. But this value may vary by a lot, one segment might be faster than normal, and now you have a timeout that times out prematurely. If that one segment is too slow we might be losing a lot of time with the protocol. Therefore an estimated average is used, described by this formula:
 
+$$
+EstimatedRTT = (1-\alpha) * EstimatedRTT + \alpha*SampleRTT
+$$
 
+Alpha is often 1.25 here. And this makes it so that the change in the average decreases exponentially based on the previous values. This way we get a stable average for the timeout values at the sender. To calculate the final timeout value we still need a safety margin and the formula for the timeout is as follows:
+
+$$
+TimeoutInterval = EstimatedRTT + 4*DeviationRTT
+$$
+where:
+$$
+DeviationRTT = (1-\beta)*DeviatoinRTT + \beta * \lvert SampleRTT-EstimaedRTT\rvert
+$$
+#### MultiACK
+If the receiver receives a segment it can wait up to 500 ms to wait and see if any other segments is received. The reason for this is that TCP uses accumulative ACK and that means that one ACK greater than the one that is expected for the client will ACK all the previous unACKed segments. 
+#### TCP fast re-transmit
+If the sender receives three ACKs for the same sequence number, then it will start sending from there. This is because in the receiver specification they will ACK the last sequence that was good until the next is received. This way the sender dont need to wait for the timeout all the time, and can start sending faster. 
+### Flow control
+The motivation for flow control is that we need to not overwhelm the receiving process at the [[application layer]]. If the 
 
 
 ## References
