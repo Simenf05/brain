@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Reliable data transfer.md",
+                "file": "1 - Main notes/Transmission control protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reliable data transfer"
+              "title": "Transmission control protocol"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Transport control protocol.md",
+                "file": "1 - Main notes/Congestion control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Transport control protocol"
+              "title": "Congestion control"
+            }
+          },
+          {
+            "id": "d9244cd864baad41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Maximum segment size.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maximum segment size"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#transportlayer",
+                "query": "\"transport control protocol\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +132,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -201,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,36 +237,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c5dc3dfaf3eea0",
+  "active": "0e65eba5daea50b7",
   "lastOpenFiles": [
-    "1 - Main notes/Reliable data transfer.md",
-    "1 - Main notes/Transport control protocol.md",
-    "1 - Main notes/Application layer.md",
+    "1 - Main notes/Congestion control.md",
+    "1 - Main notes/Maximum segment size.md",
     "1 - Main notes/User datagram protocol.md",
+    "1 - Main notes/round trip time.md",
+    "1 - Main notes/Packet switching.md",
+    "1 - Main notes/Transport layer.md",
+    "1 - Main notes/Reliable data transfer.md",
+    "1 - Main notes/sockets.md",
+    "1 - Main notes/Transmission control protocol.md",
+    "1 - Main notes/Hypertext transfer protocol.md",
+    "1 - Main notes/Layers in the networking.md",
+    "1 - Main notes/ARP.md",
+    "1 - Main notes/Address resolution protocol.md",
+    "1 - Main notes/TCP-finite-state-machine.png",
+    "1 - Main notes/TCP-handshake.png",
+    "1 - Main notes/Application layer.md",
     "1 - Main notes/Multiplexing and demultiplexing.md",
     "4 - Sketch notes/KTN - 24.02.25.md",
     "4 - Sketch notes/KTN - 17.02.25.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
-    "1 - Main notes/sockets.md",
     "1 - Main notes/Domain name system.md",
     "1 - Main notes/Simple mail transfer protocol.md",
-    "1 - Main notes/Hypertext transfer protocol.md",
     "4 - Sketch notes/Study plan.md",
-    "1 - Main notes/Transport layer.md",
     "1 - Main notes/Performance in networks.md",
     "1 - Main notes/2025-05-22.md",
-    "1 - Main notes/Layers in the networking.md",
     "1 - Main notes/Network Security.md",
     "1 - Main notes/traceroute.md",
-    "1 - Main notes/round trip time.md",
-    "1 - Main notes/Packet switching.md",
     "4 - Sketch notes/last lecture ktn.md",
     "Untitled",
-    "4 - Sketch notes/KTN - 13.03.25.md",
-    "4 - Sketch notes/KTN - 10.03.25.md",
     "Untitled.canvas",
-    "4 - Sketch notes/KTN - 03.03.25.md",
-    "1 - Main notes/rtt.md",
     "4 - Sketch notes",
     "3 - Templates",
     "2 - Tags",

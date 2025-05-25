@@ -10,7 +10,7 @@ Tags: #communication #technology #transportlayer #applicationlayer #networklayer
 	- [[Hypertext transfer protocol|HTTP]], [[Domain name system|DNS]], SMTP, IMAP
 	- Is the protocols that power applications
 2. Transport layer
-	- [[tcp|TCP]], [[User datagram protocol|UDP]]
+	- [[Transmission control protocol|TCP]], [[User datagram protocol|UDP]]
 	- Can implement [[Reliable data transfer|reliable data transfer]]
 	- Data on the layer is called *segments*
 3. Networking layer
@@ -19,7 +19,7 @@ Tags: #communication #technology #transportlayer #applicationlayer #networklayer
 	- Makes sure the *datagrams* is routed right, but not reliably
 	- This is host to host while transport layer is process to process
 4. Link layer
-	- [[ARP]]
+	- [[Address resolution protocol|ARP]]
 	- Sending between links on the network 
 	- Data on this layer is called a *frame* 
 5. Physical layer

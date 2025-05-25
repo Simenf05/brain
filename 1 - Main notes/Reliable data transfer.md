@@ -5,7 +5,7 @@ Tags: #rdt #it #communication #transportlayer #tcp #roundtriptime
 
 # Reliable data transfer
 
-The reliable data transfer protocol can be divided up into many iterations of the same idea; ensure reliable end to end communication. Therefore this page will have sections that build upon each other, and at the end conclude by referencing the transport control protocol that is used today. 
+The reliable data transfer protocol can be divided up into many iterations of the same idea; ensure reliable end to end communication. Therefore this page will have sections that build upon each other, and at the end conclude by referencing the [[transmission control protocol]] that is used today. 
 
 The idea behind reliable data transfer is that the sending process and the receiving process should both have an interface that in some way ensures the completeness of the message. This is done by having a standard for what to send in the unreliable channel, and evaluating the results. 
 
@@ -42,7 +42,7 @@ In the case there is only needed two sequence numbers, because the protocol uses
 
 
 ## rdt2.2: the NAKs-less protocol
-Instead of sending NAKs the receiver will send two or three ACKs of the same packet for NAKs. This way the ACKs also have to use sequence numbers, but we can avoid having NAKs at all ([[tcp]] uses this).
+Instead of sending NAKs the receiver will send two or three ACKs of the same packet for NAKs. This way the ACKs also have to use sequence numbers, but we can avoid having NAKs at all ([[Transmission control protocol|tcp]] uses this).
 
 ---
 ## rdt3.0: channels with **error** and **loss**

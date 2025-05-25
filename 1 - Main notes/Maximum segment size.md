@@ -1,14 +1,13 @@
 ---
 aliases:
-  - rtt
+  - MSS
 ---
-
-2025-05-25 13:21
+2025-05-25 13:32
 
 Status:
 Tags:
 
-# round trip time
+# Maximum segment size
 
 
 

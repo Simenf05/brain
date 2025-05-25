@@ -1,3 +1,10 @@
+---
+aliases:
+  - packet switches
+  - packet switch
+  - router
+---
+
 2025-05-20 11:52
 
 Status:

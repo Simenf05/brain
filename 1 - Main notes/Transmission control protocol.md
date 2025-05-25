@@ -1,13 +1,25 @@
+---
+aliases:
+  - tcp
+tags:
+  - communication
+  - "#tcp"
+  - transportlayer
+  - demultiplexing
+  - multiplexing
+  - rdt
+  - it
+  - http
+  - smtp
+  - ftp
+  - in-writing
+---
 2025-05-24 18:34
-
-Status: #in-writing 
-Tags: #communication #tcp #transportlayer #demultiplexing #multiplexing #rdt #it #http 
-
-# Transport control protocol
+# Transmission control protocol
 
 ### Overview of tcp
 TCP is one of the most used protocols and is the backbone of [[Hypertext transfer protocol|http]], [[Simple mail transfer protocol|smtp]] and many more [[application layer]] protocols. The reason for this is that it provides a reliable interface to send form one-to-one over the unreliable network. The protocol does not provide message sending like [[User datagram protocol|udp]], but a full in-order byte tunnel for sending. It also provides full duplexing of data and allows sending in both directions. This protocol really is the best thing ever invented. 
-The protocol uses cumulative ACKs like [[go-back-N]], and also pipe-lining and flow control to not overwhelm the receiver. TCP is connection oriented so it will require a handshake before any data can be sent.
+The protocol uses cumulative ACKs like [[Reliable data transfer#Go-Back-N|go-back-N]], and also pipe-lining and flow control to not overwhelm the receiver. TCP is connection oriented so it will require a handshake before any data can be sent.
 ### TCP segment structure
 
 | 16 bit                             |          | 8 bit    | 16 bit               |
@@ -45,5 +57,18 @@ The motivation for flow control is that we do not want to overwhelm the receivin
 The way the receiver communicates the amount of data it can receive is with the receive window field in the header. This will update the sender so that it never sends any more than the window can handle. This can be transmitted on ACKs from the receiver. 
 
 ### TCP connection management 
+Because the transmission control protocol is a connection oriented protocol it needs to have some shared state between the sender and the receiver, or the initiator and the listener. Both need to know that the connection is established and to listen for segments. This is done by a handshake in the protocol. TCP uses a 3-way handshake to establish a connection. This handshake goes as follows:
+
+![Diagram showing tcp handshake](./TCP-handshake.png)
+
+First the initiator will send a TCP SYN message and goes into SYN SENT state, and after that the server will reply with SYNACK and go into SYN RECEIVED state. Then the initiator will og to ESTAB state meaning ESTABLISHED, and send the ACK to the server. When the server receives this it is also in the ESTAB state.
+
+To close the tcp connection the the FIN bit is used. When this bit is sent, the other part will send ACK for that and wait for the application process to close. After this it sends the FIN bit and waits for the last ACK. On the other side it will either receive the FIN or the ACK first. If the ACK is first then it will wait for the FIN and after that ACK it and close. If the FIN is first then it will ACK the FIN and wait for the last ACK. After this both parts is closed.
+## The final [[finite state machine]] for TCP:
+
+![The whole finite state machine for tcp](./TCP-finite-state-machine.png)
+
+### Congestion control
+For reading more about congestion control in tcp, check out [[Congestion control#Congestion control in Transmission control protocol tcp|this]].
 
 ## References
