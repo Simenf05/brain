@@ -66,15 +66,9 @@ But how do we handle the loss and knowing what to re-transmit? There is two solu
 - Selective repeat
 
 ### Go-Back-N
-The first option is to use a method called go-back-n. In this model the sender has a window of up to N transmitted but unACKed packet. 
-
+The first option is to use a method called go-back-n. In this model the sender has a window of up to N transmitted but unACKed packet. When the sender does not receive a ACK and the timer runs out, the sender will start sending from the packet that was not ACKed. This way it can assure that all the packets will be sent properly.
 ### Selective repeat
-
-
-
-
-
-
+Selective repeat is similar to go-back-n, but the receiver will buffer all the packets that it receives out of order. This way they dont need to be sent multiple times. The buffered packets will still be ACKed, but the sender will have a timeout on the missing ACK. When this timeout triggers for the sender it will resend the missing packet. When the receiver receives the missing packet it will deliver that and all the following packet. 
 
 
 
