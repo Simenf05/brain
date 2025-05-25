@@ -24,7 +24,9 @@ $$
 ssthresh = \frac{cwnd}{2}
 $$
 
-
+![Graph showing how both TCP reno and TCP tahoe resets after loss.](./Congestion-control-threshold.png)
+#### TCP CUBIC 
+The CUBIC implementation of the tcp congestion control is almost the same as the [[#AIMD Additive Increase Multiplicative Decrease|AIMD]] implementation. But when the rate is cut in half it increases the rates differently. It starts by picking a point forward in time K. Then it would increase the rate by the cube of the difference between the current time and K. With this function we get to the last loss much faster, and this is better because it is more likely that sending rate is the bottleneck. This is the version of tcp that is implemented in the [[linux]] implementation of tcp found [here](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/net/ipv4/tcp.c). 
 
 
 ## References

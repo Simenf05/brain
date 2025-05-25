@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "1 - Main notes/Congestion control.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -79,7 +79,8 @@
               "title": "Maximum segment size"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,12 +133,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -224,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,8 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e65eba5daea50b7",
+  "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
+    "1 - Main notes/Congestion-control-threshold.png",
+    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Congestion control.md",
     "1 - Main notes/Maximum segment size.md",
     "1 - Main notes/User datagram protocol.md",
@@ -247,7 +251,6 @@
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/sockets.md",
-    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Layers in the networking.md",
     "1 - Main notes/ARP.md",
@@ -266,7 +269,6 @@
     "1 - Main notes/2025-05-22.md",
     "1 - Main notes/Network Security.md",
     "1 - Main notes/traceroute.md",
-    "4 - Sketch notes/last lecture ktn.md",
     "Untitled",
     "Untitled.canvas",
     "4 - Sketch notes",
