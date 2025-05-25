@@ -1,18 +1,14 @@
 ---
 aliases:
-  - packet switches
-  - packet switch
-  - router
+  - routing
 ---
 
 2025-05-20 11:52
 
 Status:
-Tags: #communication #it #transportlayer #tcp #udp 
+Tags: #communication #it #networklayer #routing #router #packetswitch #packet
 
 # Packet switching
-
-
 #### Packet switches
 The network core consists of devices that forward messages from one end to the other. These are usually referred to as routers or packet switches. A packet switches job is to receive packets from one link, and then to read the headers in that packet to then send it to another link. 
 
