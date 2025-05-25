@@ -40,7 +40,10 @@ If the receiver receives a segment it can wait up to 500 ms to wait and see if a
 #### TCP fast re-transmit
 If the sender receives three ACKs for the same sequence number, then it will start sending from there. This is because in the receiver specification they will ACK the last sequence that was good until the next is received. This way the sender dont need to wait for the timeout all the time, and can start sending faster. 
 ### Flow control
-The motivation for flow control is that we need to not overwhelm the receiving process at the [[application layer]]. If the 
+The motivation for flow control is that we do not want to overwhelm the receiving process at the [[application layer]]. If the [[sockets]] buffer is overflowed at the receivers end it will start to drop data, and this can be detrimental to the process. Therefore it is important that the sender controls how much is sent at any given time. This is called flow control. 
 
+The way the receiver communicates the amount of data it can receive is with the receive window field in the header. This will update the sender so that it never sends any more than the window can handle. This can be transmitted on ACKs from the receiver. 
+
+### TCP connection management 
 
 ## References
