@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/The data plane (networking).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The data plane (networking)"
-            }
-          },
-          {
-            "id": "43c5dc3dfaf3eea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1 - Main notes/Dynamic Host Configuration Protocol.md",
                 "mode": "source",
                 "source": false,
@@ -48,11 +24,35 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
               "title": "Dynamic Host Configuration Protocol"
+            }
+          },
+          {
+            "id": "43c5dc3dfaf3eea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Internet protocol.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Internet protocol"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip",
+                "query": "img",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,16 +242,17 @@
   },
   "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
-    "1 - Main notes/Internet protocol.md",
     "1 - Main notes/Dynamic Host Configuration Protocol.md",
+    "1 - Main notes/Transmission control protocol.md",
+    "1 - Main notes/Internet protocol.md",
+    "1 - Main notes/DHCP-message-flow.png",
+    "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/Domain name system.md",
     "1 - Main notes/IP.md",
-    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/IP-datagram-format.png",
     "1 - Main notes/Router.md",
     "1 - Main notes/Maximum segment size.md",
-    "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/Networking layer.md",
     "1 - Main notes/Packet switching.md",
@@ -269,7 +270,6 @@
     "1 - Main notes/sockets.md",
     "1 - Main notes/Layers in the networking.md",
     "1 - Main notes/ARP.md",
-    "1 - Main notes/Address resolution protocol.md",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/TCP-handshake.png",
     "Untitled",
