@@ -47,7 +47,15 @@ If the switching fabric is sending at a rate of NR to one link but that link onl
 There is many ways of dealing with too much input in the buffer without the output link being able to transmit fast enough. When the buffer is full and all the new packets arriving are dropped is called **tail dropping**. Another policy for dropping can be based on priority of the packets. Some packets might have a higher priority, and then the low priority packets re dropped. 
 #### Packet scheduling 
 Packet scheduling is the way to determine what packet is transmitted to the link first, and there is many different ways of schedule the packets. 
-##### First come first served 
-This is the most simple 
+##### First-come-first-served (FCFS)
+<sup>Also known as First-in-first-out (FIFO)</sup>
+This is the most simple way to deal with packet scheduling, and the most normal way we queue as humans. When we enter the queue we go to the back and wait for all the others to be done. This way the first one to arrive in the queue gets served first and the rest has to wait. 
+##### Priority queue 
+The priority queue works a lot like the queues at airports, where there is a premium queue for the people paying more. This is done with packets and any field in the header can determine what packets get priority and not. For example the ISP might decide that packets from a certain ip address has a higher priority and then they get priority. With priority queue all the low priority packets have to wait for the high priority packets to be sent. Within the separated queues the packets use the FCFS scheduling. 
+##### Round robin (RR)
+This type of scheduling works a lot like priority queuing, but there is a major difference. Instead of the lower priority having to wait for all the higher priority the service is alternated through all the queues. Traffic is still classified into different queues but this ensures that all packets eventually get service, even the low priority ones. 
+##### Weighted fair queuing 
+
+
 
 
