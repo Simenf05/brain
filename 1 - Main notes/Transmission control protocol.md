@@ -1,6 +1,7 @@
 ---
 aliases:
   - tcp
+  - TCP
 tags:
   - communication
   - "#tcp"

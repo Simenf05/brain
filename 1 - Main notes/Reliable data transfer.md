@@ -1,8 +1,8 @@
 ---
 aliases:
   - rdt
+  - RDT
 ---
-
 2025-02-23 16:19
 
 Status: #in-writing

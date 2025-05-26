@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Internet protocol.md",
+                "file": "1 - Main notes/Dynamic Host Configuration Protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Internet protocol"
+              "title": "Dynamic Host Configuration Protocol"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Reliable data transfer.md",
+                "file": "1 - Main notes/Transmission control protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reliable data transfer"
+              "title": "Transmission control protocol"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,12 +242,15 @@
   },
   "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
+    "1 - Main notes/Internet protocol.md",
+    "1 - Main notes/Dynamic Host Configuration Protocol.md",
+    "1 - Main notes/Domain name system.md",
+    "1 - Main notes/IP.md",
+    "1 - Main notes/Transmission control protocol.md",
+    "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/IP-datagram-format.png",
     "1 - Main notes/Router.md",
-    "1 - Main notes/Internet protocol.md",
-    "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Maximum segment size.md",
-    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/Networking layer.md",
@@ -269,8 +272,6 @@
     "1 - Main notes/Address resolution protocol.md",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/TCP-handshake.png",
-    "4 - Sketch notes/KTN - 24.02.25.md",
-    "4 - Sketch notes/KTN - 17.02.25.md",
     "Untitled",
     "Untitled.canvas",
     "4 - Sketch notes",

@@ -30,7 +30,7 @@ Every record follows this order: (name, value, type, [[time to live|ttl]])
 
 - Type A
 	- name is hostname
-	- value is ip
+	- value is [[Internet protocol|ip]]
 - Type NS
 	- name is domain name
 	- value is hostname for authoritative name server for this domain
