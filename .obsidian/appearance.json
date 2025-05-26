@@ -1,5 +1,6 @@
 {
   "cssTheme": "",
-  "monospaceFontFamily": "SauceCodePro Nerd Font",
-  "showRibbon": true
+  "monospaceFontFamily": "SauceCodePro Nerd Font Mono",
+  "showRibbon": true,
+  "textFontFamily": ""
 }
