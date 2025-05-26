@@ -7,7 +7,7 @@ aliases:
 2025-05-26 15:48
 
 Status: #in-writing 
-Tags: #communication #networklayer #it #ip #ipv4 #ipv6 
+Tags: #communication #networklayer #it #ip #ipv4 #ipv6 #dhcp
 
 # Dynamic Host Configuration Protocol
 DHCP is the protocol responsible for distributing ip addresses to hosts on a network. The protocol consists of a DHCP server and hosts on the network. On home networks the DHCP server is often the home router and this service is enabled by default. The goal with DHCP is that new hosts joining the network automatically can get assigned a unused ip, and for old hosts can be reassigned the same ip for each time they leave or rejoin the network. 

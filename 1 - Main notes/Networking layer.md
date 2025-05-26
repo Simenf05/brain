@@ -1,7 +1,7 @@
 2025-05-25 15:02
 
 Status:
-Tags: #communication #networklayer #it #ip-address #ip #ipv4 #ipv6
+Tags: #communication #networklayer #it #ip-address #ip #ipv4 #ipv6 #nat #router #dhcp
 
 # Networking layer
 The networking layer consists of two main parts: 
