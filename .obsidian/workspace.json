@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Router.md",
+                "file": "1 - Main notes/Internet protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Router"
+              "title": "Internet protocol"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Maximum segment size.md",
+                "file": "1 - Main notes/Reliable data transfer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maximum segment size"
+              "title": "Reliable data transfer"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"transport control protocol\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,10 +242,11 @@
   },
   "active": "43c5dc3dfaf3eea0",
   "lastOpenFiles": [
-    "1 - Main notes/Transmission control protocol.md",
-    "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Router.md",
+    "1 - Main notes/Internet protocol.md",
+    "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Maximum segment size.md",
+    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/Networking layer.md",
@@ -269,7 +271,6 @@
     "4 - Sketch notes/KTN - 24.02.25.md",
     "4 - Sketch notes/KTN - 17.02.25.md",
     "4 - Sketch notes/KTN - 10.02.25.md",
-    "1 - Main notes/Domain name system.md",
     "Untitled",
     "Untitled.canvas",
     "4 - Sketch notes",

@@ -54,7 +54,15 @@ This is the most simple way to deal with packet scheduling, and the most normal 
 The priority queue works a lot like the queues at airports, where there is a premium queue for the people paying more. This is done with packets and any field in the header can determine what packets get priority and not. For example the ISP might decide that packets from a certain ip address has a higher priority and then they get priority. With priority queue all the low priority packets have to wait for the high priority packets to be sent. Within the separated queues the packets use the FCFS scheduling. 
 ##### Round robin (RR)
 This type of scheduling works a lot like priority queuing, but there is a major difference. Instead of the lower priority having to wait for all the higher priority the service is alternated through all the queues. Traffic is still classified into different queues but this ensures that all packets eventually get service, even the low priority ones. 
-##### Weighted fair queuing 
+##### Weighted fair queuing (WFQ)
+In round robin every queue gets the same amount of service each time, but with weighted fair queuing this is determined by a weight $w_i$. Often the sum of $w_i$ will add up to 1 and we get this formula: 
+$$
+QueueService_i=\frac{w_i}{\sum_j{w_j}}
+$$
+If $\sum_j{w_j}=1$ then the link bandwidth per queue is:
+$$
+BandwidthPerQueue = {R}*{w_i}
+$$
 
 
 
