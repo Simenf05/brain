@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/The control plane (networking).md",
+                "file": "1 - Main notes/Routing algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The control plane (networking)"
+              "title": "Routing algorithms"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "81720eb706d5f923",
   "lastOpenFiles": [
-    "1 - Main notes/Networking layer.md",
     "1 - Main notes/The control plane (networking).md",
+    "1 - Main notes/Routing algorithms.md",
+    "1 - Main notes/Networking layer.md",
     "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Dynamic Host Configuration Protocol.md",
@@ -223,7 +224,6 @@
     "3 - Templates/Main note.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "4 - Sketch notes/Study plan.md",
-    "1 - Main notes/http.md",
     "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/TCP-handshake.png",
