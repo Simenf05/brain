@@ -17,9 +17,23 @@ Dijkstra's algorithm works by finding the shortest path from one node to all the
 The computational complexity we get with using [[Dijkstra's algorithm]] is $O(n^2)$ for n nodes. And for the message complexity we also get $O(n^2)$. For the computational complexity will it be possible to reach a better complexity with different algorithms and the best is $O(n\log{n})$.
 ## Distance vector routing
 The other type of routing algorithm is "distance vector" algorithms, and these are more distributed and work in an iterative manner. For each iteration they will exchange information with neighbors and improve the routing. With this they get a distance vector representing different routing paths. 
-### Bellman-Ford algorithm
+### [[Bellman-Ford algorithm]]
+The Bellman-Ford algorithm is a distributed algorithm based on the [[Bellman-Ford algorithm#Bellman-Ford equation|Bellman-Ford equation]] and uses a recursive approach and therefore it is [[Dynamic programming|dynamic programming]]. The Bellman-Ford equation is really simple, and that is part of what makes it smart:
+$$
+D_x(y)=\min\nolimits_v({c_{x,v} + D_v(y)})
+$$
+The algorithm will propagate over a network of routers, where every router only needs to know what is called the *distance vector* for that router. The distance vector is like a table containing values for the distance between that router and all other routers. Each time the Bellman-Ford algorithm iterates it will update the distance vectors and try to optimize for the minimum cost. In practice this makes it a very effective algorithm for determining the routing on a network, because not every router needs to know the exact shortest path from itself to every other node. 
+#### The flow of Bellman-Ford
+The algorithm has 3 simple steps:
+1. Wait for neighbor to change its distance vector
+2. Recompute its own distance vector
+3. If distance vector has changed notify neighbors and repeat
 
+With only these three steps all the nodes in the network update all the distance vectors and create the best forwarding tables. 
 
-
-
+#### Issues with Bellman-Ford routing
+There are some downsides to using this algorithm:
+- Count-to-infinity problem, where one change in the network can cause all the routers to start changing the distance vectors
+- It is also possible to have routing loops
+- Nodes that falsely advertise a short path to one node can end up as black holes
 
