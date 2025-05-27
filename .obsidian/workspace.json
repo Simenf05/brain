@@ -59,10 +59,24 @@
             "id": "61b1fbc1a6e313a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Networking layer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Networking layer"
             }
           }
         ],
@@ -229,6 +243,7 @@
   "active": "41b4d1a4e28e8c87",
   "lastOpenFiles": [
     "1 - Main notes/Internet control message protocol.md",
+    "1 - Main notes/Networking layer.md",
     "1 - Main notes/Link layer.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Internet protocol.md",
@@ -240,7 +255,6 @@
     "1 - Main notes/Routing algorithms.md",
     "1 - Main notes/Congestion control.md",
     "1 - Main notes/The control plane (networking).md",
-    "1 - Main notes/Networking layer.md",
     "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/Dynamic Host Configuration Protocol.md",
     "2 - Tags/communication index.md",
