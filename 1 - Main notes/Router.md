@@ -22,7 +22,7 @@ In this type of forwarding table the destination is determined by a set of range
 | otherwise                                                                                         | 3                     |
 
 The problem with this can be that it might get complicated when certain links needs extra configuration. And that is why we have longest prefix matching.
-##### Longest prefix matching
+###### Longest prefix matching
 With longest prefix matching the last part of the table ip ranges will instead be wildcards. In practice this means that any ip with the same start can match on a link. But this is where the longest prefix matching is relevant. Because it will always match with the table row that has the least wildcards. This way the links can be as specific as the need to be but also as generic as they need. And it will always match the right link. 
 
 | Longest prefix matching                   | IP link interface<br> |
@@ -32,6 +32,14 @@ With longest prefix matching the last part of the table ip ranges will instead b
 | ```******** ******** ******** ********``` | 3                     |
 In this example the ip ```11001000 00010111 00010000 00110011``` would be sent to the first link since it has the longest prefix and matches. For every ip that does not match either link 1 or link 2 would be forwarded to link 3. 
 For the longest prefix matching it is often used a #technology called ternary content addressable memory (TCAM) , which can retrieve the link from the table in one [[clock cycle]] no matter how big the table is. 
+#### Generalized forwarding
+Generalized forwarding is a newer way of designing the forwarding tables for routers. With this approach we generalize the [[#forwarding table]]. That way we instead of only looking at the destination ip address to determining where to forward the datagram, we also allow other fields in the header to impact the forwarding. The action that is performed on the datagram is also generalized to allow for more nuance. 
+All action s that can be performed on the datagram:
+- drop
+- modify
+- forward
+- send to controller
+This way the routers can be configured to respond differently to different types of datagrams, and for example drop everything from certain addresses. This can be useful for maintenance and logging. OpenFlow is a standard of the generalized forwarding approach and with it routers can match actions with headers from [[link layer]], [[networking layer]] and the [[transport layer]].
 #### Switching fabric
 The switching fabric is the part that links the input link and output link. This is done by moving the packet from one link to the other. Switching fabric has a switching rate that determines how much it manages to switch at a certain time. If there is N ports and they each have a rate of R, then the optimal switching rate would be NR. But this might be expensive and therefore cheaper routers might not have this good switching rate. If the switching rate is not sufficient to handle the amount of traffic, then the input links will start to build up queues, and this is referred to as input port queuing. There exists three main ways for the switching fabric and they each have different levels of switching rates. 
 ##### Memory switching

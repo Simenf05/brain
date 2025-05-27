@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Dynamic Host Configuration Protocol.md",
-                "mode": "preview",
+                "file": "1 - Main notes/Router.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dynamic Host Configuration Protocol"
+              "title": "Router"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#it",
+                "query": "\"# forwarding\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,6 +193,7 @@
   },
   "active": "81720eb706d5f923",
   "lastOpenFiles": [
+    "1 - Main notes/Dynamic Host Configuration Protocol.md",
     "2 - Tags/ip.md",
     "2 - Tags/communication index.md",
     "2 - Tags/it.md",
@@ -199,7 +201,6 @@
     "Untitled.canvas",
     "1 - Main notes/Application layer.md",
     "1 - Main notes/Internet protocol.md",
-    "1 - Main notes/Dynamic Host Configuration Protocol.md",
     "1 - Main notes/IPv4-datagram-format.png",
     "1 - Main notes/IPv6-datagram-format.png",
     "1 - Main notes/Network address translation.md",
