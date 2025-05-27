@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Router.md",
+                "file": "1 - Main notes/The control plane (networking).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Router"
+              "title": "The control plane (networking)"
             }
           }
         ]
@@ -193,6 +193,10 @@
   },
   "active": "81720eb706d5f923",
   "lastOpenFiles": [
+    "1 - Main notes/Networking layer.md",
+    "1 - Main notes/The control plane (networking).md",
+    "1 - Main notes/The data plane (networking).md",
+    "1 - Main notes/Router.md",
     "1 - Main notes/Dynamic Host Configuration Protocol.md",
     "2 - Tags/ip.md",
     "2 - Tags/communication index.md",
@@ -205,17 +209,13 @@
     "1 - Main notes/IPv6-datagram-format.png",
     "1 - Main notes/Network address translation.md",
     "1 - Main notes/2025-05-26.md",
-    "1 - Main notes/Networking layer.md",
     "1 - Main notes/Untitled 1.md",
     "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/DHCP-message-flow.png",
-    "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/Domain name system.md",
     "1 - Main notes/IP.md",
     "1 - Main notes/Reliable data transfer.md",
-    "1 - Main notes/Router.md",
     "1 - Main notes/Maximum segment size.md",
-    "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/Packet switching.md",
     "1 - Main notes/Congestion control.md",
     "1 - Main notes/Transport layer.md",
