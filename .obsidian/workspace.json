@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Open Shortest Path First.md",
+                "file": "1 - Main notes/Link layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Open Shortest Path First"
+              "title": "Link layer"
             }
           },
           {
@@ -65,7 +65,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,21 +226,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81720eb706d5f923",
+  "active": "41b4d1a4e28e8c87",
   "lastOpenFiles": [
+    "1 - Main notes/Internet control message protocol.md",
+    "1 - Main notes/Link layer.md",
+    "1 - Main notes/Router.md",
+    "1 - Main notes/Internet protocol.md",
+    "1 - Main notes/Open Shortest Path First.md",
     "1 - Main notes/User datagram protocol.md",
     "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Hypertext transfer protocol.md",
-    "1 - Main notes/Internet protocol.md",
     "2 - Tags/ip.md",
-    "1 - Main notes/Internet control message protocol.md",
     "1 - Main notes/Routing algorithms.md",
-    "1 - Main notes/Open Shortest Path First.md",
     "1 - Main notes/Congestion control.md",
     "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/Networking layer.md",
     "1 - Main notes/The data plane (networking).md",
-    "1 - Main notes/Router.md",
     "1 - Main notes/Dynamic Host Configuration Protocol.md",
     "2 - Tags/communication index.md",
     "2 - Tags/it.md",
@@ -257,7 +259,6 @@
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Maximum segment size.md",
     "1 - Main notes/Packet switching.md",
-    "1 - Main notes/Transport layer.md",
     "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/TCP-handshake.png",
