@@ -6,7 +6,7 @@ aliases:
 2025-02-23 15:45
 
 Status: #in-writing 
-Tags: #it #communication #transportlayer #roundtriptime #technology #udp 
+Tags: #it #communication #transportlayer #roundtriptime #technology #udp #protocol 
 
 # User Datagram Protocol
 The user datagram protocol is a connectionless protocol. This means that there is no need to establish a connection or have handshake between the sender and receiver. UDP is also a best effort protocol, and this means that it will do its best but fail sometimes. There is no guarantee that the message will make it across in order or at all. This is also why the protocol is so simple. It almost only contains destination port and ip. 

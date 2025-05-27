@@ -6,7 +6,7 @@ aliases:
 2025-05-23 11:51
 
 Status: #in-writing 
-Tags: #http #communication #applicationlayer #it #technology #tcp #www
+Tags: #http #communication #applicationlayer #it #technology #tcp #www #protocol 
 
 # Hypertext transfer protocol
 

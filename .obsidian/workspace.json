@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Routing algorithms.md",
+                "file": "1 - Main notes/Internet control message protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Routing algorithms"
+              "title": "Internet control message protocol"
+            }
+          },
+          {
+            "id": "41b4d1a4e28e8c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Open Shortest Path First.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Open Shortest Path First"
+            }
+          },
+          {
+            "id": "61b1fbc1a6e313a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -63,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"# forwarding\"",
+                "query": "ip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,37 +227,37 @@
   },
   "active": "81720eb706d5f923",
   "lastOpenFiles": [
-    "1 - Main notes/The control plane (networking).md",
+    "1 - Main notes/User datagram protocol.md",
+    "1 - Main notes/Transmission control protocol.md",
+    "1 - Main notes/Hypertext transfer protocol.md",
+    "1 - Main notes/Internet protocol.md",
+    "2 - Tags/ip.md",
+    "1 - Main notes/Internet control message protocol.md",
     "1 - Main notes/Routing algorithms.md",
+    "1 - Main notes/Open Shortest Path First.md",
+    "1 - Main notes/Congestion control.md",
+    "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/Networking layer.md",
     "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Dynamic Host Configuration Protocol.md",
-    "2 - Tags/ip.md",
     "2 - Tags/communication index.md",
     "2 - Tags/it.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/Application layer.md",
-    "1 - Main notes/Internet protocol.md",
     "1 - Main notes/IPv4-datagram-format.png",
     "1 - Main notes/IPv6-datagram-format.png",
     "1 - Main notes/Network address translation.md",
     "1 - Main notes/2025-05-26.md",
     "1 - Main notes/Untitled 1.md",
-    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/DHCP-message-flow.png",
     "1 - Main notes/Domain name system.md",
     "1 - Main notes/IP.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Maximum segment size.md",
     "1 - Main notes/Packet switching.md",
-    "1 - Main notes/Congestion control.md",
     "1 - Main notes/Transport layer.md",
-    "1 - Main notes/Multiplexing and demultiplexing.md",
-    "3 - Templates/Main note.md",
-    "1 - Main notes/Hypertext transfer protocol.md",
-    "4 - Sketch notes/Study plan.md",
     "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/TCP-handshake.png",

@@ -7,11 +7,8 @@ Tags: #transportlayer #communication #it #tcp #congestioncontrol
 
 Congestion control is about not overwhelming one router in the network. If that one router receives too many packets on each link then it might fill up the buffer and start dropping packets. If the senders continue to send packets then the network will get congested and re-sending packets is a big waste of throughput. This is part of the reason congestion control is a major concern in communication networks like the internet.
 When there is multiple [[Router|packet switches]] in between each end and if there is high enough congestion, the throughput might go to 0. And this is called a congestion collapse.
-
 ### Two ways of dealing with congestion
 ### End-end congestion control
-This way of dealing with congestion is done by the sender. If the sender experience delays or lost packets, then the sender will adjust the sending rate. That way the routers that might be congested will get less traffic and the packets lost will decrease. This method is used by [[Transmission control protocol|tcp]]. 
-
 ### Network-assisted congestion control
 This is a more direct way of dealing with congestion by the [[Router|router]]. If the router starts getting congested it will indicate the congestion to the ends or might even set sending rate directly. This feedback can help prevent any loss at all. Some of the newer implementations of [[Transmission control protocol|tcp]] have this implemented. 
 ### Congestion control in [[Transmission control protocol|tcp]]

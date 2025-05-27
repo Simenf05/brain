@@ -7,7 +7,7 @@ aliases:
 2025-05-26 13:04
 
 Status: #in-writing 
-Tags: #communication #networklayer #ip #ipv4 #ipv6 #dns #routing 
+Tags: #communication #networklayer #ip #ipv4 #ipv6 #dns #routing #protocol
 
 # Internet protocol
 The internet protocol is the backbone of all communication on the entire internet. Every form of communication is in some way packed into ip datagrams and sent to the link layer. An important thing to remember when talking about the the internet protocol is that it is mainly a way to address the different interfaces on a network. Every interface that is connected to a network has to have an ip address, and routers will use these addresses to route packets through the networks. [[Internet Corporation for Assigned Names and Numbers|ICANN]] is the highest administrator of all the ip addresses in the world, and they distribute them to regional registries that then again redistributes them to [[Internet service provider]]s. For us users are there two versions of ip:
