@@ -14,11 +14,15 @@ Normal parity checking can be expanded to using a column and row based system. I
 ## Checksum
 A checksum can also be used just like how it is used by [[User datagram protocol|udp]], but because there exists stronger alternatives to the checksum its not much in use. For how to compute checksum see this [[User datagram protocol#How to calculate checksum]] and it is important to remember that there might still be error even though the checksum indicates no errors. 
 ## Cyclic redundancy check (CRC)
-
-
-
+A more robust approach to checking the integrity of frames can be done using the cyclic redundancy check. With this test you can be sure of the result up to $r+1$ errors when adding $r$ EDC bits to the frame. CRC works by calculating a $R$ of length $r$ based on a generator $G$. The generator has to be known by both parts of the communication and therefore it is part of the CRC standards. In the CRC32 standard provided by [[Institute of Electrical and Electronics Engineers|IEEE]] does the generator have a length of 32 bits, and with this you can detect all errors less then 32. This is why CRC is used widely in WiFi and ethernet. 
+#### How it works
+Why you have a payload $D$ with $d$ bits of payload and EDC bits $R$ with length of $r$ you will end up with a $DR$ of length $d+r$. When you know $D$ and $R$ we get:
+$$
+DR = D*2^r\oplus{R}
+$$
 
 ## Multiple access control (MAC)
+
 
 ## Addressing
 
