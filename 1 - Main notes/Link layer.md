@@ -24,6 +24,7 @@ To compute R we use this formula:
 $$
 R = remainder[\frac{D*2^r}{G}]
 $$
+When calculating this 
 
 
 ## Multiple access control (MAC)
