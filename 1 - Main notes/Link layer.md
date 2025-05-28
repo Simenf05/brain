@@ -24,10 +24,9 @@ To compute R we use this formula:
 $$
 R = remainder[\frac{D*2^r}{G}]
 $$
-When calculating this 
+When calculating this you would get the $R$ of length $r$.
+## Midium access control (MAC)
 
-
-## Multiple access control (MAC)
 
 
 ## Addressing

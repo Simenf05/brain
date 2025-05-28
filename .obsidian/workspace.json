@@ -244,6 +244,7 @@
   "lastOpenFiles": [
     "1 - Main notes/Internet control message protocol.md",
     "1 - Main notes/Networking layer.md",
+    "1 - Main notes/Address resolution protocol.md",
     "1 - Main notes/Link layer.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Internet protocol.md",
@@ -272,7 +273,6 @@
     "1 - Main notes/IP.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Maximum segment size.md",
-    "1 - Main notes/Packet switching.md",
     "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/TCP-handshake.png",
