@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"flow control\"",
+                "query": "\"checksum\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -240,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41b4d1a4e28e8c87",
+  "active": "0e65eba5daea50b7",
   "lastOpenFiles": [
     "1 - Main notes/Internet control message protocol.md",
     "1 - Main notes/Networking layer.md",
