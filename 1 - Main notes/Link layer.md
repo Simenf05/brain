@@ -20,6 +20,11 @@ Why you have a payload $D$ with $d$ bits of payload and EDC bits $R$ with length
 $$
 DR = D*2^r\oplus{R}
 $$
+To compute R we use this formula:
+$$
+R = remainder[\frac{D*2^r}{G}]
+$$
+
 
 ## Multiple access control (MAC)
 
