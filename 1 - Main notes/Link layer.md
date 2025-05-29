@@ -1,3 +1,8 @@
+---
+aliases:
+  - link layer
+---
+
 2025-05-27 15:52
 
 Status: #in-writing 
@@ -32,18 +37,19 @@ With channel partitioning the main principle is to divide up the shared medium a
 #### Time division multiple access (TDMA)
 This protocol is really simple because it divides the channel into different slots and allocates the slots to the different nodes. That way every node gets $R/M$ for $R$ transmission rate and $M$ nodes. The problem with this approach is that if nodes dont have anything to send the channel will go idle. Therefore if there is many nodes and some of them are idle it will greatly impact the utilization of the channel. 
 #### Frequency division multiple access (FDMA)
-
-
+With frequency division multiple access instead of splitting up the usage in time on the channel, the channel is rather divided based on the frequency used. This way every node can have full access to the channel all the time but at reduced capacity, sadly this approach only works for certain mediums, [read more here](https://www.geeksforgeeks.org/frequency-division-multiple-access-fdma-techniques/).
 ### Random access
-
+In the random access protocols we just hope that the channel inst busy. That way we still have a risk of getting collision on the channel, which will result in none of the frames being transmitted correctly. Random access protocols define how to detect when there is collision and how to recover from it, this is done by re-transmitting at a random later interval. 
+#### ALOHA 
+The ALOHA protocol was one of the first protocols to put the random in random access, and this is because it chooses a random time to try re-transmission. In this protocol all the frames are the same size and time is divided into equal time slots of the time it takes to transmit one frame. Then the nodes will try to transmit at the start of time slot, and if two or more nodes transmit in a single time slot we get collision. But this is part of the protocol, because then all the nodes that got collision will have a randomized backoff time before trying re-transmission. The cons of the protocol is that there can end up being a lot of waste with both the time slots that have collision and the slots that are idle because of the random backoff. The protocol also has to be synchronized, meaning that it can be harder to maintain. 
+#### Carrier sense multiple access (CSMA)
+In the most simple version the carrier sense multiple access protocol the principle is to check if another node is transmitting on the channel before transmitting. This way the sending node can defer the transmission and avoid collision. But there might still end up being collision if the first sender starts sending and then the second sending also starts sending before the first nodes frame reaches the second node. That is why CSMA/CD exists. 
+##### Collision detection (CSMA/CD)
+This implements the same listening as normal CSMA but also listens for collision after starting transmission. That way both sending nodes can backoff early and start re-transmission faster. Collision detection is easy with wired connection but hard on the wireless. The backoff time is determined by binary exponential backoff which after $m$ collisions, choose $K$ at random from $\set{0, 1, 2, ..., 2^m-1}$ and then it waits $K*512$ bit times. This means that the more collisions there is the longer the backoff time is. 
 ### Taking turns
-
-
-
+Taking turns is based on having the best of both worlds in the sense that the channel is divided to avoid collision, but nodes not holding the channel when the dont have anything to send. There is two approaches to this method. 
+#### Token passing
+With token passing the nodes are usually displayed in a circular manner, where there is one (or more) token being passed around in the circle and when you have the token you are allowed to use the shared channel. The problem with this is that there is a single point of failure, and if the node with the token leaves then the node leave with the token. 
+#### Polling 
+In polling instead of having one token we instead have a node that is responsible for giving each node the channel. The problem with this method is again that there is one point of failure. 
 ## Addressing
-
-
-
-
-
-

@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/process.md",
+                "file": "1 - Main notes/Link layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from process"
+              "title": "Outgoing links from Link layer"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/process.md",
+                "file": "1 - Main notes/Link layer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of process"
+              "title": "Outline of Link layer"
             }
           },
           {
@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -242,10 +242,10 @@
   },
   "active": "41b4d1a4e28e8c87",
   "lastOpenFiles": [
+    "1 - Main notes/Link layer.md",
     "1 - Main notes/Internet control message protocol.md",
     "1 - Main notes/Networking layer.md",
     "1 - Main notes/Address resolution protocol.md",
-    "1 - Main notes/Link layer.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Internet protocol.md",
     "1 - Main notes/Open Shortest Path First.md",

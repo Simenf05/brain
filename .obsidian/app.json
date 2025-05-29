@@ -3,5 +3,6 @@
   "newFileFolderPath": "1 - Main notes",
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showLineNumber": true
 }
