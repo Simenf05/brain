@@ -25,7 +25,18 @@ $$
 R = remainder[\frac{D*2^r}{G}]
 $$
 When calculating this you would get the $R$ of length $r$.
-## Midium access control (MAC)
+## Medium access control (MAC)
+The medium access problem is designing a protocol for transmitting over a shared link, while avoiding collision. Difficulty of the medium access problem stems from having to maintain state shared state in the protocol without transmitting over the link. There are three main medium access protocols and they solve the problem in different ways. 
+### Channel partitioning 
+With channel partitioning the main principle is to divide up the shared medium and giving all users the same amount of bandwidth. This can either be done with time slots or with separate frequencies for the users. 
+#### Time division multiple access (TDMA)
+This protocol is really simple because it divides the channel into different slots and allocates the slots to the different nodes. That way every node gets $R/M$ for $R$ transmission rate and $M$ nodes. The problem with this approach is that if nodes dont have anything to send the channel will go idle. Therefore if there is many nodes and some of them are idle it will greatly impact the utilization of the channel. 
+#### Frequency division multiple access (FDMA)
+
+
+### Random access
+
+### Taking turns
 
 
 
