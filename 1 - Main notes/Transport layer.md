@@ -16,7 +16,7 @@ The main two transport protocols is [[Transmission control protocol|TCP]] and [[
 The difference between them is that TCP is connection-oriented and UDP is not. UDP does not require the processes to handshake and has no guarantee that it is reliable. TCP fixes this by implementing connection-oriented communication. With this it can guarantee that all segments will be sent and received. 
 
 ### [[Multiplexing and demultiplexing]]
-The transport layer will break up the [[application layer|application layers]] message into parts called segments. This action is called [[multiplexing and demultiplexing|multiplexing]] and is one of the responsibilities of the transport layer. When splitting up the message it is easier to verify that the message is received properly, and the network requires packets to be smaller anyways. These segments is then passed to the [[networking layer]].
+The transport layer will break up the [[application layer|application layers]] message into parts called segments. This action is called [[multiplexing and demultiplexing|multiplexing]] and is one of the responsibilities of the transport layer. When splitting up the message it is easier to verify that the message is received properly, and the network requires packets to be smaller anyways. These segments is then passed to the [[Network layer]].
 
 ## [[Reliable data transfer]]
 

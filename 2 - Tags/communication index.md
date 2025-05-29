@@ -1,5 +1,0 @@
-# Communication
-
-```query
-tag:communication
-```

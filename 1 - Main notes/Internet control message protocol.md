@@ -10,7 +10,7 @@ Status:
 Tags: #communication #networklayer #protocol #controlplane 
 
 # Internet control message protocol
-The Internet control message protocol is used by hosts and routers to communicate on the [[Networking layer|network layer]] with network specific information. With ICMP it will package the payload directly into the [[Internet protocol|IP datagram]], and this means no [[Reliable data transfer|rdt]]. 
+The Internet control message protocol is used by hosts and routers to communicate on the [[Network layer|network layer]] with network specific information. With ICMP it will package the payload directly into the [[Internet protocol|IP datagram]], and this means no [[Reliable data transfer|rdt]]. 
 ### ICMP message structure 
 The first byte of the ICMP message is the type of message, the second byte is the code and after this it is 2 bytes for the checksum. The next 8 bytes after this contains the description for the ICMP message. This can be [[time to live|TTL]] expired or other networking maintenance messages.  
 ### Traceroute

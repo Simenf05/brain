@@ -39,7 +39,7 @@ All action s that can be performed on the datagram:
 - modify
 - forward
 - send to controller
-This way the routers can be configured to respond differently to different types of datagrams, and for example drop everything from certain addresses. This can be useful for maintenance and logging. OpenFlow is a standard of the generalized forwarding approach and with it routers can match actions with headers from [[link layer]], [[networking layer]] and the [[transport layer]].
+This way the routers can be configured to respond differently to different types of datagrams, and for example drop everything from certain addresses. This can be useful for maintenance and logging. OpenFlow is a standard of the generalized forwarding approach and with it routers can match actions with headers from [[link layer]], [[Network layer]] and the [[transport layer]].
 #### Switching fabric
 The switching fabric is the part that links the input link and output link. This is done by moving the packet from one link to the other. Switching fabric has a switching rate that determines how much it manages to switch at a certain time. If there is N ports and they each have a rate of R, then the optimal switching rate would be NR. But this might be expensive and therefore cheaper routers might not have this good switching rate. If the switching rate is not sufficient to handle the amount of traffic, then the input links will start to build up queues, and this is referred to as input port queuing. There exists three main ways for the switching fabric and they each have different levels of switching rates. 
 ##### Memory switching

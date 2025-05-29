@@ -1,5 +1,5 @@
 # IP
 
-```query
-tag:ip
+```dataview
+TABLE FROM #ip
 ```

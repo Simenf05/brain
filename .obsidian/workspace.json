@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Link layer.md",
+                "file": "1 - Main notes/Address resolution protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Link layer"
-            }
-          },
-          {
-            "id": "61b1fbc1a6e313a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Networking layer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Networking layer"
+              "title": "Address resolution protocol"
             }
           }
         ],
@@ -133,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/Link layer.md",
+                "file": "1 - Main notes/Address resolution protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Link layer"
+              "title": "Outgoing links from Address resolution protocol"
             }
           },
           {
@@ -202,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Link layer.md",
+                "file": "1 - Main notes/Address resolution protocol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Link layer"
+              "title": "Outline of Address resolution protocol"
             }
           },
           {
@@ -242,27 +217,27 @@
   },
   "active": "41b4d1a4e28e8c87",
   "lastOpenFiles": [
-    "1 - Main notes/Link layer.md",
+    "2 - Tags/communication.md",
     "1 - Main notes/Internet control message protocol.md",
-    "1 - Main notes/Networking layer.md",
     "1 - Main notes/Address resolution protocol.md",
+    "1 - Main notes/Network layer.md",
+    "1 - Main notes/Application layer.md",
+    "2 - Tags/ip.md",
+    "1 - Main notes/Link layer.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Internet protocol.md",
     "1 - Main notes/Open Shortest Path First.md",
     "1 - Main notes/User datagram protocol.md",
     "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Hypertext transfer protocol.md",
-    "2 - Tags/ip.md",
     "1 - Main notes/Routing algorithms.md",
     "1 - Main notes/Congestion control.md",
     "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/Dynamic Host Configuration Protocol.md",
-    "2 - Tags/communication index.md",
     "2 - Tags/it.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "1 - Main notes/Application layer.md",
     "1 - Main notes/IPv4-datagram-format.png",
     "1 - Main notes/IPv6-datagram-format.png",
     "1 - Main notes/Network address translation.md",
