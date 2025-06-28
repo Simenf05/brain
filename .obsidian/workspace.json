@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Address resolution protocol.md",
+                "file": "1 - Main notes/Link layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Address resolution protocol"
+              "title": "Link layer"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"checksum\"",
+                "query": "CSMA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +109,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/Address resolution protocol.md",
+                "file": "1 - Main notes/Link layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Address resolution protocol"
+              "title": "Outgoing links from Link layer"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Address resolution protocol.md",
+                "file": "1 - Main notes/Link layer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Address resolution protocol"
+              "title": "Outline of Link layer"
             }
           },
           {
@@ -217,18 +217,18 @@
   },
   "active": "41b4d1a4e28e8c87",
   "lastOpenFiles": [
+    "1 - Main notes/Router.md",
+    "1 - Main notes/Transmission control protocol.md",
+    "1 - Main notes/Link layer.md",
+    "1 - Main notes/Address resolution protocol.md",
     "2 - Tags/communication.md",
     "1 - Main notes/Internet control message protocol.md",
-    "1 - Main notes/Address resolution protocol.md",
     "1 - Main notes/Network layer.md",
     "1 - Main notes/Application layer.md",
     "2 - Tags/ip.md",
-    "1 - Main notes/Link layer.md",
-    "1 - Main notes/Router.md",
     "1 - Main notes/Internet protocol.md",
     "1 - Main notes/Open Shortest Path First.md",
     "1 - Main notes/User datagram protocol.md",
-    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Routing algorithms.md",
     "1 - Main notes/Congestion control.md",
