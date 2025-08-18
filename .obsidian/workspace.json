@@ -11,10 +11,24 @@
             "id": "07bd031bcbbe1e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Scrum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Scrum"
             }
           }
         ]
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -175,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f7eec9839d1a157",
+  "active": "07bd031bcbbe1e3b",
   "lastOpenFiles": [
+    "1 - Main notes/Scrum.md",
     "1 - Main notes/Link layer.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Transmission control protocol.md",
@@ -207,7 +223,6 @@
     "1 - Main notes/Domain name system.md",
     "1 - Main notes/IP.md",
     "1 - Main notes/Reliable data transfer.md",
-    "1 - Main notes/Maximum segment size.md",
     "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/TCP-handshake.png",
