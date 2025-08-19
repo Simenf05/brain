@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Datamaskintyper"
             }
+          },
+          {
+            "id": "012fa3b93df9e345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Lederteorier.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lederteorier"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1b5e2b5157eccf7",
+  "active": "012fa3b93df9e345",
   "lastOpenFiles": [
-    "1 - Main notes/Untitled.md",
     "1 - Main notes/Datamaskintyper.md",
+    "1 - Main notes/Lederteorier.md",
     "1 - Main notes/Untitled 1.md",
     "1 - Main notes/Untitled 2.md",
     "1 - Main notes/Scrum.md",

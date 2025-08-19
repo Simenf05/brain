@@ -18,11 +18,22 @@ Det finnes 7 datamaskintyper
 
 
 
+### De 7 store ideene
+- Abstraksjon
+- Gjør det vanlige tilfellet raskt (make the common case fast)
+- Ytelse gjennom parallellitet
+- Ytelse gjennom bruk av samlebånd
+	- Lage strømmer av oppgaver og gjør dem samtidig etter hverandre
+- Ytelse gjennom prediksjon
+- Lag et hierarki av minneenheter
+- Pålitelighet gjennom redundans
 
-
-### de 7 store ideene
-
-
+### 5 komponenter i datamaskin
+- inndata
+- utdata
+- minne
+- kontrollenhet
+- datasti
 
 
 
