@@ -10,3 +10,25 @@ Det er en leder som tilpasser lederstilen ettersom hvem som skal ledes.
 Ledelse som er basert på å være ekte, og lederen vil være en ekte person som de som ledes skal 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For Oppgave 1 så ble det 
+$$(n^2 - n)  / 2$$
+
+
+
+
