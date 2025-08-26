@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Instruksjonssett.md",
+                "file": "1 - Main notes/Selvledelse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Instruksjonssett"
+              "title": "Selvledelse"
             }
           }
         ],
@@ -290,8 +290,9 @@
   },
   "active": "e4954a79ced86131",
   "lastOpenFiles": [
-    "1 - Main notes/Ytelse i datamaskin.md",
     "1 - Main notes/Instruksjonssett.md",
+    "1 - Main notes/Selvledelse.md",
+    "1 - Main notes/Ytelse i datamaskin.md",
     "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Lederteorier.md",
     "1 - Main notes/Datamaskintyper.md",
@@ -315,7 +316,6 @@
     "1 - Main notes/Congestion control.md",
     "1 - Main notes/The control plane (networking).md",
     "1 - Main notes/The data plane (networking).md",
-    "1 - Main notes/Dynamic Host Configuration Protocol.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
