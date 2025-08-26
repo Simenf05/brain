@@ -27,5 +27,11 @@ lw x9, 8(x22)
 sw x9, 8(x22)
 ```
 
+#### Heltall og logiske operasojner
+
+
+
+
+
 ## Designprinsippene
 
