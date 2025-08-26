@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Asymptotic notation"
             }
+          },
+          {
+            "id": "ac0c5b2f230553d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Produksjon av integrerte kretser.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Produksjon av integrerte kretser"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,6 +254,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -239,10 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa08fbeb2447cdc9",
+  "active": "ac0c5b2f230553d2",
   "lastOpenFiles": [
-    "1 - Main notes/Lederteorier.md",
     "1 - Main notes/Asymptotic notation.md",
+    "1 - Main notes/Produksjon av integrerte kretser.md",
+    "1 - Main notes/Lederteorier.md",
     "1 - Main notes/Datamaskintyper.md",
     "1 - Main notes/Untitled 1.md",
     "1 - Main notes/Untitled 2.md",
@@ -270,7 +296,6 @@
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
     "1 - Main notes/IPv6-datagram-format.png",
-    "1 - Main notes/Network address translation.md",
     "1 - Main notes/DHCP-message-flow.png",
     "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes/TCP-finite-state-machine.png",
