@@ -48,3 +48,10 @@ $SPEEDUP_TID = T_baseline/T_ny$
 Energieffektivitet
 
 Vi trenger benchmarks for å test ytelse på datamaskiner. Disse burder representere last som systemet skal gjøre. 
+
+Amdahls lov er viktig. 
+"Make the common case fast"
+
+
+
+
