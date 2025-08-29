@@ -40,3 +40,14 @@ SOLVE-X(args)
 
 Her er TODO et orakel som vi antar at vi har. Da har vi redusert problemet.
 
+
+#### Cook reduksjoner
+Det er en Turing reduksjon med polynomisk kjøretid. Det vil si $O(n^k)$. 
+Brukes i alt mulig
+#### Levin reduksjon 
+Levin reduksjon er når vi kun bruker orakelet en gang. I cook så kan det være flere, men her er det kun en gang. Det skal vi fokusere mer på senere. 
+Brukes for søkeproblemer. 
+#### Karp reduksjon
+Karp reduksjoner gjelder som regel for besluttningsproblemer. Det vil si at vi ikke trenger å gjøre det tilbake til X etter vi har gjort Y. 
+Den første reduksjonen i Levin reduksjon er en Karp reduksjon.
+
