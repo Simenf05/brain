@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "3457e59e7ba47bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/2s komplement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2s komplement"
+            }
+          },
+          {
             "id": "ac0c5b2f230553d2",
             "type": "leaf",
             "state": {
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -312,10 +336,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a94a86ea32a3abfc",
+  "active": "3457e59e7ba47bcd",
   "lastOpenFiles": [
-    "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Algoritmiske problemtyper.md",
+    "1 - Main notes/2s komplement.md",
+    "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Ytelse i datamaskin.md",
     "1 - Main notes/Selvledelse.md",
     "1 - Main notes/Instruksjonssett.md",
@@ -339,7 +364,6 @@
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Routing algorithms.md",
     "1 - Main notes/Congestion control.md",
-    "1 - Main notes/The control plane (networking).md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
