@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -336,13 +336,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3457e59e7ba47bcd",
+  "active": "ac0c5b2f230553d2",
   "lastOpenFiles": [
+    "1 - Main notes/Logiske kretser.md",
+    "Pasted image 20250901112405.png",
     "Pasted image 20250901105659.png",
     "Pasted image 20250901105627.png",
     "Pasted image 20250901105533.png",
     "1 - Main notes/Algoritmiske problemtyper.md",
-    "1 - Main notes/Logiske kretser.md",
     "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Ytelse i datamaskin.md",
     "1 - Main notes/Selvledelse.md",

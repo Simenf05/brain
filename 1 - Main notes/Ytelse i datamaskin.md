@@ -53,5 +53,13 @@ Amdahls lov er viktig.
 "Make the common case fast"
 
 
+## Transistorer
+
+Vi har to typer transistorer i dette kurset.
+
+- PMOS
+	- leder strøm når det er lav spenning
+- NMOS 
+	- leder strøm når den har høy spenning
 
 
