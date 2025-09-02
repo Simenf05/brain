@@ -37,3 +37,18 @@ sw x9, 8(x22)
 
 ### 3. 
 - Gode løsninger krever gode kompromiss
+
+
+## Funksjoner 
+
+- For å kjøre en funksjon må vi:
+	- Legg parameterne et sted funksjonen kan få tak i dem
+	- Overfør kontroll til funksjonen
+	- Alloker nødvendige ressurser
+	- Utfør oppgaven
+	- Legg returverdien et sted der den som kalte funksjonen kan få tak i dem
+	- Overfør kontroll til kallstedet.
+
+
+### Minnekart
+- 
