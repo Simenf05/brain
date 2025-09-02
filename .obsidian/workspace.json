@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Datamaskintyper.md",
+                "file": "1 - Main notes/Instruksjonssett.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Datamaskintyper"
+              "title": "Instruksjonssett"
             }
           },
           {
@@ -175,8 +175,7 @@
               "title": "Selvledelse"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -336,8 +335,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac0c5b2f230553d2",
+  "active": "d1b5e2b5157eccf7",
   "lastOpenFiles": [
+    "1 - Main notes/Datamaskintyper.md",
+    "1 - Main notes/Transport layer.md",
     "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Ytelse i datamaskin.md",
     "1 - Main notes/Logiske kretser.md",
@@ -350,7 +351,6 @@
     "1 - Main notes/Selvledelse.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Lederteorier.md",
-    "1 - Main notes/Datamaskintyper.md",
     "1 - Main notes/Untitled 1.md",
     "1 - Main notes/Untitled 2.md",
     "1 - Main notes/Scrum.md",

@@ -35,3 +35,5 @@ sw x9, 8(x22)
 
 ## Designprinsippene
 
+### 3. 
+- Gode løsninger krever gode kompromiss
