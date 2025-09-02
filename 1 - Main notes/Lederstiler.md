@@ -48,6 +48,23 @@ brukes til det beste for andre
 - Ledere har gjennom sin stilling makt til å ta beslutninger for strategier, mål og fordeling av ressurser
 - Jo mer makt en leder har 
 
+## To måter å tenke på
+Vi har to systemer for tenking. 
+
+#### System 1
+- Automatisk og rask
+- Er lett og bruker lite mental energi
+- Høy kapasitet
+- Ubevisst
+
+#### System 2
+- Analytisk
+- Rasjonell og logisk
+- Løser komplekse problemstillinger
+
+Kahneman sier at ca 50% av beslutninger gjøres av system 1.
+
+
 
 
 
