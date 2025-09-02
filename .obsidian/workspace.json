@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Ytelse i datamaskin.md",
+                "file": "1 - Main notes/Transport layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ytelse i datamaskin"
+              "title": "Transport layer"
             }
           },
           {
@@ -338,6 +338,8 @@
   },
   "active": "ac0c5b2f230553d2",
   "lastOpenFiles": [
+    "1 - Main notes/Transmission control protocol.md",
+    "1 - Main notes/Ytelse i datamaskin.md",
     "1 - Main notes/Logiske kretser.md",
     "Pasted image 20250901112405.png",
     "Pasted image 20250901105659.png",
@@ -345,7 +347,6 @@
     "Pasted image 20250901105533.png",
     "1 - Main notes/Algoritmiske problemtyper.md",
     "1 - Main notes/Asymptotic notation.md",
-    "1 - Main notes/Ytelse i datamaskin.md",
     "1 - Main notes/Selvledelse.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Lederteorier.md",
@@ -355,7 +356,6 @@
     "1 - Main notes/Scrum.md",
     "1 - Main notes/Link layer.md",
     "1 - Main notes/Router.md",
-    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Address resolution protocol.md",
     "2 - Tags/communication.md",
     "1 - Main notes/Internet control message protocol.md",
