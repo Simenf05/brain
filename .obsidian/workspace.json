@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "53c5223bfa16e860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Flersykelprosessor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Flersykelprosessor"
+            }
+          },
+          {
             "id": "aa08fbeb2447cdc9",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -384,10 +408,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0adf03bb1451b94",
+  "active": "53c5223bfa16e860",
   "lastOpenFiles": [
-    "1 - Main notes/Enkeltsykelprosessoren.md",
     "1 - Main notes/Flyttall i datamaskinen.md",
+    "1 - Main notes/Flersykelprosessor.md",
+    "1 - Main notes/Enkeltsykelprosessoren.md",
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Datamaskintyper.md",
@@ -415,7 +440,6 @@
     "2 - Tags/ip.md",
     "1 - Main notes/Internet protocol.md",
     "1 - Main notes/Open Shortest Path First.md",
-    "1 - Main notes/User datagram protocol.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
