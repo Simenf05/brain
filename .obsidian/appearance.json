@@ -2,5 +2,6 @@
   "cssTheme": "",
   "monospaceFontFamily": "SauceCodePro Nerd Font Mono",
   "showRibbon": true,
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "theme": "moonstone"
 }

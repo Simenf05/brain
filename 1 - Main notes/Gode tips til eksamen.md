@@ -16,3 +16,11 @@
 10. Prøv å svar på alt, sensorer er hyggelige mennekser og kan også hende du får full klaff. Blankt er blankt
 11. I forkant: Gjør oppgaver som ledd i forberedelser
 12. Spill på deg selvtillit
+
+
+```python
+import numpy as np
+arr = np.array([1, 2, 3, 4])
+
+print(arr)
+```
