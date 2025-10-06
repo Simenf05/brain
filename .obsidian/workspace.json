@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e7bc919197e5a52",
+        "id": "566c8563adfe57b5",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b5e2b5157eccf7",
+            "id": "66be381993c688f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Instruksjonssett.md",
+                "file": "1 - Main notes/Tasks for itgk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,251 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Instruksjonssett"
-            }
-          },
-          {
-            "id": "012fa3b93df9e345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Lederstiler.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lederstiler"
-            }
-          },
-          {
-            "id": "59e53ab9ffad315d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Enkeltsykelprosessoren.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Enkeltsykelprosessoren"
-            }
-          },
-          {
-            "id": "a0adf03bb1451b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Flyttall i datamaskinen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Flyttall i datamaskinen"
-            }
-          },
-          {
-            "id": "53c5223bfa16e860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Flersykelprosessor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Flersykelprosessor"
-            }
-          },
-          {
-            "id": "d24712fc3122c406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Gode tips til eksamen.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gode tips til eksamen"
-            }
-          },
-          {
-            "id": "aa08fbeb2447cdc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Asymptotic notation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Asymptotic notation"
-            }
-          },
-          {
-            "id": "a94a86ea32a3abfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Algoritmiske problemtyper.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Algoritmiske problemtyper"
-            }
-          },
-          {
-            "id": "3457e59e7ba47bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Logiske kretser.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Logiske kretser"
-            }
-          },
-          {
-            "id": "ac0c5b2f230553d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Transport layer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Transport layer"
-            }
-          },
-          {
-            "id": "e4954a79ced86131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Selvledelse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Selvledelse"
+              "title": "Tasks for itgk"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -412,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -431,26 +190,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d24712fc3122c406",
+  "active": "66be381993c688f2",
   "lastOpenFiles": [
-    "1 - Main notes/Flersykelprosessor.md",
+    "1 - Main notes/Tasks for itgk.md",
+    "1 - Main notes/Selvledelse.md",
+    "1 - Main notes/Transport layer.md",
+    "1 - Main notes/Logiske kretser.md",
+    "1 - Main notes/Algoritmiske problemtyper.md",
+    "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Gode tips til eksamen.md",
+    "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Flyttall i datamaskinen.md",
     "1 - Main notes/Enkeltsykelprosessoren.md",
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Datamaskintyper.md",
-    "1 - Main notes/Transport layer.md",
     "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Ytelse i datamaskin.md",
-    "1 - Main notes/Logiske kretser.md",
     "Pasted image 20250901112405.png",
     "Pasted image 20250901105659.png",
     "Pasted image 20250901105627.png",
     "Pasted image 20250901105533.png",
-    "1 - Main notes/Algoritmiske problemtyper.md",
-    "1 - Main notes/Asymptotic notation.md",
-    "1 - Main notes/Selvledelse.md",
     "1 - Main notes/Untitled 1.md",
     "1 - Main notes/Untitled 2.md",
     "1 - Main notes/Scrum.md",
@@ -462,7 +222,6 @@
     "1 - Main notes/Network layer.md",
     "1 - Main notes/Application layer.md",
     "2 - Tags/ip.md",
-    "1 - Main notes/Internet protocol.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
