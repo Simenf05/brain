@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gode ti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +194,13 @@
   },
   "active": "66be381993c688f2",
   "lastOpenFiles": [
-    "1 - Main notes/Tasks for itgk.md",
+    "1 - Main notes/Gode tips til eksamen.md",
     "1 - Main notes/Selvledelse.md",
+    "1 - Main notes/Tasks for itgk.md",
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Logiske kretser.md",
     "1 - Main notes/Algoritmiske problemtyper.md",
     "1 - Main notes/Asymptotic notation.md",
-    "1 - Main notes/Gode tips til eksamen.md",
     "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Flyttall i datamaskinen.md",
     "1 - Main notes/Enkeltsykelprosessoren.md",

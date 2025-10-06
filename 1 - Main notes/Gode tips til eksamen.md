@@ -1,4 +1,4 @@
-#eksamen
+#eksamen #lederskap
 # Viktige tips for eksamen
 1. Aktualisere tema (kort)
 	- Hvorfor er tema viktig, skriv litt om det
