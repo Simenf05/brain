@@ -31,7 +31,6 @@ compare_even_odd([1, 2, 3, 4]) ➞ "equal"  # 2+4 == 1+3
 **Problem**:
 Write a function that takes a list of numbers and returns how many numbers are strictly above the average — **without using built-in functions** like `sum()`, `len()`, `max()`, `min()`, etc.
 
----
 #### 🔍 Example:
 
 ```python
@@ -64,8 +63,6 @@ flatten([1, [2, [3, 4], 5]]) ➞ [1, 2, 3, 4, 5]
 **Problem**:
 Write a function that prints the numbers from 1 to `n`. But for multiples of 3, print `"Fizz"` instead of the number, and for multiples of 5, print `"Buzz"`. For numbers which are multiples of both 3 and 5, print `"FizzBuzz"`. Additionally, for numbers that are prime, append `" (prime)"` after the output.
 
----
-
 #### 🔍 Example:
 
 ```python
@@ -87,7 +84,6 @@ Fizz
 Buzz
 ```
 
----
 #### 🧠 Hints:
 
 * Use the `%` (modulo) operator to check for multiples.
