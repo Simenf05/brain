@@ -14,4 +14,5 @@ Det er når man bryter med det som er kjent og legger nye strategier for fremtid
 - Kvalitet 
 - Billig
 
+### Strategisk metode
 
