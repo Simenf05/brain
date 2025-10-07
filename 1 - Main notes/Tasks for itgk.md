@@ -3,7 +3,6 @@
 Tags: #itgk #python #numpy #matplotlib
 
 # Tasks for itgk
----
 ### **1. Even or Odd Sum Checker**
 
 **Level**: Beginner
