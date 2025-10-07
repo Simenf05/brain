@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Tasks for itgk.md",
+                "file": "1 - Main notes/SWOT-modell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks for itgk"
+              "title": "SWOT-modell"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +193,10 @@
   },
   "active": "2915904eab8e87e5",
   "lastOpenFiles": [
+    "1 - Main notes/Tasks for itgk.md",
     "1 - Main notes/SWOT-modell.md",
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
-    "1 - Main notes/Tasks for itgk.md",
     "1 - Main notes/Gode tips til eksamen.md",
     "1 - Main notes/Selvledelse.md",
     "1 - Main notes/Transport layer.md",
