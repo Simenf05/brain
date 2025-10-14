@@ -30,6 +30,16 @@ En avhengighet er en egenskap ved programmet, mens en fare er en avhengighet som
 
 #### Hvordan håndtere farer?
 - Unngå ressurskonflikter
-- Forwarding
-- Stalling
-- Prediksjon
+- Forwarding ("Forwarding")
+- Stalling ("Stalling")
+	- Har stor tap av ytelse så ønsker ikke å gjøre det
+- Prediksjon ("Prediction")
+	- Vi gjetter på hva som skal skje
+
+### Håndtere datafarer?
+Vi må:
+- Oppnå korrekt utføring av alle program 
+- minimerer tap av ytelse
+#### Forwarding
+- Vi må lagre registernummer i i samlebåndsregistrene
+- Vi må legge til logikk som finner ut at vi skal bytte
