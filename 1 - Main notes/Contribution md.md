@@ -4,9 +4,9 @@
 
 ## Simen
 ### 1. deliverable
-- initial persistence
-- directory structure
+During the first deliverable I started with creating the directory structure, I did this  with Kristoffer while the others did tasks like writing about AI and creating user stories. When the directory structure was completed I moved on to creating the first version of persistence. This is the `JsonFileWriter` class and served as the base for writing to json file in our project. 
 ### 2. deliverable
+
 - tests for persistence
 - modularizion
 - javadoc for persistence
