@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Contribution md"
             }
+          },
+          {
+            "id": "1f5f503ff43d09fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,10 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b453548124cf0036",
+  "active": "1f5f503ff43d09fd",
   "lastOpenFiles": [
-    "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Contribution md.md",
+    "4 - Sketch notes/TODO.md",
+    "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Flersykelprosessor.md~",
     "1 - Main notes/Strategi.md",
     "1 - Main notes/SWOT-modell.md",
@@ -273,7 +297,6 @@
     "1 - Main notes/Scrum.md",
     "1 - Main notes/Link layer.md",
     "1 - Main notes/Router.md",
-    "1 - Main notes/Address resolution protocol.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
