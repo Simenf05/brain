@@ -83,24 +83,10 @@
             "id": "1f5f503ff43d09fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Sketch notes/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -136,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "farer",
+                "query": "tag:#rdt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,12 +143,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -266,8 +252,11 @@
   },
   "active": "1f5f503ff43d09fd",
   "lastOpenFiles": [
-    "1 - Main notes/Contribution md.md",
+    "1 - Main notes/Application layer.md",
+    "1 - Main notes/Transport layer.md",
+    "1 - Main notes/Domain name system.md",
     "4 - Sketch notes/TODO.md",
+    "1 - Main notes/Contribution md.md",
     "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Flersykelprosessor.md~",
     "1 - Main notes/Strategi.md",
@@ -277,7 +266,6 @@
     "3 - Templates/Main note.md",
     "1 - Main notes/Gode tips til eksamen.md",
     "1 - Main notes/Selvledelse.md",
-    "1 - Main notes/Transport layer.md",
     "1 - Main notes/Logiske kretser.md",
     "1 - Main notes/Algoritmiske problemtyper.md",
     "1 - Main notes/Asymptotic notation.md",
@@ -295,8 +283,6 @@
     "1 - Main notes/Untitled 1.md",
     "1 - Main notes/Untitled 2.md",
     "1 - Main notes/Scrum.md",
-    "1 - Main notes/Link layer.md",
-    "1 - Main notes/Router.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
