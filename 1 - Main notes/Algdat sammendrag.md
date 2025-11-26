@@ -421,7 +421,7 @@ $O(V*lgV+E*lgV)$
 ## Forelesning 11
 ### Alle til alle
 #### Trekantulikheten
-$S(i, j) <= S(i, k) + w(k, j)$
+$\delta(i, j) \leq \delta(i, k) + w(k, j)$
 
 Hvis vi kan gå innom en annen node så er det korteste vei hvis det er kjappere enn det estimatet vi har
 
