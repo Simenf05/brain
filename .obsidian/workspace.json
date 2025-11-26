@@ -61,40 +61,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Contribution md.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Contribution md"
-            }
-          },
-          {
-            "id": "1f5f503ff43d09fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "958b8d7c1936baa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1 - Main notes/Algdat sammendrag.md",
                 "mode": "source",
                 "source": false,
@@ -112,21 +78,9 @@
               "icon": "lucide-file",
               "title": "Algdat sammendrag"
             }
-          },
-          {
-            "id": "4268ad0b4a673224",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,15 +240,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4268ad0b4a673224",
+  "active": "b453548124cf0036",
   "lastOpenFiles": [
-    "1 - Main notes/Algdat sammendrag.md~",
+    "1 - Main notes/Contribution md.md",
     "1 - Main notes/Algdat sammendrag.md",
+    "1 - Main notes/Algdat sammendrag.md~",
     "1 - Main notes/Application layer.md",
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Domain name system.md",
     "4 - Sketch notes/TODO.md",
-    "1 - Main notes/Contribution md.md",
     "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Flersykelprosessor.md~",
     "1 - Main notes/Strategi.md",

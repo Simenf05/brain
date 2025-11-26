@@ -1,8 +1,7 @@
-# Sketch note: 2025-11-26 12:03
+2025-11-26 17:17
 
+Tags: #algdat #algorithms #bellman-ford #dijkstra #sorting
 # Algdat sammendrag
-
-
 ## Forelesning 1
 Asymptotisk notasjon
 
@@ -50,6 +49,12 @@ For vært steg så bryter vi av en bit
 
 Redusibilitet, løkkeinvariant og induksjon
 
+### Lineære program
+lineær ulikheter
+lineær objektiv funksjon
+
+Lineære program med heltall er np-hardt
+
 ## Forelesning 3
 #### Divide and conquer
 Dele opp problem i mindre instanser av det samme problemet
@@ -91,7 +96,7 @@ sorter lav venstre høy høyre
 Hvis elementet er pivot er vi happy
 ellers så søker vi riktig halvdel
 
-$=\Theta(n^2)$
+$\Theta(n^2)$
 
 ### Select
 Det er en veldig komplisert algoritme
@@ -102,7 +107,7 @@ $\Theta(n)$
 ### Counting sort
 Tellesortering teller hvor mange ganger en verdi oppstår i en liste
 vi bruker det til å plassere tallene i listen
-Den kjører i linær tid. Hvis k <= n så kjører den i linær tid.
+Den kjører i linær tid. Hvis $k\leq{n}$ så kjører den i linær tid tror jeg les boka
 $\Theta(n + k)$
 
 ### Radix sort
@@ -433,11 +438,132 @@ Vi har $\Theta(n^3lgn)$
 vi går via noe, eller vi kan gå via via for å komme oss samme sted
 
 Transitive-Closuere
+Vi har $\Theta(n^3)$
 
+Forgjengere er de som kommer før i korteste veien
 
+### Floyd-Warshall
+Bruker en rettet vektet graf
+- Tillater negative kanter, men ikke negative sykler
+Bruker trekantulikheten på alle kantene for en node
+Øker antall noder per sti med den ytterste iterasjonen
+$O(n^3)$
 
+### Print-APSP
+Tar inn matrisene og printer de korteste veiene
+Den er rekursiv og skriver ut alle de korteste veiene
 ## Forelesning 12
-## Forelesning 13
-## Forelesning 14
+### Max-flow 
 
+#### Lineær program av maxflow
+Vi ønsker å maksimere flyten ut av source, (minus flyt inn i source)
+
+Flyten på hver kant må være mindre enn kapasiteten
+Flyten inn i en node må være det samme som ut av en node
+
+####  Billigste flyt LP
+Kan tolke det som at vi ønsker å minimere kostnaden på flyt
+ER et maksimeringsproblem siden i ønsker å maksimere profitt
+
+ferdig med lp!!!
+
+
+### Flytnett
+- er en rettet graf med en kilde og et sluk
+	- Det kan være flere men da reduseres det til å være en
+- kanter har en kapasitet
+
+- Vi kan ikke ha antiparallelle kanter i et flytnett.
+- Ingen løkker (på samme node)
+
+### Flyt
+- Kilden kan gi uendelig mye flyt
+- Sluket kan ta uendelig mye flyt
+- Flyten kan aldri være mer enn kapasiteten
+- Flyt kan ikke være negativ
+
+### Max-flow min-cut
+Dualitet mellom max-flow og min-cut
+
+### Heltatllsteoremet
+Heltallskapasiteter impliserer helttallsflyt når vi finner max-flyt
+
+Ford-Fulkerson finner heltallsflyt
+
+### Bipartitt matching
+
+$V = L\cup{R}$
+Vi ønsker å matche så mange i L med så mange i R
+
+Vi sender flyt 1 og har kapasitet på alle kanter på 1
+Ford-fulkerson finner max matchign
+
+### Alternde sti & forøkning
+Alternerende sti er en sti som går fram og tilbake 
+I Bipartitt matching så er en forøkende sti en sti som øker matchingen med 1
+
+### Forøkende sti
+Augmenting path på engelsk
+
+Det er en forøkende sti fra kilde til sluk i max-flow
+### Restnett
+Restnett, Residual network
+
+Er et nettverk der kanter som går 
+
+### Ford-fulkerson
+Er en metode for hvordan vi finner max-flyt
+
+Vi reduserer flyt til å lage restnett også traverserer vi til sluket også finner vi en forøkende sti
+hvis det ikke finnes en forøkende sti så er vi ferdige
+
+### Edmonds-karp 
+Bruker bredde først søk for å finne en forøkende sti i ford-fulkerson
+$O(VE^2)$
+## Forelesning 13
+### NP-kompletthet
+NP = Nondeterministically Polynomial
+
+Et problem som alle andre problemer i NP kan reduseres til.
+- Å redusere til noe enkelt er nyttig
+- å redusere fra noe vanskelig er informativt
+
+Vi ser ikke på løsninger men heller på beslutningsproblem
+Vi kan verifisere svarene våre i polynomisk tid
+
+### Flere kompleksitetsklasser
+
+P = polynomisk tid
+- Kan løses i $O(n^k)$ tid
+NP er verifiserbare i polynomsik tid
+NP-hardt er like vanskelig som det i NP
+NP-komplette (NPC) problemer
+- De er minst like vanskelige som alle andre problemer i NP
+- Kan sjekke svaret fort
+Co-NP skal også vite om
+
+Vi må redusere fra NPC. 
+
+## Forelesning 14
+### NP-komplette problemer
+Vi må kjenne til disse problemene
+
+#### Circuit-Sat
+Vi har en del kretser og skal finne ut om det kan bli 1
+
+### Sat
+Logiske utrykk og finne ut om det kan bli true
+
+### 3-CNF-SAT
+Nå er det på en spesifikk form
+
+### Clique
+### Vertex cover
+### Hamiltonian Cycle
+### TSP
+Finne en kjappeste vei gjennom alle noder, med vekter
+### Subset sum
+Finne ut om en sum av subset i en menge er lik t
+### 01-Knapsack
+Kan løses ganske effektivt med LP
 
