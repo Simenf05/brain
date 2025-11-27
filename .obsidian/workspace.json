@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Algdat sammendrag"
             }
+          },
+          {
+            "id": "0d1eec40c27bdc50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Tasklist for computers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasklist for computers"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,10 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b453548124cf0036",
+  "active": "0d1eec40c27bdc50",
   "lastOpenFiles": [
-    "1 - Main notes/Contribution md.md",
     "1 - Main notes/Algdat sammendrag.md",
+    "4 - Sketch notes/Tasklist for computers.md",
+    "1 - Main notes/Contribution md.md",
     "1 - Main notes/Algdat sammendrag.md~",
     "1 - Main notes/Application layer.md",
     "1 - Main notes/Transport layer.md",

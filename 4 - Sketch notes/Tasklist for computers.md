@@ -1,0 +1,35 @@
+# Sketch note: 2025-11-27 10:04
+# Task list for computers
+
+- [ ] Kapittel 1
+	- 1.1 til 1.13
+- [ ] Kapittel 2
+	- 2.1 til 2.12
+	- 2.14
+	- 2.22
+	- 2.23
+- [ ] Kapittel 3
+	- 3.1 til 3.6
+	- 3.9
+	- 3.10
+- [ ] Kapittel 4
+	- 4.1 til e.11
+	- 4.15
+	- 4.16
+- [ ] Kapittel 5
+	- 5.1 til 5.4
+	- 5.6
+	- 5.7
+	- 5.10
+	- 5.16
+	- 5.17
+- [ ] Kapittel 6
+	- 6.1 til 6.8
+	- 6.11
+	- 6.14
+	- 6.15
+- [ ] Appendiks A 
+	- A-1 til A-3
+	- A-5
+	- A-7
+	- A-11 (unntatt beskrivelsene av Verilog-kode)
