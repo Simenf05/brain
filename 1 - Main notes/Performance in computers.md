@@ -31,6 +31,14 @@ $$\text{CPU time} = {{\text{Instruction count} + \text{CPI}} \over{\text{Clock r
 $$
 \text{Time}={\text{Instructoins}\over{\text{Program}}}\times{\text{Clock cycles}\over{\text{Instructions}}}\times{\text{Seconds}\over{\text{Clock cycle}}}
 $$
+### The iron law
+
+"...the only complete and reliable measure of computer prerformance is time."
+
+## The power wall
+For some time the performance of a computer could be increased by using more power. 
+
+
 
 
 
