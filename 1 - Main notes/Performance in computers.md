@@ -33,10 +33,10 @@ $$
 $$
 ### The iron law
 
-"...the only complete and reliable measure of computer prerformance is time."
+"...the only complete and reliable measure of computer performance is time."
 
 ## The power wall
-For some time the performance of a computer could be increased by using more power. 
+For some time the performance of a computer could be increased by using more power. That is because the frequency of the switch on a transistor is correlated to the energy that is used. Therefore for a long time the designers could increase the clock rate by increasing the power, but at some point the heat was too big to be cooled by the system. That is what is refereed to as the power wall. When the power could no longer be increased, the computer manufacturers had to invent new ways to increase performance, such as having multiple cores for parallelization. 
 
 
 
