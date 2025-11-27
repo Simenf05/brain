@@ -1,7 +1,17 @@
 2025-08-26 10:23
 
-Status:
-Tags:
+Tags: #computers #performace #datamaskiner #executiontime
+
+# Performance in computers
+We mostly define performance as response time from a task on a computer $X$.
+Hence, 
+$\text{Performance}_X={1\over{\text{Execution time}_X}}$.
+For computer $X$ and $Y$ we have that the performance of $X$ is better than $Y$ if,
+$\text{Performance}_X\gt{\text{Performance}_Y}$
+
+
+
+
 
 # Produksjon av integrerte kretser
 Starter med silicon som deles opp til blank wafers. Så går mann igjennom mange steg som lager patterned wafers. Noe kommer ikke til å funke, så tar bort det. Etter det så pakker mann de sammen, så må det testes siden mann mister noen, så deaktiverer de og sender til bruker. 

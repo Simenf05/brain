@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2915904eab8e87e5",
+            "id": "4517dfa45cfc58d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/SWOT-modell.md",
+                "file": "1 - Main notes/Performance in computers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SWOT-modell"
-            }
-          },
-          {
-            "id": "ea10f542327e05c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Flersykelprosessor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Flersykelprosessor"
-            }
-          },
-          {
-            "id": "b453548124cf0036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Algdat sammendrag.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Algdat sammendrag"
-            }
-          },
-          {
-            "id": "0d1eec40c27bdc50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Sketch notes/Tasklist for computers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasklist for computers"
+              "title": "Performance in computers"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rdt",
+                "query": "datamaskin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -264,20 +192,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d1eec40c27bdc50",
+  "active": "4517dfa45cfc58d1",
   "lastOpenFiles": [
-    "1 - Main notes/Algdat sammendrag.md",
+    "1 - Main notes/Seven great ideas in computer architecture.md",
+    "1 - Main notes/Operating System.md",
+    "1 - Main notes/Network address translation.md",
     "4 - Sketch notes/Tasklist for computers.md",
+    "1 - Main notes/Algdat sammendrag.md",
+    "1 - Main notes/Flersykelprosessor.md",
+    "1 - Main notes/SWOT-modell.md",
+    "1 - Main notes/Datamaskintyper.md",
+    "1 - Main notes/Application layer.md",
+    "1 - Main notes/Routing algorithms.md",
+    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Contribution md.md",
     "1 - Main notes/Algdat sammendrag.md~",
-    "1 - Main notes/Application layer.md",
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Domain name system.md",
     "4 - Sketch notes/TODO.md",
-    "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Flersykelprosessor.md~",
     "1 - Main notes/Strategi.md",
-    "1 - Main notes/SWOT-modell.md",
     "1 - Main notes/Tasks for itgk.md",
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
@@ -288,16 +222,10 @@
     "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Flyttall i datamaskinen.md",
     "1 - Main notes/Enkeltsykelprosessoren.md",
-    "1 - Main notes/Lederstiler.md",
-    "1 - Main notes/Instruksjonssett.md",
-    "1 - Main notes/Datamaskintyper.md",
-    "1 - Main notes/Transmission control protocol.md",
-    "1 - Main notes/Ytelse i datamaskin.md",
     "Pasted image 20250901112405.png",
     "Pasted image 20250901105659.png",
     "Pasted image 20250901105627.png",
     "Pasted image 20250901105533.png",
-    "1 - Main notes/Untitled 1.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
