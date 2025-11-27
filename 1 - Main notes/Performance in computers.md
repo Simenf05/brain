@@ -9,7 +9,11 @@ $\text{Performance}_X={1\over{\text{Execution time}_X}}$.
 For computer $X$ and $Y$ we have that the performance of $X$ is better than $Y$ if,
 $\text{Performance}_X\gt{\text{Performance}_Y}$
 
+### Final equation for performance
 
+$$
+\text{Time}={\text{Instructoins}\over{\text{Program}}}\times{\text{Clock cycles}\over{\text{Instructions}}}\times{\text{Seconds}\over{\text{Clock cycle}}}
+$$
 
 
 
