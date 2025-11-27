@@ -1,7 +1,7 @@
 # Sketch note: 2025-11-27 10:04
 # Task list for computers
 
-- [ ] Kapittel 1
+- [x] Kapittel 1
 	- 1.1 til 1.13
 - [ ] Kapittel 2
 	- 2.1 til 2.12
