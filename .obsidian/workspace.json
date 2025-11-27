@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Performance in computers"
             }
+          },
+          {
+            "id": "c1c393377977a743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Tasklist for computers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasklist for computers"
+            }
           }
         ]
       }
@@ -194,17 +218,17 @@
   },
   "active": "4517dfa45cfc58d1",
   "lastOpenFiles": [
+    "4 - Sketch notes/Tasklist for computers.md",
+    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Operating System.md",
     "1 - Main notes/Network address translation.md",
-    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/SWOT-modell.md",
     "1 - Main notes/Datamaskintyper.md",
     "1 - Main notes/Application layer.md",
     "1 - Main notes/Routing algorithms.md",
-    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Contribution md.md",
     "1 - Main notes/Algdat sammendrag.md~",
     "1 - Main notes/Transport layer.md",
