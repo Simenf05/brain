@@ -9,6 +9,10 @@ $\text{Performance}_X={1\over{\text{Execution time}_X}}$.
 For computer $X$ and $Y$ we have that the performance of $X$ is better than $Y$ if,
 $\text{Performance}_X\gt{\text{Performance}_Y}$
 
+### Clock rate
+The computer designers often want to increase the computers speed to do basic functionality, and from that we get clock rate. The clock is the central pulse of the entire computer. We often measure it in clock period, which is the time it takes to complete a full clock cycle. This is the time i takes the clock to be active until the clock is active again. It is also measured in the clock rate, which is the inverse of the clock cycle.
+$$\text{Clock rate}={1\over{\text{Clock cycle}}}$$
+
 ### Final equation for performance
 
 $$
