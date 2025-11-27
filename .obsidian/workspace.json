@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Untitled.md",
+                "file": "1 - Main notes/Two's complement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Two's complement"
             }
           },
           {
@@ -244,7 +244,7 @@
   "active": "4bdb85d43f4b7372",
   "lastOpenFiles": [
     "1 - Main notes/Performance in computers.md",
-    "1 - Main notes/Untitled.md",
+    "1 - Main notes/Two's complement.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Operating System.md",
