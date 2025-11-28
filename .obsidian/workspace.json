@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Two's complement.md",
+                "file": "1 - Main notes/Algdat sammendrag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Two's complement"
+              "title": "Algdat sammendrag"
             }
           },
           {
@@ -243,8 +243,8 @@
   },
   "active": "4bdb85d43f4b7372",
   "lastOpenFiles": [
-    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Two's complement.md",
+    "1 - Main notes/Performance in computers.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Operating System.md",

@@ -115,7 +115,7 @@ Vi sorterer etter siffer i tallene
 Vi putter i bøtte siffer for siffer 
 Starter med å sortere bakfra, også går vi fremover med siffer
 Når vi bruker counting sort så har vi kjøretid:
-$\Theta(d*n+k)$
+$\Theta(d*(n+k))$
 
 ### Stabil rutine
 Bytter ikke verdier som er like
