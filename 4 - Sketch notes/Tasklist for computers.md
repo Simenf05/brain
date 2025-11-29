@@ -3,7 +3,7 @@
 
 - [x] Kapittel 1
 	- 1.1 til 1.13
-- [ ] Kapittel 2
+- [x] Kapittel 2
 	- 2.1 til 2.12
 	- 2.14
 	- 2.22

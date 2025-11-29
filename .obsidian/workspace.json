@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,12 +289,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0bae97a385f2e96",
+  "active": "5906f70702f9cdb8",
   "lastOpenFiles": [
-    "1 - Main notes/Two's complement.md",
     "4 - Sketch notes/Tasklist for computers.md",
-    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Instructions.md",
+    "1 - Main notes/Two's complement.md",
+    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
