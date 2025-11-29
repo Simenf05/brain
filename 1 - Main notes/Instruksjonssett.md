@@ -1,7 +1,7 @@
 2025-08-26 11:27
 
 Status:
-Tags:
+Tags: #datamaskiner #computers #instructions
 
 # Instruksjonssett
 

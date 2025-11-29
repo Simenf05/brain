@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "4bdb85d43f4b7372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Algdat sammendrag.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Algdat sammendrag"
-            }
-          },
-          {
             "id": "c1c393377977a743",
             "type": "leaf",
             "state": {
@@ -78,9 +54,57 @@
               "icon": "lucide-file",
               "title": "Tasklist for computers"
             }
+          },
+          {
+            "id": "5906f70702f9cdb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Two's complement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Two's complement"
+            }
+          },
+          {
+            "id": "b0bae97a385f2e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Instructions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Instructions"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,15 +265,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bdb85d43f4b7372",
+  "active": "b0bae97a385f2e96",
   "lastOpenFiles": [
+    "1 - Main notes/Instruksjonssett.md",
+    "1 - Main notes/Instructions.md",
     "1 - Main notes/Two's complement.md",
-    "1 - Main notes/Performance in computers.md",
     "4 - Sketch notes/Tasklist for computers.md",
+    "1 - Main notes/Performance in computers.md",
+    "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Operating System.md",
     "1 - Main notes/Network address translation.md",
-    "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/SWOT-modell.md",
     "1 - Main notes/Datamaskintyper.md",
@@ -269,8 +295,6 @@
     "1 - Main notes/Selvledelse.md",
     "1 - Main notes/Logiske kretser.md",
     "1 - Main notes/Algoritmiske problemtyper.md",
-    "1 - Main notes/Asymptotic notation.md",
-    "1 - Main notes/Flyttall i datamaskinen.md",
     "Pasted image 20250901112405.png",
     "Pasted image 20250901105659.png",
     "Pasted image 20250901105627.png",
