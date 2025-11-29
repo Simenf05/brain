@@ -17,5 +17,5 @@ The two's complement is representation of numbers, used in computers. It suggest
 | `1`            | `11111111` | `11111111` | `11111111` | `11111110` | -2      |
 | `1`            | `11111111` | `11111111` | `11111111` | `11111111` | -1      |
 
-This allows a word to represent both negative numbers and positive numbers. But why not just shift all the values to be in the middle and have `00000000 00000000 00000000 00000000` be the smallest negative number, and `11111111 11111111 11111111 11111111` be the largest positive number. The reason is that two's complement is very useful when 
+This allows a word to represent both negative numbers and positive numbers. But why not just shift all the values to be in the middle and have `00000000 00000000 00000000 00000000` be the smallest negative number, and `11111111 11111111 11111111 11111111` be the largest positive number. The reason is that two's complement is very useful when doing arithmetic operations on the numbers. 
 
