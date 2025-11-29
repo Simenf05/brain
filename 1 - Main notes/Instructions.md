@@ -46,3 +46,7 @@ The last normal type of instruction is the S type, and it is the store instructi
 | 7 bits          | 5 bits | 5 bits | 3 bits | 5 bits         | 7 bits |
 
 
+
+## Branching instructions
+
+For making decisions in the code we use branching instructions. They either jump or don't jump to another location. That way we can 
