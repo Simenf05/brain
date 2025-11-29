@@ -102,6 +102,30 @@
               "icon": "lucide-file",
               "title": "Instructions"
             }
+          },
+          {
+            "id": "b1799587453aba1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Tasklist for computers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasklist for computers"
+            }
           }
         ],
         "currentTab": 3
@@ -267,11 +291,11 @@
   },
   "active": "b0bae97a385f2e96",
   "lastOpenFiles": [
-    "1 - Main notes/Instruksjonssett.md",
-    "1 - Main notes/Instructions.md",
     "1 - Main notes/Two's complement.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Performance in computers.md",
+    "1 - Main notes/Instructions.md",
+    "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Operating System.md",

@@ -33,9 +33,9 @@ Example:
 `addi x1, x2, 30`
 `lw x1, 32(x2)`
 
-| immediate | rs1    | funct3 | rd     | opcode |
-| --------- | ------ | ------ | ------ | ------ |
-| 12 bits   | 5 bits | 3 bits | 5 bits | 7 bits |
+| immediate\[11:0] | rs1    | funct3 | rd     | opcode |
+| ---------------- | ------ | ------ | ------ | ------ |
+| 12 bits          | 5 bits | 3 bits | 5 bits | 7 bits |
 
 ### S type instruction 
 The last normal type of instruction is the S type, and it is the store instructions. They store to the memory. They give to source registers and a 12 bits of immediate value. 
@@ -44,9 +44,16 @@ The last normal type of instruction is the S type, and it is the store instructi
 | immediate[11:5] | rs2    | rs1    | funct3 | immediate[0:4] | opcode |
 | --------------- | ------ | ------ | ------ | -------------- | ------ |
 | 7 bits          | 5 bits | 5 bits | 3 bits | 5 bits         | 7 bits |
+### U type instructions 
+
+The U type instructions are used to load values that require 32 bits, like 32 bits numbers. The instruction will place the immediate value at the most significant part of the register.
+
+| immediate\[31:12] | rd     | opcode |
+| ----------------- | ------ | ------ |
+| 20 bits           | 5 bits | 7 bits |
 
 
 
 ## Branching instructions
 
-For making decisions in the code we use branching instructions. They either jump or don't jump to another location. That way we can 
+For making decisions in the code we use branching instructions. They either jump or don't jump to another location. These instructions work by incrementing the Program Counter, and therefore the next instruction to be fetched will be different. 
