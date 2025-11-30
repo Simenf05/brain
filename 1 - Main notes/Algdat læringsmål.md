@@ -21,7 +21,7 @@ Tags: #algdat #algorithms
 *  [x] [Y3] Vite hva polynomer er.
 *  [x] [Y4] Kjenne grunnleggende potensregning.
 *  [x] [Y5] Ha noe kunnskap om grenseverdier.
-*  [ ] [Y6] **!** Være godt kjent med logaritmer med ulike grunntall.
+*  [x] [Y6] **!** Være godt kjent med logaritmer med ulike grunntall.
 *  [ ] [Y7] Kjenne enkel sannsynlighetsregning, indikatorvariable og forventning.
 *  [ ] [Y8] Ha noe kjennskap til rekkesummer (se også side 16 i dette heftet).
 *  [x] [Y9] Beherske helt grunnleggende mengdelære.

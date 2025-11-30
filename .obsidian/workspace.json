@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -385,10 +385,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c84dfd1ceeb3dde2",
+  "active": "b0a34c9f3895da01",
   "lastOpenFiles": [
-    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Algdat algoritme oversikt.md",
+    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",
