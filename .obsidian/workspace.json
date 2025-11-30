@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Algdat oversikt.md",
+                "file": "1 - Main notes/Algdat algoritme oversikt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algdat oversikt"
+              "title": "Algdat algoritme oversikt"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -385,10 +385,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0a34c9f3895da01",
+  "active": "c84dfd1ceeb3dde2",
   "lastOpenFiles": [
-    "1 - Main notes/Algdat oversikt.md",
     "1 - Main notes/Algdat læringsmål.md",
+    "1 - Main notes/Algdat algoritme oversikt.md",
     "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",

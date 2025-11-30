@@ -1,14 +1,9 @@
 2025-11-30 13:06
 
-Tags:
+Tags: #algdat #algorithms 
 
-# Algdat oversikt
-
-
-
+# Algdat algoritme oversikt
 # **Oversikt over Algoritmer og Metoder i Pensumheftet**
-
-Dette notatet gir en strukturert oversikt over sentrale algoritmer, datastrukturer og designmetoder som dekkes i pensumheftet, inkludert deres kjøretider og viktigste egenskaper, basert på kildematerialet.
 
 ## **I. Grunnleggende Algoritmer og Kompleksitet**
 
@@ -104,3 +99,64 @@ Dette notatet gir en strukturert oversikt over sentrale algoritmer, datastruktur
 | **Naiv String Matching**     | $O((n - m + 1)m)$              | Enkel, men ineffektiv i verste fall. $n$ er tekstlengde, $m$ er mønsterlengde.                                                                                                   |
 | **Rabin-Karp Algorithm**     | $O((n - m + 1)m)$ (Worst-Case) | Basert på hashing modulo $q$. Forventet kjøretid er $O(n+m)$ hvis antall gyldige treff er lite og $q$ er tilstrekkelig stor.                                                     |
 | **Knuth-Morris-Pratt (KMP)** | $\Theta(n)$                    | Lineær matchingstid. Krever $\Theta(m)$ preprocessingtid for å beregne $\pi$-funksjonen (som tilsvarer å unngå eksplisitt beregning av $\delta$).                                |
+|                              |                                |                                                                                                                                                                                  |
+Dette notatet gir en oversikt over kjøretidene for sentrale operasjoner knyttet til de viktigste datastrukturene og metodene som dekkes i pensumheftet. Kjøretidene er primært oppgitt som *worst-case* (verste tilfelle), med mindre annet er spesifisert (som forventet eller amortisert tid).
+
+---
+
+# **Kjøretider for Datastrukturmetoder**
+
+## **I. Elementære Datastrukturer (Kapittel 10, 16)**
+
+| Datastruktur | Operasjon | Kjøretid (Worst-Case) | Notater / Egenskaper |
+| :--- | :--- | :--- | :--- |
+| **Tabell (Array)** | Aksess (indeksering) | Konstant tid ($O(1)$) | Krever RAM-modellen der dataaksess tar konstant tid. |
+| **Stakk (Stack)** | PUSH (INSERT) | $O(1)$ | Implementerer LIFO (Last-In, First-Out). |
+| | POP (DELETE) | $O(1)$ |. |
+| **Kø (Queue)** | ENQUEUE (INSERT) | $O(1)$ | Implementerer FIFO (First-In, First-Out). |
+| | DEQUEUE (DELETE) | $O(1)$ |. |
+| **Enkel Lenket Liste**| INSERT (i front) | $O(1)$ |. |
+| | DELETE/SEARCH | $\Theta(n)$ | Worst-case tid for DELETE er $\Theta(n)$ hvis man ikke har peker til elementet. |
+| **Dynamisk Tabell** | TABLE-INSERT / DELETE | $O(1)$ (Amortized) | Ved hjelp av *tabelldobling* og *amortized analysis* (Kapittel 16). |
+
+## **II. Hashing og Søketrær (Kapittel 11, 12, 13, 17)**
+
+| Datastruktur | Operasjon | Kjøretid | Notater / Egenskaper |
+| :--- | :--- | :--- | :--- |
+| **Direkte Adressering** | INSERT, DELETE, SEARCH | $O(1)$ | Krever et lite univers av nøkler $U=\{0, 1, \dots, m-1\}$. |
+| **Hash Tabell** | INSERT, DELETE, SEARCH | $O(1)$ (Forventet) | **Worst-case** er $\Theta(n)$. Forventet tid gjelder under rimelige antagelser (f.eks. uniform hashing). |
+| | INSERT, DELETE, SEARCH | $O(1)$ (Worst-case) | Kan oppnås for statiske datasett (perfekt hashing). |
+| **Binært Søketre (BST)** | SEARCH, INSERT, DELETE | $O(h)$ | $h$ er høyden på treet. Worst-case $h$ er $\Theta(n)$. |
+| | Tree-Minimum, Tree-Maximum, SUCCESSOR, PREDECESSOR | $O(h)$ |. |
+| **Rød-Svart Tre (Red-Black)** | SEARCH, MIN, MAX, SUCC, PRED, INSERT, DELETE | $O(\lg n)$ | Garanti for at høyden $h$ er $O(\lg n)$. |
+| **Order-Statistic Tree** | OS-SELECT, OS-RANK | $O(\lg n)$ | Basert på Rød-Svart Tre, hvor operasjonene SEARCH, INSERT og DELETE også kjører i $O(\lg n)$ tid. |
+
+## **III. Heaper og Prioritetskøer (Kapittel 6)**
+
+| Datastruktur | Operasjon | Kjøretid (Worst-Case) | Notater / Egenskaper |
+| :--- | :--- | :--- | :--- |
+| **Maks-Haug (Max-Heap)** | Max-Heap-Insert | $O(\lg n)$ | Hvor $n$ er antall elementer i haugen. |
+| | Max-Heap-Extract-Max | $O(\lg n)$ |. |
+| | Max-Heap-Increase-Key | $O(\lg n)$ |. |
+| | Build-Max-Heap | $O(n)$ |. |
+| **Fibonacci Heap** | INSERT, DECREASE-KEY | $O(1)$ (Amortized) | Mer avansert datastruktur som gir bedre amortisert tid for visse operasjoner. |
+| | EXTRACT-MIN, DELETE | $O(\lg n)$ (Amortized) |. |
+
+## **IV. Disjunkte Mengder (Kapittel 19)**
+
+| Algoritme/Metode | Kjøretid (Amortized) | Notater / Egenskaper |
+| :--- | :--- | :--- |
+| **MAKE-SET** | $O(1)$ |. |
+| **FIND-SET** (med path compression og union by rank) | $O(\alpha(n))$ | $\alpha(n)$ er invers-Ackermann funksjonen, som vokser ekstremt sakte. En sekvens av $m$ operasjoner koster $O(m \alpha(n))$. |
+| **UNION** (Implementert via LINK og FIND-SET) | $O(\alpha(n))$ | Assosiert kostnad (inkludert FIND-SET) er lav. |
+
+## **V. Amortized Analysis (Kapittel 16)**
+
+Amortized analysis er en teknikk for å analysere kostnaden over en *sekvens* av operasjoner, selv om individuelle operasjoner kan være dyre.
+
+| Operasjon                                               | Kjøretid (Amortized) | Type Analyse                                                               |
+| :------------------------------------------------------ | :------------------- | :------------------------------------------------------------------------- |
+| **PUSH / POP** (på en stakk)                            | $O(1)$               | Amortisert tid er lik faktisk tid.                                         |
+| **MULTIPOP** (fjerning av $k$ elementer fra stakk)      | $O(1)$               | Amortized cost for PUSH/POP/MULTIPOP er $O(1)$ per operasjon i en sekvens. |
+| **KMP-MATCHER** Preprocessing (COMPUTE-PREFIX-FUNCTION) | $\Theta(m)$          | Bruker *aggregate method* for amortisert analyse.                          |
+| **KMP-MATCHER** Matching Time                           | $\Theta(n)$          | Etter $\Theta(m)$ preprocessing.                                           |

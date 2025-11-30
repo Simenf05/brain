@@ -6,12 +6,12 @@ Tags: #algdat #algorithms
 ## **Overordnede læringsmål**
 
 *  [ ] [X1] Dere skal ha kunnskap om et bredt spekter av etablerte algoritmer og datastrukturer.
-*  [ ] [X2] Dere skal ha kunnskap om klassiske algoritmiske problemer med kjente effektive løsninger.
-*  [ ] [X3] Dere skal ha kunnskap om komplekse problemer uten kjente effektive løsninger.
-*  [ ] [X4] Dere skal kunne analysere algoritmers korrekthet og effektivitet.
-*  [ ] [X5] Dere skal kunne formulere problemer så de kan løses av algoritmer.
+*  [x] [X2] Dere skal ha kunnskap om klassiske algoritmiske problemer med kjente effektive løsninger.
+*  [x] [X3] Dere skal ha kunnskap om komplekse problemer uten kjente effektive løsninger.
+*  [x] [X4] Dere skal kunne analysere algoritmers korrekthet og effektivitet.
+*  [x] [X5] Dere skal kunne formulere problemer så de kan løses av algoritmer.
 *  [ ] [X6] **!** Dere skal kunne konstruere nye effektive algoritmer.
-*  [ ] [X7] Dere skal være i stand til å bruke eksisterende algoritmer og programvare på nye problemer.
+*  [x] [X7] Dere skal være i stand til å bruke eksisterende algoritmer og programvare på nye problemer.
 *  [ ] [X8] Dere skal være i stand til å utvikle nye løsninger på praktiske algoritmiske problemstillinger.
 
 ## **Forkunnskaper (Y-mål)**
@@ -152,10 +152,10 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [ ] [J5] Forstå hvordan man kan representere et **korteste-vei-tre**.
 *  [x] [J6] **!** Forstå **kant-oppdatering** (edge relaxation) og **Relax**.
 *  [ ] [J7] Forstå ulike egenskaper ved korteste veier og oppdatering (Triangle inequality, upper-bound property, no-path property, convergence property, path-relaxation property, predecessor-subgraph property).
-*  [ ] [J8] Forstå **Bellman-Ford**.
-*  [ ] [J9] Forstå **Dag-Shortest-Paths**.
+*  [x] [J8] Forstå **Bellman-Ford**.
+*  [x] [J9] Forstå **Dag-Shortest-Paths**.
 *  [ ] [J10] **!** Forstå kobling mellom Dag-Shortest-Paths og **dynamisk programmering**.
-*  [ ] [J11] Forstå **Dijkstra**, inkl. kjøretid med Fibonacci-haug.
+*  [x] [J11] Forstå **Dijkstra**, inkl. kjøretid med Fibonacci-haug.
 *  [ ] [J12] Kunne uttrykke korteste-vei-problemet (én til én) som et **lineært program**.
 
 ### **Forelesning 11: Korteste vei fra alle til alle**
@@ -167,40 +167,40 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 
 ### **Forelesning 12: Maksimal flyt**
 
-*  [ ] [L1] Kunne definere **flytnett**, **flyt** og **maks-flyt-problemet**.
-*  [ ] [L2] Kunne håndtere **antiparallelle kanter** og **flere kilder og sluk**.
-*  [ ] [L3] **!** Kunne definere **restnettet** til et flytnett med en gitt flyt.
-*  [ ] [L4] Forstå hvordan man kan **oppheve (cancel) flyt**.
-*  [ ] [L5] Forstå hva en **forøkende sti** (augmenting path) er.
+*  [x] [L1] Kunne definere **flytnett**, **flyt** og **maks-flyt-problemet**.
+*  [x] [L2] Kunne håndtere **antiparallelle kanter** og **flere kilder og sluk**.
+*  [x] [L3] **!** Kunne definere **restnettet** til et flytnett med en gitt flyt.
+*  [x] [L4] Forstå hvordan man kan **oppheve (cancel) flyt**.
+*  [x] [L5] Forstå hva en **forøkende sti** (augmenting path) er.
 *  [ ] [L6] Forstå hva **snitt**, **snitt-kapasitet** og **minimalt snitt** er.
 *  [ ] [L7] **!** Forstå **maks-flyt/min-snitt-teoremet**.
-*  [ ] [L8] Forstå **Ford-Fulkerson-Method** og **Ford-Fulkerson**.
-*  [ ] [L9] Forstå **Edmonds-Karp-algoritmen** (Ford-Fulkerson med BFS).
+*  [x] [L8] Forstå **Ford-Fulkerson-Method** og **Ford-Fulkerson**.
+*  [x] [L9] Forstå **Edmonds-Karp-algoritmen** (Ford-Fulkerson med BFS).
 *  [ ] [L10] Forstå hvordan Ford-Fulkerson kan finne et **minimalt snitt**.
-*  [ ] [L11] Forstå hvordan maks-flyt kan finne en **maksimum bipartitt matching**.
-*  [ ] [L12] **!** Forstå **heltallsteoremet** (integrality theorem).
-*  [ ] [L13] **!** Være i stand til å konstruere **reduksjoner til maks-flyt-problemet**.
+*  [x] [L11] Forstå hvordan maks-flyt kan finne en **maksimum bipartitt matching**.
+*  [x] [L12] **!** Forstå **heltallsteoremet** (integrality theorem).
+*  [x] [L13] **!** Være i stand til å konstruere **reduksjoner til maks-flyt-problemet**.
 *  [ ] [L14] Kunne uttrykke maks-flyt og **billigste flyt** (minimum-cost flow) som **lineære program**.
 
 ### **Forelesning 13: NP-kompletthet**
 
-*  [ ] [M1] Forstå **koding** (encoding) av en instans.
+*  [x] [M1] Forstå **koding** (encoding) av en instans.
 *  [ ] [M2] Forstå hvorfor løsningen på det **binære ryggsekkproblemet** ikke er polynomisk.
 *  [ ] [M3] Forstå forskjellen på **konkrete** og **abstrakte problemer**.
-*  [ ] [M4] Forstå representasjonen av **beslutningsproblemer** som **formelle språk**.
+*  [x] [M4] Forstå representasjonen av **beslutningsproblemer** som **formelle språk**.
 *  [ ] [M5] Forstå definisjonen av klassene **P**, **NP** og **co-NP**.
-*  [ ] [M6] **!** Forstå definisjonen av **NP-hardhet** og **NP-kompletthet**.
+*  [x] [M6] **!** Forstå definisjonen av **NP-hardhet** og **NP-kompletthet**.
 *  [ ] [M7] Forstå forholdet mellom NP-hardhet/NP-kompletthet og ulike problemtyper (Søkeproblemer, beslutningsproblemer og optimeringsproblemer).
 *  [ ] [M8] Forstå den konvensjonelle hypotesen om forholdet mellom P, NP og NPC.
 *  [ ] [M9] Forstå reduksjon begge veier mellom **optimering** og **terskling**.
-*  [ ] [M10] Forstå reduksjon begge veier mellom **søk** og **beslutning**.
-*  [ ] [M11] Forstå beviset for at **CIRCUIT-SAT er NP-komplett**.
+*  [x] [M10] Forstå reduksjon begge veier mellom **søk** og **beslutning**.
+*  [x] [M11] Forstå beviset for at **CIRCUIT-SAT er NP-komplett**.
 
 ### **Forelesning 14: NP-komplette problemer**
 
-*  [ ] [N1] **!** Forstå hvordan **NP-kompletthet kan bevises ved én reduksjon**.
+*  [x] [N1] **!** Forstå hvordan **NP-kompletthet kan bevises ved én reduksjon**.
 *  [ ] [N2] **!** Kjenne de **NP-komplette problemene** CIRCUIT-SAT, SAT, 3-CNF-SAT, CLIQUE, VERTEX-COVER, HAM-CYCLE, TSP og SUBSET-SUM.
-*  [ ] [N3] Forstå NP-kompletthetsbevisene for disse problemene.
-*  [ ] [N4] Forstå at det **binære ryggsekkproblemet er NP-hardt**.
-*  [ ] [N5] Forstå at **lengste-enkle-vei-problemet er NP-hardt**.
-*  [ ] [N6] Kjenne generelle reduksjonsstrategier og kunne konstruere enkle bevis for NP-hardhet og NP-kompletthet.
+*  [x] [N3] Forstå NP-kompletthetsbevisene for disse problemene.
+*  [x] [N4] Forstå at det **binære ryggsekkproblemet er NP-hardt**.
+*  [x] [N5] Forstå at **lengste-enkle-vei-problemet er NP-hardt**.
+*  [x] [N6] Kjenne generelle reduksjonsstrategier og kunne konstruere enkle bevis for NP-hardhet og NP-kompletthet.
