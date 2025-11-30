@@ -198,6 +198,30 @@
               "icon": "lucide-file",
               "title": "Algdat læringsmål"
             }
+          },
+          {
+            "id": "c84dfd1ceeb3dde2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Algdat oversikt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Algdat oversikt"
+            }
           }
         ],
         "currentTab": 7
@@ -363,8 +387,9 @@
   },
   "active": "b0a34c9f3895da01",
   "lastOpenFiles": [
-    "1 - Main notes/Algdat sammendrag.md",
+    "1 - Main notes/Algdat oversikt.md",
     "1 - Main notes/Algdat læringsmål.md",
+    "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",
     "4 - Sketch notes/Tasklist for computers.md",
@@ -390,7 +415,6 @@
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
     "1 - Main notes/Gode tips til eksamen.md",
-    "1 - Main notes/Selvledelse.md",
     "Pasted image 20250901112405.png",
     "Pasted image 20250901105659.png",
     "Pasted image 20250901105627.png",
