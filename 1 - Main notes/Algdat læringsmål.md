@@ -150,7 +150,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [x] [J3] Forstå at **korteste enkle vei** (simple path) kan eksistere selv om en negativ sykel forhindrer at korteste vei gjør det.
 *  [ ] [J4] Forstå at korteste enkle vei kan løses vha. **lengste enkle vei** og omvendt.
 *  [ ] [J5] Forstå hvordan man kan representere et **korteste-vei-tre**.
-*  [ ] [J6] **!** Forstå **kant-oppdatering** (edge relaxation) og **Relax**.
+*  [x] [J6] **!** Forstå **kant-oppdatering** (edge relaxation) og **Relax**.
 *  [ ] [J7] Forstå ulike egenskaper ved korteste veier og oppdatering (Triangle inequality, upper-bound property, no-path property, convergence property, path-relaxation property, predecessor-subgraph property).
 *  [ ] [J8] Forstå **Bellman-Ford**.
 *  [ ] [J9] Forstå **Dag-Shortest-Paths**.
