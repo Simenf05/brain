@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "a28d6d47c3452a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Arithmetic Logic Unit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arithmetic Logic Unit"
-            }
-          },
-          {
             "id": "b0bae97a385f2e96",
             "type": "leaf",
             "state": {
@@ -224,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,13 +253,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -385,15 +359,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0a34c9f3895da01",
+  "active": "b0bae97a385f2e96",
   "lastOpenFiles": [
-    "1 - Main notes/Algdat algoritme oversikt.md",
-    "1 - Main notes/Algdat læringsmål.md",
-    "1 - Main notes/Algdat sammendrag.md",
+    "Pasted image 20251201103928.png",
+    "Pasted image 20250901112405.png",
+    "Pasted image 20250901105659.png",
+    "Pasted image 20250901105627.png",
+    "Pasted image 20250901105533.png",
     "1 - Main notes/Arithmetic Logic Unit.md",
+    "1 - Main notes/Instructions.md",
+    "1 - Main notes/Algdat læringsmål.md",
+    "1 - Main notes/Algdat algoritme oversikt.md",
+    "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Two's complement.md",
     "4 - Sketch notes/Tasklist for computers.md",
-    "1 - Main notes/Instructions.md",
     "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
@@ -414,11 +393,6 @@
     "1 - Main notes/Tasks for itgk.md",
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
-    "1 - Main notes/Gode tips til eksamen.md",
-    "Pasted image 20250901112405.png",
-    "Pasted image 20250901105659.png",
-    "Pasted image 20250901105627.png",
-    "Pasted image 20250901105533.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
