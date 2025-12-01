@@ -12,3 +12,4 @@ $$(-1)^\text{S} \times \text{F} \times 2^\text{E}$$
 
 
 
+
