@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "c1c393377977a743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Sketch notes/Tasklist for computers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasklist for computers"
-            }
-          },
-          {
             "id": "5906f70702f9cdb8",
             "type": "leaf",
             "state": {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Instructions.md",
+                "file": "1 - Main notes/Arithmetic Logic Unit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Instructions"
+              "title": "Arithmetic Logic Unit"
             }
           },
           {
@@ -200,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -361,18 +338,22 @@
   },
   "active": "b0bae97a385f2e96",
   "lastOpenFiles": [
+    "1 - Main notes/Two's complement.md",
+    "Pasted image 20251201111803.png",
+    "1 - Main notes/Arithmetic Logic Unit.md",
+    "Pasted image 20251201110422.png",
+    "Pasted image 20251201110404.png",
+    "Pasted image 20251201104401.png",
+    "1 - Main notes/Instructions.md",
+    "4 - Sketch notes/Tasklist for computers.md",
     "Pasted image 20251201103928.png",
     "Pasted image 20250901112405.png",
     "Pasted image 20250901105659.png",
     "Pasted image 20250901105627.png",
     "Pasted image 20250901105533.png",
-    "1 - Main notes/Arithmetic Logic Unit.md",
-    "1 - Main notes/Instructions.md",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Algdat algoritme oversikt.md",
     "1 - Main notes/Algdat sammendrag.md",
-    "1 - Main notes/Two's complement.md",
-    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
@@ -396,11 +377,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "1 - Main notes/IPv4-datagram-format.png",
-    "1 - Main notes/IPv6-datagram-format.png",
-    "1 - Main notes/DHCP-message-flow.png",
-    "1 - Main notes/Congestion-control-threshold.png",
-    "1 - Main notes/TCP-finite-state-machine.png",
-    "1 - Main notes/TCP-handshake.png",
     "Untitled",
     "4 - Sketch notes",
     "3 - Templates",
