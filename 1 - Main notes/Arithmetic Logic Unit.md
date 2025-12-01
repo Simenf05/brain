@@ -1,3 +1,8 @@
+---
+aliases:
+  - ALU
+---
+
 2025-11-29 17:11
 
 Tags: #computers #datamaskiner #alu #arithmeticlogicunit #arithmetic #cpu
@@ -9,7 +14,9 @@ The arithmetic logic unit is the part of the processor that performs the most ba
 - subtraction
 - multiplication
 - division
-The arithmetic logic unit has to support both real numbers and fractional numbers, but how do we represent that in hardware? 
+The arithmetic logic unit has to support both rational numbers and fractional numbers, but how do we represent that in hardware? 
+This note covers rational numbers, fractional numbers are covered [[Floating point numbers|here]].
+
 
 ## Addition
 Addition is simple, and works just the same way it does in elementary school. You start with both the least significant bits, and sum them together. If the value is 1, then the result is 1. If the value is 2 or 3, then the value carries over to the next digit. This way we get:
@@ -66,3 +73,4 @@ More compact design using the remainder for both quotient and remainder.
 
 ### Faster division
 Faster division is hard because you cannot just throw more hardware at the problem. This is because the problem requires to know the result of the first subtraction before it can perform the other one. 
+
