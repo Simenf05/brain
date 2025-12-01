@@ -14,6 +14,8 @@ Although this formula is nice many use a slightly more sophisticated version. RI
 
 $$(-1)^\text{S} \times (1+\text{F}) \times 2^\text{E}$$
 
+This is the IEEE 754 standard of floating point numbers, and they are widely used on many different computer. 
+
 
 
 
