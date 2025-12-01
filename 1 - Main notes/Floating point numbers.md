@@ -19,4 +19,3 @@ This is the IEEE 754 standard of floating point numbers, and they are widely use
 
 
 
-
