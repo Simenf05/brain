@@ -29,8 +29,8 @@ This turns into this:
 This is one of the motivations for using [[two's complement]], and we can save space and time by keeping operations like this simple. 
 
 ## Multiplication
-Multiplication and division is where it gets more tricky. To multiply we use this cuircut.
-![[Pasted image 20251201121105.png]]
+Multiplication and division is where it gets more tricky. To multiply we use this circuit.
+![[Pasted image 20251201123704.png]]
 
 It works similar to a for loop. For each turn you take the least significant bit of multiplier and multiply it with the multiplicand register. 
 Giving you either:
@@ -42,4 +42,10 @@ This looks like this:
 $$\text{Product}_{new}=\text{Product}_{old} + (\text{Multiplier}_{0} \times \text{Multiplicand})$$
 Where $\text{Multiplier}_{0}$ signifies the least significant bit of the multiplier register. 
 When this is done the $\text{Multiplicand}$ is shifted left once and the $\text{Multiplier}$ is shifted right. This sets up the next part of the multiplication. 
+
+To refine the model even more, and use less space we can use the product to also hold the multiplier. The product also holds one extra bit as the carry-out of the adder. 
+![[Pasted image 20251201123919.png]]
+
+### Faster multiplication
+To increase the speed of the multiplication, we can unroll the 32-bit adder. Instead of having one adder we have 31 of them. This way we can do the add in parallel and therefore speed the the multiplication up, but sacrificing space.   
 
