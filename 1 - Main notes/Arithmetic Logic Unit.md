@@ -50,12 +50,19 @@ To refine the model even more, and use less space we can use the product to also
 To increase the speed of the multiplication, we can unroll the 32-bit adder. Instead of having one adder we have 31 of them. This way we can do the add in parallel and therefore speed the the multiplication up, but sacrificing space.   
 
 ## Division
-The process for division is similar to the multiplication. We have the two operands of the operation, $\text{Dividend}$ and $\text{Divisor}$, and the two results $\text{Quotient}$ and $\text{Remainder}$. 
+The process for division is similar to the multiplication. We have the two operands, $\text{Dividend}$ and $\text{Divisor}$, and the two results $\text{Quotient}$ and $\text{Remainder}$. 
 Correlation:
 $$\text{Dividend} = \text{Quotient} \times \text{Divisor} + \text{Remainder}$$
-
-
+Division works by a similar loop, but instead of adding we use subtraction. Every iteration of the loop we compute $\text{Remainder}_{new} = \text{Remainder}_{old} - \text{Divisor}$. 
+If the new remainder is above or equal 0 we shift the quotient register to the left and the new least significant bit is 1.
+If the remainder is below 0, we add the divisor back to the remainder, and shift the quotient left, but the new least significant bit is 0.
+Then we shift the divisor to the right.
 
 ![[Pasted image 20251201125935.png]]
 
+More compact design using the remainder for both quotient and remainder. 
 
+![[Pasted image 20251201143432.png]]
+
+### Faster division
+Faster division is hard because you cannot just throw more hardware at the problem. This is because the problem requires to know the result of the first subtraction before it can perform the other one. 
