@@ -49,3 +49,13 @@ To refine the model even more, and use less space we can use the product to also
 ### Faster multiplication
 To increase the speed of the multiplication, we can unroll the 32-bit adder. Instead of having one adder we have 31 of them. This way we can do the add in parallel and therefore speed the the multiplication up, but sacrificing space.   
 
+## Division
+The process for division is similar to the multiplication. We have the two operands of the operation, $\text{Dividend}$ and $\text{Divisor}$, and the two results $\text{Quotient}$ and $\text{Remainder}$. 
+Correlation:
+$$\text{Dividend} = \text{Quotient} \times \text{Divisor} + \text{Remainder}$$
+
+
+
+![[Pasted image 20251201125935.png]]
+
+
