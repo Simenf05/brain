@@ -81,7 +81,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [x] [C2] Forstå Bisect og Bisect′ (se appendiks D i dette heftet).
 *  [x] [C3] Forstå Merge-Sort.
 *  [x] [C4] Forstå Quicksort og Randomized-Quicksort.
-*  [ ] [C5] **!** Kunne løse rekurrenser med **substitusjon**, **rekursjonstrær** og **masterteoremet**.
+*  [x] [C5] **!** Kunne løse rekurrenser med **substitusjon**, **rekursjonstrær** og **masterteoremet**.
 *  [ ] [C6] **!** Kunne løse rekurrenser med **iterasjonsmetoden** (se appendiks C i dette heftet).
 
 ### **Forelesning 4: Rangering i lineær tid**
