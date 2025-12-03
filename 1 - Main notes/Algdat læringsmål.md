@@ -97,7 +97,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 ### **Forelesning 5: Rotfaste trestrukturer**
 
 *  [x] [E1] **!** Forstå hvordan **hauger** fungerer, inkl. **haugegenskapen** (the heap property), og hvordan de kan brukes som prioritetskøer (Parent, Left, Right, Max-Heapify, Build-Max-Heap, Heapsort, Max-Heap-Insert, Max-Heap-Extract-Max, Max-Heap-Increase-Key, Max-Heap-Maximum. Også tilsvarende for min-heaps, f.eks., Build-Min-Heap og Min-Heap-Extract-Min.).
-*  [ ] [E2] Forstå Heapsort.
+*  [x] [E2] Forstå Heapsort.
 *  [x] [E3] Forstå hvordan rotfaste trær kan implementeres med noder og pekere (inkl. med pekere til første barn og neste søsken).
 *  [x] [E4] **!** Forstå hvordan **binære søketrær** fungerer, inkl. **binær-søketre-egenskapen** (the binary-search-tree property) (Inorder-Tree-Walk, Tree-Search, Iterative-Tree-Search, Tree-Minimum, Tree-Maximum, Tree-Successor, Tree-Predecessor, Tree-Insert, Transplant, Tree-Delete).
 *  [x] [E5] Vite at forventet høyde for et tilfeldig binært søketre er $\Theta(\lg n)$.
