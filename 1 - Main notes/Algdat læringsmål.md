@@ -68,7 +68,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 
 ### **Forelesning 2: Problemer og reduksjoner**
 
-*  [ ] [B1] Forstå definisjonene av **søkeproblemer**, **beslutningsproblemer** og **optimeringsproblemer**.
+*  [x] [B1] Forstå definisjonene av **søkeproblemer**, **beslutningsproblemer** og **optimeringsproblemer**.
 *  [x] [B2] Forstå ulike typer reduksjoner (Turing, Cook, Levin og Karp), og forholdet mellom dem.
 *  [x] [B3] Forstå redusibilitets-relasjonen som relativ vanskegrad.
 *  [x] [B4] **!** Forstå **løkkeinvarianter** og **induksjon**.
