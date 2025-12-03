@@ -62,7 +62,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [x] [A2] Kjenne egenskapene til random-access machine-modellen (RAM).
 *  [x] [A3] Kunne definere problem, instans og problemstørrelse.
 *  [x] [A4] **!** Kunne definere og bruke asymptotisk notasjon, O, $\Omega$, $\Theta$, o og $\omega$.
-*  [ ] [A5] **!** Kunne definere best-case, average-case og worst-case.
+*  [x] [A5] **!** Kunne definere best-case, average-case og worst-case.
 *  [x] [A6] **!** Forstå at alle av O, $\Omega$, $\Theta$, o og $\omega$ kan beskrive best-, worst- og average-case.
 *  [x] [A7] Forstå Insertion-Sort.
 
