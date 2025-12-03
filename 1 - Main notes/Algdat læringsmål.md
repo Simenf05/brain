@@ -22,17 +22,17 @@ Tags: #algdat #algorithms
 *  [x] [Y4] Kjenne grunnleggende potensregning.
 *  [x] [Y5] Ha noe kunnskap om grenseverdier.
 *  [x] [Y6] **!** Være godt kjent med logaritmer med ulike grunntall.
-*  [ ] [Y7] Kjenne enkel sannsynlighetsregning, indikatorvariable og forventning.
-*  [ ] [Y8] Ha noe kjennskap til rekkesummer (se også side 16 i dette heftet).
+*  [x] [Y7] Kjenne enkel sannsynlighetsregning, indikatorvariable og forventning.
+*  [x] [Y8] Ha noe kjennskap til rekkesummer (se også side 16 i dette heftet).
 *  [x] [Y9] Beherske helt grunnleggende mengdelære.
 *  [x] [Y10] Kjenne grunnleggende terminologi for relasjoner, ordninger og funksjoner.
 *  [x] [Y11] Kjenne grunnleggende terminologi for og egenskaper ved grafer og trær.
 *  [x] [Y12] Kjenne til enkel kombinatorikk, som permutasjoner og kombinasjoner.
 *  [x] [Y13] Forstå hvordan tabeller (arrays), matriser, stakker og køer fungerer.
 *  [x] [Y14] Forstå hvordan lenkede lister fungerer.
-*  [ ] [Y15] **!** Forstå hvordan hashtabeller fungerer.
-*  [ ] [Y16] Vite at man for statiske datasett kan ha worst-case O(1) for søk (såkalt perfekt hashing).
-*  [ ] [Y17] Forstå hvordan tabelldobling (array doubling) fungerer.
+*  [x] [Y15] **!** Forstå hvordan hashtabeller fungerer.
+*  [x] [Y16] Vite at man for statiske datasett kan ha worst-case O(1) for søk (såkalt perfekt hashing).
+*  [x] [Y17] Forstå hvordan tabelldobling (array doubling) fungerer.
 
 ## **Generelle læringsmål for algoritmer, datastrukturer og problemer (Z-mål)**
 
@@ -59,7 +59,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 ### **Forelesning 1: Algoritmer og kompleksitet**
 
 *  [x] [A1] Forstå bokas pseudokode-konvensjoner.
-*  [ ] [A2] Kjenne egenskapene til random-access machine-modellen (RAM).
+*  [x] [A2] Kjenne egenskapene til random-access machine-modellen (RAM).
 *  [x] [A3] Kunne definere problem, instans og problemstørrelse.
 *  [x] [A4] **!** Kunne definere og bruke asymptotisk notasjon, O, $\Omega$, $\Theta$, o og $\omega$.
 *  [ ] [A5] **!** Kunne definere best-case, average-case og worst-case.

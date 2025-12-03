@@ -104,30 +104,6 @@
             }
           },
           {
-            "id": "b0a34c9f3895da01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Algdat læringsmål.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Algdat læringsmål"
-            }
-          },
-          {
             "id": "c84dfd1ceeb3dde2",
             "type": "leaf",
             "state": {
@@ -152,17 +128,31 @@
             }
           },
           {
-            "id": "7a23fb8222863f03",
+            "id": "f1eb798aa164b531",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Algdat læringsmål.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Algdat læringsmål"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -322,11 +312,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0a34c9f3895da01",
+  "active": "f1eb798aa164b531",
   "lastOpenFiles": [
+    "1 - Main notes/Algdat algoritme oversikt.md",
+    "1 - Main notes/Untitled.md",
+    "1 - Main notes/Tasks for itgk.md",
+    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",
-    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Floating point numbers.md",
     "Pasted image 20251201160638.png",
     "1 - Main notes/Internet protocol.md",
@@ -342,7 +335,6 @@
     "Pasted image 20251201110404.png",
     "Pasted image 20251201104401.png",
     "1 - Main notes/Instructions.md",
-    "1 - Main notes/Algdat algoritme oversikt.md",
     "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
@@ -360,7 +352,6 @@
     "4 - Sketch notes/TODO.md",
     "1 - Main notes/Flersykelprosessor.md~",
     "1 - Main notes/Strategi.md",
-    "1 - Main notes/Tasks for itgk.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled",
