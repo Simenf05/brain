@@ -88,10 +88,10 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 
 *  [x] [D1] **!** Forstå hvorfor sammenligningsbasert sortering har en worst-case på $\Omega(n \lg n)$.
 *  [x] [D2] Vite hva en **stabil sorteringsalgoritme** er.
-*  [ ] [D3] Forstå Counting-Sort, og hvorfor den er stabil.
-*  [ ] [D4] **!** Forstå Radix-Sort, og hvorfor den trenger en stabil subrutine.
-*  [ ] [D5] Forstå Bucket-Sort.
-*  [ ] [D6] Forstå Randomized-Select.
+*  [x] [D3] Forstå Counting-Sort, og hvorfor den er stabil.
+*  [x] [D4] **!** Forstå Radix-Sort, og hvorfor den trenger en stabil subrutine.
+*  [x] [D5] Forstå Bucket-Sort.
+*  [x] [D6] Forstå Randomized-Select.
 *  [x] [D7] Kjenne til Select (Inkl. å vite at den kan brukes til å finne de $k$ minste elementene med kjøretid $O(n)$).
 
 ### **Forelesning 5: Rotfaste trestrukturer**
