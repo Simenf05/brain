@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Enkeltsykelprosessoren"
             }
+          },
+          {
+            "id": "de2f65cbc01c7cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Instructions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Instructions"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -312,15 +336,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5821102395bd046",
+  "active": "6c5bf568054eca7f",
   "lastOpenFiles": [
+    "1 - Main notes/Instructions.md",
+    "1 - Main notes/Enkeltsykelprosessoren.md",
+    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",
     "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Floating point numbers.md",
-    "1 - Main notes/Enkeltsykelprosessoren.md",
     "Pasted image 20251204103011.png",
-    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Single.md",
     "Pasted image 20251204092243.png",
     "1 - Main notes/Algdat algoritme oversikt.md",
@@ -338,7 +363,6 @@
     "Pasted image 20251201121105.png",
     "Pasted image 20251201111803.png",
     "Pasted image 20251201110422.png",
-    "1 - Main notes/Instructions.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Operating System.md",
