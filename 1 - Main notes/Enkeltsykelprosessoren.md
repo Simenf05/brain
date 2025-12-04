@@ -1,7 +1,7 @@
 2025-09-09 10:21
 
 Status:
-Tags: 
+Tags: #computers #datamaskiner #processor
 
 # Enkeltsykelprosessoren
 Er den enkleste prosessoren vi kan lage, og den bruker en sykel på samtlige instruksjoner. 
@@ -18,6 +18,5 @@ Er den enkleste prosessoren vi kan lage, og den bruker en sykel på samtlige ins
 ### Hvordan lager vi en enkeltsykelprosessor?
 Vi må støtte:
 - lw, sw, add, sub, and, or, beq
-#### Hvordan henter vi instruksjoner?
 
-
+![[Pasted image 20251204103011.png]]
