@@ -28,7 +28,7 @@
 	- 6.11
 	- 6.14
 	- 6.15
-- [ ] Appendiks A 
+- [x] Appendiks A 
 	- A-1 til A-3
 	- A-5
 	- A-7

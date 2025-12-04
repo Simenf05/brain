@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -312,20 +312,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c5bf568054eca7f",
+  "active": "e5821102395bd046",
   "lastOpenFiles": [
+    "1 - Main notes/Arithmetic Logic Unit.md",
+    "1 - Main notes/Two's complement.md",
+    "1 - Main notes/Performance in computers.md",
+    "1 - Main notes/Floating point numbers.md",
+    "1 - Main notes/Enkeltsykelprosessoren.md",
     "Pasted image 20251204103011.png",
     "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Single.md",
-    "1 - Main notes/Floating point numbers.md",
     "Pasted image 20251204092243.png",
-    "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Algdat algoritme oversikt.md",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Tasks for itgk.md",
     "1 - Main notes/Untitled 1.md",
     "1 - Main notes/Untitled.md",
-    "1 - Main notes/Two's complement.md",
     "Pasted image 20251201160638.png",
     "1 - Main notes/Internet protocol.md",
     "1 - Main notes/Algdat sammendrag.md",
@@ -336,9 +338,7 @@
     "Pasted image 20251201121105.png",
     "Pasted image 20251201111803.png",
     "Pasted image 20251201110422.png",
-    "Pasted image 20251201110404.png",
     "1 - Main notes/Instructions.md",
-    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Operating System.md",
