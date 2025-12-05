@@ -96,3 +96,33 @@ Buzz
 
 **Problem**:
 Write a function that performs matrix multiplication of two 2D NumPy arrays *without* using `numpy.matmul` or the `@` operator — just use basic indexing and loops.
+
+---
+### **6. Word Frequency Counter**
+
+**Level**: Beginner-Intermediate  
+**Focus**: Dictionaries, loops, string manipulation
+
+**Problem**:  
+Write a function that takes a string of text and returns a dictionary where:
+
+- The keys are the unique words in the text (case-insensitive).
+- The values are the counts of how many times each word appears.
+
+You should **ignore punctuation** and treat words like `"Python"` and `"python"` as the same.
+
+#### 🔍 Example:
+
+```python
+word_count("Hello world! Hello Python.") 
+# ➞ {"hello": 2, "world": 1, "python": 1}
+```
+
+#### 🧠 Hints:
+
+- Use `str.lower()` to normalize words.
+- Use `str.isalpha()` or `str.replace()` to remove punctuation.
+- Use a dictionary to store counts.
+- Loop through words instead of using `collections.Counter` to practice basic dict operations.
+
+---

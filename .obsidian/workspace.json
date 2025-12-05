@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Enkeltsykelprosessoren.md",
+                "file": "1 - Main notes/Tasks for itgk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Enkeltsykelprosessoren"
+              "title": "Tasks for itgk"
             }
           },
           {
@@ -321,8 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,8 +337,8 @@
   },
   "active": "6c5bf568054eca7f",
   "lastOpenFiles": [
-    "1 - Main notes/Instructions.md",
     "1 - Main notes/Enkeltsykelprosessoren.md",
+    "1 - Main notes/Instructions.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",
