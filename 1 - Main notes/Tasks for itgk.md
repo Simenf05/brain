@@ -126,3 +126,41 @@ word_count("Hello world! Hello Python.")
 - Loop through words instead of using `collections.Counter` to practice basic dict operations.
 
 ---
+
+### **7. CSV Sales Analyzer**
+
+**Level**: Intermediate
+**Focus**: File handling, CSV parsing, dictionaries
+
+**Problem**:
+You are given a CSV file called `sales.csv` with the following columns:
+
+```
+Date,Product,Quantity,Price
+2025-12-01,Apple,10,0.5
+2025-12-01,Banana,5,0.2
+2025-12-02,Apple,7,0.5
+2025-12-02,Orange,3,0.7
+```
+
+Write a Python function `analyze_sales(file_path)` that:
+
+1. Reads the CSV file.
+2. Computes total revenue for each product (`Quantity * Price`).
+3. Returns a dictionary where keys are product names and values are total revenue.
+
+#### 🔍 Example:
+
+```python
+analyze_sales("sales.csv") 
+# ➞ {"Apple": 8.5, "Banana": 1.0, "Orange": 2.1}
+```
+
+#### 🧠 Hints:
+
+* Use the built-in `open()` function to read the file.
+* Use the `csv` module to parse CSV lines.
+* Keep a dictionary to accumulate revenue per product.
+* Convert `Quantity` and `Price` from strings to numbers before multiplying.
+
+---
