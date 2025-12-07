@@ -10,3 +10,4 @@ This is the fastest type of memory, and it is located within the [[CPU]]. This m
 DRAM is dynamic ram, and it is called dynamic because it has to update the values itself to persist them. DRAM is cheaper in size, but also slower. DRAM is used in the outer parts of the CPU. 
 
 
+
