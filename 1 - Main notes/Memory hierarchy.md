@@ -18,6 +18,10 @@ $$(\text{Block address})\mod{(\text{Blocks in cache})}$$
 If the amount of blocks is a power of 2, then the block address can be computed just by using the $log_2(\text{Blocks in cache})$ least significant bits of the normal address. 
 ![[Pasted image 20251207200728.png]]
 
+To know if the location we are looking up actually is storing the desired value, and not some other value that could have the same modulo we use tags. A tag is a value we store in order to know if the word stored in the cache is the correct value. In a directly mapped cache the tag is just the rest of the memory address. 
+We also need one more thing, and that is a bit to mark if the bit is valid or not. The valid bit is just there to prevent unused cache blocks to be able to match actual memory addresses. When a value is written to the cache it will set the valid to 1, and from then on the block will be valid, even when changed. But if you restart the computer, then all blocks start out not valid. 
+When looking up in the cache the least significant bits will be used to find the correct block in the cache. After finding the correct block you need to look at the valid bit, and then if the block is valid you can compare the address to the tag. If they match then you have a cache hit. 
+
 
 
 
