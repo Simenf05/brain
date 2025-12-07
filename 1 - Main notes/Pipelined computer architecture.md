@@ -24,7 +24,11 @@ add x1, x1, x1
 ```
 The load has to finish the entire pipeline to actually load the value into `x1`. Therefore the add instruction cannot start before the load is complete, or we have to implement smarter ways of detecting these problems. 
 #### Forwarding
-Forwarding is a method of handling data hazards that happen when the first instruction writes a register that the next instruction is using. This cannot handle all combinations of instructions, but works for the example over. The first instruction would 
+Forwarding is a method of handling data hazards that happen when the first instruction writes a register that the next instruction is using. This cannot handle all combinations of instructions, but works for the example over. The first instruction would forward the output value from EX to the next EX step in the pipeline. 
+![[Pasted image 20251207151925.png]]
+
+#### Bubbling
+Sometimes we want to use the output from reading from memory in the next step in the pipeline, but forwarding would be too late for this. We cannot move back in time with the data. To solve this the pipeline has to add a bubble. A bubble is just 
 
 ### Control hazards
 
