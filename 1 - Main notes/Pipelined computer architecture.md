@@ -10,7 +10,7 @@ Pipelining in the computer architecture is a way of increasing throughput of the
 ## Hazards
 There is situations where the pipeline cannot execute two instructions at the same time in the pipeline, these scenarios are called hazards. We have three types of hazards. 
 ### Structural hazards
-
+Structural hazards happen because the hardware cannot do two instructions at the same time. This is for example if you only have one memory and try to read instruction and read data at the same time. The hardware cannot do both at the same time, and thus a hazard arises. If the 
 
 ### Data hazards
 ### Control hazards
