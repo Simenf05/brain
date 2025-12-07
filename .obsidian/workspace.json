@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -361,18 +361,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5821102395bd046",
+  "active": "a3bb99ff43166e38",
   "lastOpenFiles": [
+    "1 - Main notes/Seven great ideas in computer architecture.md",
+    "1 - Main notes/Instructions.md",
+    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Pipelined computer architecture.md",
     "1 - Main notes/Untitled 3.md",
     "1 - Main notes/Untitled 2.md",
-    "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Floating point numbers.md",
     "1 - Main notes/Tasks for itgk.md",
     "1 - Main notes/Tasks for itgk.md~",
     "1 - Main notes/Enkeltsykelprosessoren.md",
-    "1 - Main notes/Instructions.md",
-    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",
     "1 - Main notes/Performance in computers.md",
