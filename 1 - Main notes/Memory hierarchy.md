@@ -13,5 +13,11 @@ We also have Flash memory and Disk memory.
 
 # Caches
 ## Direct mapping
-Direct mapping is the most straight forward structure of cache. It normally uses just the modulo of the 
+Direct mapping is the most straight forward structure of cache. It normally uses just the modulo of the amount of blocks to determine the address within the cache. This way every address maps to exactly one address in the cache. We get the simple formula:
+$$(\text{Block address})\mod{(\text{Blocks in cache})}$$
+If the amount of blocks is a power of 2, then the block address can be computed just by using the $log_2(\text{Blocks in cache})$ least significant bits of the normal address. 
+![[Pasted image 20251207200728.png]]
+
+
+
 
