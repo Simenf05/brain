@@ -28,7 +28,7 @@ Forwarding is a method of handling data hazards that happen when the first instr
 ![[Pasted image 20251207151925.png]]
 
 #### Bubbling
-Sometimes we want to use the output from reading from memory in the next step in the pipeline, but forwarding would be too late for this. We cannot move back in time with the data. To solve this the pipeline has to add a bubble. A bubble is just 
+Sometimes we want to use the output from reading from memory in the next step in the pipeline, but forwarding would be too late for this. We cannot move back in time with the data. To solve this the pipeline has to add a bubble. A bubble is just a 
 
 ### Control hazards
 
