@@ -22,6 +22,9 @@ To know if the location we are looking up actually is storing the desired value,
 We also need one more thing, and that is a bit to mark if the bit is valid or not. The valid bit is just there to prevent unused cache blocks to be able to match actual memory addresses. When a value is written to the cache it will set the valid to 1, and from then on the block will be valid, even when changed. But if you restart the computer, then all blocks start out not valid. 
 When looking up in the cache the least significant bits will be used to find the correct block in the cache. After finding the correct block you need to look at the valid bit, and then if the block is valid you can compare the address to the tag. If they match then you have a cache hit. 
 
+Since words are aligned to 32 bits at a time, the two first bits of the address can be ignored because they would align to the bytes within a word. 
+This gives us this structure:
+![[Pasted image 20251207213320.png]]
 
 
 
