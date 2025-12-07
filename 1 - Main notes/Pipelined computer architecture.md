@@ -32,10 +32,15 @@ Forwarding is a method of handling data hazards that happen when the first instr
 Sometimes we want to use the output from reading from memory in the next step in the pipeline, but forwarding would be too late for this. We cannot move back in time with the data. To solve this the pipeline has to add a bubble. A bubble is just a pause in the pipeline that does nothing and waits for the value to be able to be forwarded. 
 ![[Pasted image 20251207161724.png]]
 ### Control hazards
-Control hazards are based on needing to make a decision based on information we don't yet have. We could stall until the information is available, but this is too slow. Because a branch instruction only has two possible actions we can save a lot of time by guessing. If we get it right, we can continue as normal, and save a lot of time. If we don't get it right, we must clean up and continue as normal. 
+Control hazards are based on needing to make a decision based on information we don't yet have. We could stall until the information is available, but this is too slow. Because a branch instruction only has two possible actions we can save a lot of time by guessing. If we get it right, we can continue as normal, and save a lot of time. If we don't get it right, we must clean up and continue as normal. The cleanup is done by turning the other instructions into `nop` and continuing from the other instruction. 
 
 The simplest strategy for this to just assume a jump at all times. This can work if you know that it is more likely that you will jump, but what if the most common is to not jump in your program. We also have other strategies that rely on a [[finite state machine]] for choosing what to do next. This is the finite state machine:
 ![[Pasted image 20251207171617.png]]
+
+
+
+## Exceptions in pipeline 
+
 
 
 
