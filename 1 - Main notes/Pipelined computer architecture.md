@@ -11,6 +11,7 @@ Pipelining in the computer architecture is a way of increasing throughput of the
 - Execute
 - Memory
 - Write back
+![[Pasted image 20251207162143.png]]
 ## Hazards
 There is situations where the pipeline cannot execute two instructions at the same time in the pipeline, these scenarios are called hazards. We have three types of hazards. 
 ### Structural hazards
@@ -26,12 +27,10 @@ The load has to finish the entire pipeline to actually load the value into `x1`.
 #### Forwarding
 Forwarding is a method of handling data hazards that happen when the first instruction writes a register that the next instruction is using. This cannot handle all combinations of instructions, but works for the example over. The first instruction would forward the output value from EX to the next EX step in the pipeline. 
 ![[Pasted image 20251207151925.png]]
-
+![[Pasted image 20251207162456.png]]
 #### Bubbling
-Sometimes we want to use the output from reading from memory in the next step in the pipeline, but forwarding would be too late for this. We cannot move back in time with the data. To solve this the pipeline has to add a bubble. A bubble is just a 
-
+Sometimes we want to use the output from reading from memory in the next step in the pipeline, but forwarding would be too late for this. We cannot move back in time with the data. To solve this the pipeline has to add a bubble. A bubble is just a pause in the pipeline that does nothing and waits for the value to be able to be forwarded. 
+![[Pasted image 20251207161724.png]]
 ### Control hazards
-
-
-
+Control hazards are based on needing to make a decision based on information we don't yet have. We could stall until the information is available, but this is too slow. Because there only is two options, it is best to just guess. 
 
