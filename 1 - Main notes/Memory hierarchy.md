@@ -26,5 +26,14 @@ Since words are aligned to 32 bits at a time, the two first bits of the address 
 This gives us this structure:
 ![[Pasted image 20251207213320.png]]
 
+- Cache size is $2^n$ blocks, so $n$ bits are used for the index
+- Block size is $2^m$ words, so $m$ bits are used for the word within the block (word offset)
+- Two bits are for the byte part of the address (byte offset)
+Size of tag is therefore with a 32 bits address:
+$$\text{Tag bits} = 32-(n+m+2)$$
+Total number of bits in directly mapped cache:
+$$\text{Total number of bits} = 2^n\times(\text{block size}+\text{tag size}+\text{valid field size})$$
+
+
 
 
