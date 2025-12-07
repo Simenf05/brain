@@ -9,5 +9,9 @@ This is the fastest type of memory, and it is located within the [[CPU]]. This m
 ## DRAM
 DRAM is dynamic ram, and it is called dynamic because it has to update the values itself to persist them. DRAM is cheaper in size, but also slower. DRAM is used in the outer parts of the CPU. 
 
+We also have Flash memory and Disk memory.
 
+# Caches
+## Direct mapping
+Direct mapping is the most straight forward structure of cache. It normally uses just the modulo of the 
 
