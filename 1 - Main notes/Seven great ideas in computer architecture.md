@@ -19,7 +19,7 @@ Pipelining is a technique where you split up the task needed to be completed int
 ## Performance via Prediction
 Prediction can often be faster than waiting to be certain of what to do. It is mostly used in piplined architectures, and used on branching instructions. This is because branch instruction have a binary outcome. This way just by guessing randomly, and the branching instructions jumping and not jumping as frequently as each other, then you should get 50% on average. With some more advanced algorithms you can achieve way better branching, and modern chips usually is above 90%. 
 
-## [[Hierarchy of Memory]]
+## [[Memory hierarchy]]
 Memory can often be the bottleneck in speed, and therefore memory should be both fast and big. For this to work we need a system that has multiple layers of memory. The first layer is small but fast, this is the first memory we check and is called L1 cache. If the L1 cache misses, we go to the next layer. This is L2 cache and here we have more storage but it is slower. The layers continue like this until every layer is exhausted, and we use the main memory that contains every value. 
 
 ## Dependability via Redundancy

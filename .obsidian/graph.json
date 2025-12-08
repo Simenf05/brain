@@ -3,20 +3,42 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#os  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
+      }
+    },
+    {
+      "query": "tag:#computers  ",
+      "color": {
+        "a": 1,
+        "rgb": 12797541
+      }
+    },
+    {
+      "query": "tag:#communication  ",
+      "color": {
+        "a": 1,
+        "rgb": 14736466
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 0.565038592158073,
+  "lineSizeMultiplier": 0.623433158382217,
   "collapse-forces": false,
-  "centerStrength": 0.687743130595863,
+  "centerStrength": 0.454584748379129,
   "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 123,
-  "scale": 1.0250591917804195,
+  "linkStrength": 0.091015745600494,
+  "linkDistance": 56,
+  "scale": 0.33056216659487003,
   "close": false
 }

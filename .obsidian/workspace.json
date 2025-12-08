@@ -32,31 +32,7 @@
             }
           },
           {
-            "id": "92ccf88b79c33634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Operating System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operating System"
-            }
-          },
-          {
-            "id": "4517dfa45cfc58d1",
+            "id": "29c903a9ff324a8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#performace",
+                "query": "tag:#integers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,24 +217,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4517dfa45cfc58d1",
+  "active": "29c903a9ff324a8d",
   "lastOpenFiles": [
-    "1 - Main notes/Memory hierarchy.md",
-    "1 - Main notes/Virtual memory.md",
-    "5 - Attachments/Pasted image 20251208122921.png",
+    "5 - Attachments/Pasted image 20251208133607.png",
+    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Operating System.md",
+    "1 - Main notes/Virtual memory.md",
+    "4 - Sketch notes/KTN - 17.02.25.md",
+    "1 - Main notes/Seven great ideas in computer architecture.md",
+    "2 - Tags/computers.md",
+    "1 - Main notes/Two's complement.md",
+    "1 - Main notes/Memory hierarchy.md",
+    "5 - Attachments/Pasted image 20251208122921.png",
     "3 - Templates/Main note.md",
     "1 - Main notes/Virtual machines.md",
-    "4 - Sketch notes/Tasklist for computers.md",
     "5 - Attachments/Pasted image 20251208113712.png",
     "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Floating point numbers.md",
-    "1 - Main notes/Two's complement.md",
     "1 - Main notes/Instructions.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "5 - Attachments/Pasted image 20250901105533.png",
     "5 - Attachments",
-    "2 - Tags/computers.md",
     "1 - Main notes/Enkeltsykelprosessoren.md",
     "2 - Tags/communication.md",
     "2 - Tags/it.md",
@@ -267,10 +247,8 @@
     "1 - Main notes/Untitled 2.md",
     "1 - Main notes/2025-05-26.md",
     "1 - Main notes/2025-05-22.md",
-    "1 - Main notes/Seven great ideas in computer architecture.md",
     "2 - Tags/Untitled 1.md",
     "1 - Main notes/Performance in networks.md",
-    "1 - Main notes/Pipelined computer architecture.md",
     "5 - Attachments/Pasted image 20251207213320.png",
     "5 - Attachments/Pasted image 20251207200728.png",
     "5 - Attachments/Pasted image 20251207171617.png",

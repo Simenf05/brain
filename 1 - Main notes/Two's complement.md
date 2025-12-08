@@ -1,6 +1,6 @@
 2025-11-27 17:58
 
-Tags: #computers #datamaskiner #twoscomplement #integers
+Tags: #computers #datamaskiner
 
 # Two's complement
 

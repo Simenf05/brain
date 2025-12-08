@@ -4,7 +4,7 @@
 
 #transportlayer #communication #it #technology 
 
-# [[tcp|TCP]]
+# [[Transmission control protocol|TCP]]
 
 ## Flow control
 Handler om å kontrollere hvor raskt mann sender informasjon inn i nettverket. Det kan ha hensyn for en blid mottager og for nettverket. Det er alltid begrensa hvor raskt nettet og mottakeren kan ta det. 

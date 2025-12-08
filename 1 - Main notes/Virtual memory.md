@@ -13,8 +13,13 @@ Much like the blocks in caches, the virtual address is made up of the virtual pa
 ![[Pasted image 20251208122921.png]]
 
 ### Page table
-We use a table called the page table to translate 
+We use a table called the page table to translate from virtual addresses to the physical addresses. Make note that you need a valid bit for all the values in the page table, just like in the caches in the [[Memory hierarchy|memory hierarchy]]. In a way a page table is just a fancy way of caching. 
+![[Pasted image 20251208133607.png]]
+### Page faults
+When the valid bit is off, the physical address is on the secondary storage, meaning the [[Operating System|operating system]] has to take over. The OS moves the value from the secondary storage, and into the main memory, while also adding it to the page table. This is very expensive because the secondary storage is slow. Therefore it is called a page fault, and we want to avoid them at all costs. For this reason the operating system uses complex [[paging algorithms]] in order to minimize the chance of page faults.
 ## How it works in hardware
+
+
 
 
 
