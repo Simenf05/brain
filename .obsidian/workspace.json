@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "29c903a9ff324a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Parallelism and memory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Parallelism and memory"
-            }
-          },
-          {
             "id": "def6bd257e9b6e07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Parallelism.md",
+                "file": "1 - Main notes/Hardware multithreading.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Parallelism"
+              "title": "Hardware multithreading"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#integers",
+                "query": "round robin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Main notes/Parallelism.md",
+                "file": "1 - Main notes/Hardware multithreading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parallelism"
+              "title": "Backlinks for Hardware multithreading"
             }
           },
           {
@@ -174,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/Parallelism.md",
+                "file": "1 - Main notes/Hardware multithreading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parallelism"
+              "title": "Outgoing links from Hardware multithreading"
             }
           },
           {
@@ -203,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Parallelism.md",
+                "file": "1 - Main notes/Hardware multithreading.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Parallelism"
+              "title": "Outline of Hardware multithreading"
             }
           },
           {
@@ -244,12 +219,19 @@
   },
   "active": "def6bd257e9b6e07",
   "lastOpenFiles": [
-    "4 - Sketch notes/Tasklist for computers.md",
-    "1 - Main notes/Parallelism.md",
-    "1 - Main notes/Network Security.md",
-    "1 - Main notes/Parallelism and memory.md",
-    "1 - Main notes/Virtual memory.md",
+    "1 - Main notes/Router.md",
+    "1 - Main notes/Hardware multithreading.md",
     "1 - Main notes/Central Processing Unit.md",
+    "1 - Main notes/Maximum segment size.md",
+    "1 - Main notes/process.md",
+    "3 - Templates/Main note.md",
+    "2 - Tags/communication.md",
+    "1 - Main notes/Parallelism and memory.md",
+    "1 - Main notes/Parallelism.md",
+    "4 - Sketch notes/Tasklist for computers.md",
+    "5 - Attachments/Pasted image 20251208194331.png",
+    "1 - Main notes/Network Security.md",
+    "1 - Main notes/Virtual memory.md",
     "1 - Main notes/traceroute.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Performance in computers.md",
@@ -264,23 +246,16 @@
     "2 - Tags/computers.md",
     "1 - Main notes/Two's complement.md",
     "5 - Attachments/Pasted image 20251208122921.png",
-    "3 - Templates/Main note.md",
     "5 - Attachments/Pasted image 20251208113712.png",
     "1 - Main notes/Floating point numbers.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "5 - Attachments/Pasted image 20250901105533.png",
     "5 - Attachments",
     "1 - Main notes/Enkeltsykelprosessoren.md",
-    "2 - Tags/communication.md",
-    "2 - Tags/it.md",
-    "2 - Tags/ip.md",
-    "3 - Templates/Tag search.md",
-    "1 - Main notes/Untitled 3.md",
     "5 - Attachments/Pasted image 20251207213320.png",
     "5 - Attachments/Pasted image 20251207200728.png",
     "5 - Attachments/Pasted image 20251207171617.png",
     "5 - Attachments/Pasted image 20251207162456.png",
-    "5 - Attachments/Pasted image 20251207162143.png",
     "1 - Main notes/Tasks for itgk.md~",
     "1 - Main notes/Algdat sammendrag.md~",
     "1 - Main notes/Flersykelprosessor.md~",

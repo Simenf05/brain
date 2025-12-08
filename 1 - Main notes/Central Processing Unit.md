@@ -2,6 +2,8 @@
 aliases:
   - CPU
   - cpu
+  - processors
+  - processor
 ---
 
 2025-12-08 16:14

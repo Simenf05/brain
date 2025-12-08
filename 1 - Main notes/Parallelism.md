@@ -21,5 +21,11 @@ The most important of and most related to parallelism is the *SIMD* processors. 
 One of the benefits of allowing SIMD is that it can fetch the instruction once, and use the same instruction on many different data-streams. That way all the memory overhead you normally would get from fetching instructions can be skipped. 
 
 ### Vector instructions
-There also exists vector instructions, that are instruction that work on entire vectors of data at once. They work by  [[Pipelined computer architecture|pipe-lining]] the operations and computing multiple at the same time. Thereby increasing the performance. They are great with much data-level parallelism. 
+There also exists vector instructions, that are instruction that work on entire vectors of data at once. They work by  [[Pipelined computer architecture|pipe-lining]] the operations and computing multiple at the same time. Thereby increasing the performance. They are great with much data-level parallelism. A vector implementation of SIMD gets truly efficient when you introduce multiple lanes in the pipelines. T
+In the picture below we can see that the one on the right has four adders and this corresponds to having four lanes. Therefore it compute the sums from the vector four at a time. The one one the left can only compute one sum each clock cycle. 
+![[Pasted image 20251208194331.png]]
 
+## Further reading at
+- [[Parallelism and memory]]
+- [[Graphical processing unit]]
+- [[Hardware multithreading]]
