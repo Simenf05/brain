@@ -7,9 +7,15 @@ Virtual memory is one of the responsibilities of the [[Operating System|operatin
 
 ## Pages
 When describing parts of the virtual memory we use the terminology *page*, and this is similar to the *blocks* used in caches as part of the [[Memory hierarchy|memory hierarchy]]. While *page* and *block* is similar, it is not the same. 
-
+## Translating 
+When we have the virtual address can translate it to the physical address. The operating system takes care of that and makes sure we get the correct memory. 
+Much like the blocks in caches, the virtual address is made up of the virtual page number and the page offset. The offset corresponds to the address within that page, and the page number is used by the operating system to translate into the correct physical address. 
 ![[Pasted image 20251208122921.png]]
+
+### Page table
+We use a table called the page table to translate 
 ## How it works in hardware
+
 
 
 ### TLB
