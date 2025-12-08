@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Graphical processing unit.md",
+                "file": "1 - Main notes/Domain-Specific Architectures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Graphical processing unit"
+              "title": "Domain-Specific Architectures"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Main notes/Graphical processing unit.md",
+                "file": "1 - Main notes/Domain-Specific Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graphical processing unit"
+              "title": "Backlinks for Domain-Specific Architectures"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/Graphical processing unit.md",
+                "file": "1 - Main notes/Domain-Specific Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Graphical processing unit"
+              "title": "Outgoing links from Domain-Specific Architectures"
             }
           },
           {
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Graphical processing unit.md",
+                "file": "1 - Main notes/Domain-Specific Architectures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Graphical processing unit"
+              "title": "Outline of Domain-Specific Architectures"
             }
           },
           {
@@ -229,9 +229,12 @@
   },
   "active": "def6bd257e9b6e07",
   "lastOpenFiles": [
+    "1 - Main notes/Graphical processing unit.md",
+    "1 - Main notes/Domain-Specific Architectures.md",
+    "5 - Attachments/Pasted image 20251208211604.png",
+    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Hardware multithreading.md",
     "2 - Tags/ip.md",
-    "1 - Main notes/Graphical processing unit.md",
     "5 - Attachments/Pasted image 20251208203224.png",
     "4 - Sketch notes/Tasklist for computers.md",
     "2 - Tags/computers.md",
@@ -257,15 +260,12 @@
     "1 - Main notes/Operating System.md",
     "4 - Sketch notes/KTN - 17.02.25.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
-    "1 - Main notes/Two's complement.md",
     "5 - Attachments/Pasted image 20251208122921.png",
     "5 - Attachments/Pasted image 20251208113712.png",
-    "1 - Main notes/Floating point numbers.md",
     "5 - Attachments/Pasted image 20250901105533.png",
     "5 - Attachments",
     "5 - Attachments/Pasted image 20251207213320.png",
     "5 - Attachments/Pasted image 20251207200728.png",
-    "5 - Attachments/Pasted image 20251207171617.png",
     "1 - Main notes/Tasks for itgk.md~",
     "1 - Main notes/Algdat sammendrag.md~",
     "1 - Main notes/Flersykelprosessor.md~",
