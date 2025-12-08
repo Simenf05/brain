@@ -65,8 +65,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Main notes/Domain-Specific Architectures.md",
+                "file": "4 - Sketch notes/Tasklist for computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Domain-Specific Architectures"
+              "title": "Backlinks for Tasklist for computers"
             }
           },
           {
@@ -159,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/Domain-Specific Architectures.md",
+                "file": "4 - Sketch notes/Tasklist for computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Domain-Specific Architectures"
+              "title": "Outgoing links from Tasklist for computers"
             }
           },
           {
@@ -188,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Domain-Specific Architectures.md",
+                "file": "4 - Sketch notes/Tasklist for computers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Domain-Specific Architectures"
+              "title": "Outline of Tasklist for computers"
             }
           },
           {
@@ -208,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "def6bd257e9b6e07",
+  "active": "fd26aa8530808335",
   "lastOpenFiles": [
-    "1 - Main notes/Graphical processing unit.md",
     "1 - Main notes/Domain-Specific Architectures.md",
+    "1 - Main notes/Graphical processing unit.md",
     "5 - Attachments/Pasted image 20251208211604.png",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Hardware multithreading.md",
