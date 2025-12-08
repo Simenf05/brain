@@ -33,7 +33,13 @@ Size of tag is therefore with a 32 bits address:
 $$\text{Tag bits} = 32-(n+m+2)$$
 Total number of bits in directly mapped cache:
 $$\text{Total number of bits} = 2^n\times(\text{block size}+\text{tag size}+\text{valid field size})$$
+## Set-associative mapping
+With set-associative mapping we allow each index to map to multiple blocks at the same time. Each set will contain $n$ blocks, and is then a $n$-way set-associative mapping. One way to view this is that direct mapping is a 1-way set-associative mapping, and an extreme of this spectrum. The other extreme is a fully-associative mapping, where there is just one set with all the blocks in it. 
+When looking up values in a set-associative mapping, we have to search every value for the one with the correct tag. This makes fully mapped structure hard for large systems because the searching would be to expensive. 
+![[Pasted image 20251208113712.png]]
 
+This is the formula for the index using set-associative mapping:
+$$(\text{Block number})\mod{(\text{Number of sets in the cache})}$$
 
 
 
