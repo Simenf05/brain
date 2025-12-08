@@ -8,7 +8,7 @@ Tags: #communication #internet #cybersecurity #openbsd #openssh #firewall #linux
 ### Packet sniffing
 Bad actors can get access to packets that travel across the internet with packet sniffers such as wireshark. This is why everything has to be encrypted when sent on the internet. If passwords are not encrypted then they will get stolen. 
 
-### IP spoofing
+### [[Internet protocol|IP]] spoofing
 There is also possible to spoof the source of packets on the network. This can be done in order to fake who is sending the packets. To make sure that ips are not spoofed we use authentication methods that guarantee the identity. 
 
 ### Denial of service (DOS)

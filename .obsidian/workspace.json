@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Virtual memory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Virtual memory"
-            }
-          },
-          {
-            "id": "def6bd257e9b6e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1 - Main notes/Parallelism and memory.md",
                 "mode": "source",
                 "source": false,
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Parallelism and memory"
+            }
+          },
+          {
+            "id": "def6bd257e9b6e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Parallelism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Parallelism"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Main notes/Parallelism and memory.md",
+                "file": "1 - Main notes/Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parallelism and memory"
+              "title": "Backlinks for Parallelism"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/Parallelism and memory.md",
+                "file": "1 - Main notes/Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parallelism and memory"
+              "title": "Outgoing links from Parallelism"
             }
           },
           {
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Parallelism and memory.md",
+                "file": "1 - Main notes/Parallelism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Parallelism and memory"
+              "title": "Outline of Parallelism"
             }
           },
           {
@@ -227,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,18 +242,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d450ada7a8f4aa82",
+  "active": "def6bd257e9b6e07",
   "lastOpenFiles": [
+    "4 - Sketch notes/Tasklist for computers.md",
+    "1 - Main notes/Parallelism.md",
+    "1 - Main notes/Network Security.md",
+    "1 - Main notes/Parallelism and memory.md",
+    "1 - Main notes/Virtual memory.md",
     "1 - Main notes/Central Processing Unit.md",
     "1 - Main notes/traceroute.md",
     "1 - Main notes/Instruksjonssett.md",
     "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Instructions.md",
     "1 - Main notes/Virtual machines.md",
-    "1 - Main notes/Parallelism and memory.md",
     "1 - Main notes/Memory hierarchy.md",
-    "1 - Main notes/Virtual memory.md",
-    "4 - Sketch notes/Tasklist for computers.md",
     "5 - Attachments/Pasted image 20251208143824.png",
     "5 - Attachments/Pasted image 20251208133607.png",
     "1 - Main notes/Operating System.md",
@@ -273,8 +276,6 @@
     "2 - Tags/ip.md",
     "3 - Templates/Tag search.md",
     "1 - Main notes/Untitled 3.md",
-    "1 - Main notes/Untitled 2.md",
-    "1 - Main notes/2025-05-26.md",
     "5 - Attachments/Pasted image 20251207213320.png",
     "5 - Attachments/Pasted image 20251207200728.png",
     "5 - Attachments/Pasted image 20251207171617.png",
