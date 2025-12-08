@@ -155,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Main notes/Parallelism and memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Parallelism and memory"
             }
           },
           {
@@ -173,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Main notes/Link layer.md",
+                "file": "1 - Main notes/Parallelism and memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Link layer"
+              "title": "Outgoing links from Parallelism and memory"
             }
           },
           {
@@ -202,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Link layer.md",
+                "file": "1 - Main notes/Parallelism and memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Link layer"
+              "title": "Outline of Parallelism and memory"
             }
           },
           {
@@ -222,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "def6bd257e9b6e07",
+  "active": "d450ada7a8f4aa82",
   "lastOpenFiles": [
     "1 - Main notes/Central Processing Unit.md",
     "1 - Main notes/traceroute.md",
