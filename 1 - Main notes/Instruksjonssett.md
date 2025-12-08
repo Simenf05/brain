@@ -5,6 +5,8 @@ Tags: #datamaskiner #computers #instructions
 
 # Instruksjonssett
 
+# Read more here: [[Instructions]]
+
 #### Aritmetiske instruksjoner
 
 RISC-V tar alltid inn 1 operasjon og 3 operander for aritmetiske operasjoner 

@@ -226,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,11 +242,17 @@
   },
   "active": "def6bd257e9b6e07",
   "lastOpenFiles": [
+    "1 - Main notes/Central Processing Unit.md",
+    "1 - Main notes/traceroute.md",
+    "1 - Main notes/Instruksjonssett.md",
+    "1 - Main notes/Performance in computers.md",
+    "1 - Main notes/Instructions.md",
+    "1 - Main notes/Virtual machines.md",
     "1 - Main notes/Parallelism and memory.md",
+    "1 - Main notes/Memory hierarchy.md",
     "1 - Main notes/Virtual memory.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "5 - Attachments/Pasted image 20251208143824.png",
-    "1 - Main notes/Memory hierarchy.md",
     "5 - Attachments/Pasted image 20251208133607.png",
     "1 - Main notes/Operating System.md",
     "4 - Sketch notes/KTN - 17.02.25.md",
@@ -256,11 +261,8 @@
     "1 - Main notes/Two's complement.md",
     "5 - Attachments/Pasted image 20251208122921.png",
     "3 - Templates/Main note.md",
-    "1 - Main notes/Virtual machines.md",
     "5 - Attachments/Pasted image 20251208113712.png",
-    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Floating point numbers.md",
-    "1 - Main notes/Instructions.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "5 - Attachments/Pasted image 20250901105533.png",
     "5 - Attachments",
@@ -272,9 +274,6 @@
     "1 - Main notes/Untitled 3.md",
     "1 - Main notes/Untitled 2.md",
     "1 - Main notes/2025-05-26.md",
-    "1 - Main notes/2025-05-22.md",
-    "2 - Tags/Untitled 1.md",
-    "1 - Main notes/Performance in networks.md",
     "5 - Attachments/Pasted image 20251207213320.png",
     "5 - Attachments/Pasted image 20251207200728.png",
     "5 - Attachments/Pasted image 20251207171617.png",
