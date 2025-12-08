@@ -10,6 +10,7 @@ Tags: #datamaskiner #computers #instructions
 This is the normal register instructions that are on the form `add x1, x2, x3`.
 They take in two registers as source and write to one register. 
 
+
 - Opcode
 The opcode (operation code) of the instruction is the basic operation of the instruction. When parsing the other fields this is used to infer what the other fields represents.  
 - rd
@@ -51,9 +52,6 @@ The U type instructions are used to load values that require 32 bits, like 32 bi
 | immediate\[31:12] | rd     | opcode |
 | ----------------- | ------ | ------ |
 | 20 bits           | 5 bits | 7 bits |
-
-
-
 ## Branching instructions
 
 For making decisions in the code we use branching instructions. They either jump or don't jump to another location. These instructions work by incrementing the Program Counter, and therefore the next instruction to be fetched will be different. 

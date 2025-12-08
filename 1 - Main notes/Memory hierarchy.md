@@ -1,6 +1,6 @@
 2025-12-07 18:07
 
-Tags: #computers #datamaskiner #memory 
+Tags: #computers #datamaskiner #memory
 
 # Memory hierarchy
 The memory in a computer uses a structure much like a pyramid, this is called the memory hierarchy. The priciple is that we have both fast and small memory and slow and big memory. For each size and speed we have different layers, and we walk through these layers in an attempt to find the address we are looking for. 

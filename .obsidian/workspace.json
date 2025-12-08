@@ -80,55 +80,17 @@
             }
           },
           {
-            "id": "b0bae97a385f2e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Arithmetic Logic Unit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arithmetic Logic Unit"
-            }
-          },
-          {
             "id": "e5821102395bd046",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Sketch notes/Tasklist for computers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasklist for computers"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "de2f65cbc01c7cdc",
+            "id": "bd5e09adf4ca62a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,79 +114,27 @@
             }
           },
           {
-            "id": "f89ba67ee6456cd3",
+            "id": "9834042afe75c665",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Seven great ideas in computer architecture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Seven great ideas in computer architecture"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "a3bb99ff43166e38",
+            "id": "29352e215df4a2a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Pipelined computer architecture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Pipelined computer architecture"
-            }
-          },
-          {
-            "id": "8c0c36a7ed58714f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Memory hierarchy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Memory hierarchy"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pipelin",
+                "query": "tag:#performace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,13 +187,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 238.5086555480957
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -385,49 +293,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c0c36a7ed58714f",
+  "active": "e5821102395bd046",
   "lastOpenFiles": [
-    "1 - Main notes/Pipelined computer architecture.md",
-    "1 - Main notes/Seven great ideas in computer architecture.md",
-    "1 - Main notes/Instructions.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
-    "1 - Main notes/Two's complement.md",
-    "1 - Main notes/Performance in computers.md",
-    "1 - Main notes/Floating point numbers.md",
+    "5 - Attachments/Pasted image 20250901105533.png",
     "1 - Main notes/Memory hierarchy.md",
-    "Pasted image 20251207213320.png",
-    "Pasted image 20251207200728.png",
-    "Pasted image 20251207171617.png",
-    "Pasted image 20251207162456.png",
-    "Pasted image 20251207162143.png",
-    "Pasted image 20251207161724.png",
-    "Pasted image 20251207151925.png",
+    "5 - Attachments",
+    "2 - Tags/computers.md",
+    "1 - Main notes/Enkeltsykelprosessoren.md",
+    "2 - Tags/communication.md",
+    "2 - Tags/it.md",
+    "2 - Tags/ip.md",
+    "3 - Templates/Tag search.md",
     "1 - Main notes/Untitled 3.md",
     "1 - Main notes/Untitled 2.md",
+    "1 - Main notes/2025-05-26.md",
+    "1 - Main notes/2025-05-22.md",
+    "1 - Main notes/Seven great ideas in computer architecture.md",
+    "2 - Tags/Untitled 1.md",
+    "1 - Main notes/Instructions.md",
+    "1 - Main notes/Performance in computers.md",
+    "1 - Main notes/Performance in networks.md",
+    "3 - Templates/Main note.md",
+    "1 - Main notes/Pipelined computer architecture.md",
+    "1 - Main notes/Two's complement.md",
+    "1 - Main notes/Floating point numbers.md",
+    "5 - Attachments/Pasted image 20251207213320.png",
+    "5 - Attachments/Pasted image 20251207200728.png",
+    "5 - Attachments/Pasted image 20251207171617.png",
+    "5 - Attachments/Pasted image 20251207162456.png",
+    "5 - Attachments/Pasted image 20251207162143.png",
+    "5 - Attachments/Pasted image 20251207161724.png",
+    "5 - Attachments/Pasted image 20251207151925.png",
     "1 - Main notes/Tasks for itgk.md",
     "1 - Main notes/Tasks for itgk.md~",
-    "1 - Main notes/Enkeltsykelprosessoren.md",
-    "Pasted image 20251204103011.png",
+    "5 - Attachments/Pasted image 20251204103011.png",
     "1 - Main notes/Single.md",
-    "Pasted image 20251204092243.png",
+    "5 - Attachments/Pasted image 20251204092243.png",
     "1 - Main notes/Algdat algoritme oversikt.md",
-    "1 - Main notes/Algdat læringsmål.md",
-    "1 - Main notes/Untitled 1.md",
-    "1 - Main notes/Untitled.md",
-    "Pasted image 20251201160638.png",
-    "1 - Main notes/Internet protocol.md",
-    "1 - Main notes/Algdat sammendrag.md",
-    "1 - Main notes/Instruksjonssett.md",
-    "1 - Main notes/Operating System.md",
-    "1 - Main notes/Network address translation.md",
-    "1 - Main notes/Flersykelprosessor.md",
-    "1 - Main notes/SWOT-modell.md",
     "1 - Main notes/Algdat sammendrag.md~",
     "1 - Main notes/Flersykelprosessor.md~",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled",
     "4 - Sketch notes",
     "3 - Templates",
     "2 - Tags",

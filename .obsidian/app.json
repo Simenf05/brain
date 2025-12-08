@@ -4,5 +4,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "5 - Attachments"
 }
