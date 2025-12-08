@@ -1,3 +1,7 @@
+---
+aliases:
+---
+
 {{date}} {{time}}
 
 Tags:
