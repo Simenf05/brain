@@ -64,43 +64,43 @@ LæringsmålKilde
 - [x]  Skal kunne sette opp rett **kontrollord** for en instruksjon, inkludert korrekt bruk av «don’t care».
 - [x]  Skal kunne identifisere **instruksjonstype** fra et kontrollord.
 - [x]  Skal kjenne til de logiske portene **AND, OR, og inverter** og deres symboler samt kunne beskrive oppførselen deres med sannhetstabeller.
-- [ ]  Skal kjenne til symbolene og kunne gjengi sannhetstabellene for **kombinerte logiske porter** (NAND og NOR) og mer avanserte kretser (**multiplekser og dekoder**).
-- [ ]  Skal kunne oversette mellom **boolske uttrykk** på sum-av-produkt form og sannhetstabeller.
+- [x]  Skal kjenne til symbolene og kunne gjengi sannhetstabellene for **kombinerte logiske porter** (NAND og NOR) og mer avanserte kretser (**multiplekser og dekoder**).
+- [x]  Skal kunne oversette mellom **boolske uttrykk** på sum-av-produkt form og sannhetstabeller.
 - [ ]  Skal kjenne til konseptet **buss** og notasjonen for adressering av enkeltlinjer i busser.
 - [ ]  Skal kunne konstruere en 32-bit **aritmetisk-logisk enhet (ALU)** som kan gjøre addisjon og subtraksjon samt logisk AND og OR og nulldeteksjon (figurene A.5.7 og A.5.8).
 - [ ]  Skal kunne utføre **multiplikasjon og divisjon** av binære tall og beskrive hvordan disse implementeres i maskinvare.
-- [ ]  Skal kunne oppgi fordeler og ulemper med å representere tall i et **«fixed-point» format**.
-- [ ]  Skal kunne motivere for hvorfor vi trenger **flyttall** og beskrive prinsippene for hvordan addisjon og multiplikasjon med flyttallsverdier utføres i maskinvare.
-- [ ]  Skal kunne konvertere fra **desimaltall til flyttall** og motsatt.
-- [ ]  Skal kjenne til hvordan man implementerer **SIMD-instruksjoner** og hva de brukes til.
+- [x]  Skal kunne oppgi fordeler og ulemper med å representere tall i et **«fixed-point» format**.
+- [x]  Skal kunne motivere for hvorfor vi trenger **flyttall** og beskrive prinsippene for hvordan addisjon og multiplikasjon med flyttallsverdier utføres i maskinvare.
+- [x]  Skal kunne konvertere fra **desimaltall til flyttall** og motsatt.
+- [x]  Skal kjenne til hvordan man implementerer **SIMD-instruksjoner** og hva de brukes til.
 
 #### T4: Flersykelprosessor (og sekvensiell logikk)
 
 LæringsmålKilde
-- [ ]  Skal kunne forklare mikroarkitekturen til en **flersykelprosessor** (figur e.4.5.4).
-- [ ]  Skal kunne forklare hvorfor kontrollenheten til flersykelprosessoren blir en **tilstandsmaskin**.
-- [ ]  Skal kunne beskrive sammenhengen mellom kontrollordet til flersykelprosessoren og tilstanden i tilstandsmaskinen.
-- [ ]  Skal kunne beskrive fordeler og ulemper ved flersykelprosessoren sammenliknet med enkeltsykelprosessoren.
+- [x]  Skal kunne forklare mikroarkitekturen til en **flersykelprosessor** (figur e.4.5.4).
+- [x]  Skal kunne forklare hvorfor kontrollenheten til flersykelprosessoren blir en **tilstandsmaskin**.
+- [x]  Skal kunne beskrive sammenhengen mellom kontrollordet til flersykelprosessoren og tilstanden i tilstandsmaskinen.
+- [x]  Skal kunne beskrive fordeler og ulemper ved flersykelprosessoren sammenliknet med enkeltsykelprosessoren.
 - [ ]  Skal kunne beskrive oppførselen til komponentene **SR-lås, D-lås, og D-vippe**.
-- [ ]  Skal kunne konstruere **registre og registerfiler** med kombinatoriske og sekvensielle logiske komponenter (figur A.8.8 og figur A.8.9).
-- [ ]  Skal kunne forklare hva en **tilstandsmaskin** er og beskrive hvordan den implementeres i maskinvare (figur A.10.3).
-- [ ]  Skal kunne forklare funksjonen til **klokkesignalet** i en datamaskin og begrepet **«kritisk sti»**.
+- [x]  Skal kunne konstruere **registre og registerfiler** med kombinatoriske og sekvensielle logiske komponenter (figur A.8.8 og figur A.8.9).
+- [x]  Skal kunne forklare hva en **tilstandsmaskin** er og beskrive hvordan den implementeres i maskinvare (figur A.10.3).
+- [x]  Skal kunne forklare funksjonen til **klokkesignalet** i en datamaskin og begrepet **«kritisk sti»**.
 
 #### T5: Samlebåndsprosessorer
 
 LæringsmålKilde
-- [ ]  Skal kunne beskrive fordeler og ulemper ved **samlebåndsprosessoren** sammenliknet med flersykelprosessoren og enkeltsykelprosessoren.
-- [ ]  Skal kunne forklare hvordan **oppstartskostnad og balanse** mellom steg i samlebåndet påvirker ytelse.
-- [ ]  Skal kunne beskrive forskjellen mellom **avhengigheter og farer** samt gjengi de tre hovedgruppene av farer (**strukturfarer, datafarer, og kontrollfarer**).
-- [ ]  Skal kjenne til de fire overordnede strategiene for å håndtere farer (**unngåelse, videresending, stans, og prediksjon**).
-- [ ]  Skal kunne forklare den grunnleggende mikroarkitekturen til **5-stegs samlebåndsprosessoren** (figur 4.43).
-- [ ]  Skal kunne forklare hvordan **kontroll** implementeres i 5-stegs samlebåndsprosessoren.
-- [ ]  Skal kunne forklare hvordan **videresending og stans** kan brukes til å håndtere datafarer samt kunne analysere hvordan strategiene påvirker prosessorens ytelse.
-- [ ]  Skal kunne forklare hvordan **kontrollfarer** kan håndteres med stans og prediksjon samt analysere hvordan strategiene påvirker prosessorens ytelse.
-- [ ]  Skal kunne forklare begrepene **unntak og avbrudd**, inkludert **presise unntak**.
-- [ ]  Skal kunne beskrive hvordan presise unntak kan implementeres i 5-stegssamlebåndet.
-- [ ]  Skal kjenne til prinsippene bak hvordan presise unntak implementeres i prosessorer som utfører instruksjoner **ut-av-rekkefølge**.
-- [ ]  Skal kunne beskrive hvordan en prosessor utnytter **parallellitet i tid og parallellitet i rom**.
+- [x]  Skal kunne beskrive fordeler og ulemper ved **samlebåndsprosessoren** sammenliknet med flersykelprosessoren og enkeltsykelprosessoren.
+- [x]  Skal kunne forklare hvordan **oppstartskostnad og balanse** mellom steg i samlebåndet påvirker ytelse.
+- [x]  Skal kunne beskrive forskjellen mellom **avhengigheter og farer** samt gjengi de tre hovedgruppene av farer (**strukturfarer, datafarer, og kontrollfarer**).
+- [x]  Skal kjenne til de fire overordnede strategiene for å håndtere farer (**unngåelse, videresending, stans, og prediksjon**).
+- [x]  Skal kunne forklare den grunnleggende mikroarkitekturen til **5-stegs samlebåndsprosessoren** (figur 4.43).
+- [x]  Skal kunne forklare hvordan **kontroll** implementeres i 5-stegs samlebåndsprosessoren.
+- [x]  Skal kunne forklare hvordan **videresending og stans** kan brukes til å håndtere datafarer samt kunne analysere hvordan strategiene påvirker prosessorens ytelse.
+- [x]  Skal kunne forklare hvordan **kontrollfarer** kan håndteres med stans og prediksjon samt analysere hvordan strategiene påvirker prosessorens ytelse.
+- [x]  Skal kunne forklare begrepene **unntak og avbrudd**, inkludert **presise unntak**.
+- [x]  Skal kunne beskrive hvordan presise unntak kan implementeres i 5-stegssamlebåndet.
+- [x]  Skal kjenne til prinsippene bak hvordan presise unntak implementeres i prosessorer som utfører instruksjoner **ut-av-rekkefølge**.
+- [x]  Skal kunne beskrive hvordan en prosessor utnytter **parallellitet i tid og parallellitet i rom**.
 - [ ]  Skal kunne gjenkjenne og beskrive **RAW, WAW og WAR farer** og avhengighetene som skaper dem.
 - [ ]  Skal forstå prinsippene bak hvordan **«register renaming»** fjerner WAW og WAR farer.
 - [ ]  Skal kjenne til fordeler og ulemper med **«static multi-issue»** prosessorer.
@@ -110,55 +110,38 @@ LæringsmålKilde
 #### T6: Minnesystemet (Hurtigbuffer og Virtuelt Minne)
 
 LæringsmålKilde
-- [ ]  Skal kunne forklare begrepene **lokalitet i tid og lokalitet i rom** og vite hvorfor lokalitet oppstår.
-- [ ]  Skal forstå hvordan og hvorfor et **hierarki av minner** kan gi illusjonen av ett stort og raskt minne.
-- [ ]  Skal kunne forklare begrepene **volatilt og ikke-volatilt** minne samt **statisk og dynamisk** minne.
-- [ ]  Skal kjenne til **omtrentlig aksesstid og kostnad per bit** for SRAM, DRAM, Flash, og magnetisk disk og forklare hvordan dette påvirker bruk i minnehierarkiet.
-- [ ]  Skal kunne konstruere et **SRAM minne** fra grunnleggende kombinatoriske og sekvensielle komponenter (figur A.9.3).
-- [ ]  Skal kunne beskrive prinsippene for hvordan vi konstruerer **DRAM minner** (figur A.9.5 og A.9.6).
-- [ ]  Skal kunne forklare hvordan **virtuelle adresser oversettes til fysiske adresser**, inkludert arbeidsfordelingen mellom maskinvare og programvare.
-- [ ]  Skal kunne forklare hvordan et **«Translation Lookaside Buffer (TLB)»** brukes til å implementere rask adresseoversettelse.
-- [ ]  Skal kunne forklare hvordan **virtuelt minne** kan brukes til å beskytte prosesser fra hverandres minneaksesser.
-- [ ]  Skal kunne forklare hvordan **sidefeil** håndteres.
-- [ ]  Skal kunne forklare hva en **virtuell maskin** er.
-- [ ]  Skal kunne forklare hvordan vi konstruerer et **direktetilordnet hurtigbuffer** (figur 5.10) samt hvordan det kan utvides til å håndtere blokker som består av mer enn ett ord.
-- [ ]  Skal kunne forklare hvordan **hurtigbuffere** kan integreres i en samlebåndsarkitektur.
-- [ ]  Skal kjenne til prinsippene for hvordan hurtigbuffere håndterer **skriveoperasjoner**.
-- [ ]  Skal kunne **beregne** hvordan minneaksesstid påvirker datamaskinens ytelse.
-- [ ]  Skal kunne **beregne** hvordan treffraten i flernivå hurtigbuffer påvirker den gjennomsnittlige aksesstiden.
-- [ ]  Skal forstå hvorfor **settassosiative og fullassosiative** hurtigbuffere kan øke treffraten og hvordan de konstrueres (figur 5.18).
-- [ ]  Skal kjenne til hvordan man på **programvarenivå** kan påvirke treffraten i hurtigbuffere.
+- [x]  Skal kunne forklare begrepene **lokalitet i tid og lokalitet i rom** og vite hvorfor lokalitet oppstår.
+- [x]  Skal forstå hvordan og hvorfor et **hierarki av minner** kan gi illusjonen av ett stort og raskt minne.
+- [x]  Skal kunne forklare begrepene **volatilt og ikke-volatilt** minne samt **statisk og dynamisk** minne.
+- [x]  Skal kjenne til **omtrentlig aksesstid og kostnad per bit** for SRAM, DRAM, Flash, og magnetisk disk og forklare hvordan dette påvirker bruk i minnehierarkiet.
+- [x]  Skal kunne konstruere et **SRAM minne** fra grunnleggende kombinatoriske og sekvensielle komponenter (figur A.9.3).
+- [x]  Skal kunne beskrive prinsippene for hvordan vi konstruerer **DRAM minner** (figur A.9.5 og A.9.6).
+- [x]  Skal kunne forklare hvordan **virtuelle adresser oversettes til fysiske adresser**, inkludert arbeidsfordelingen mellom maskinvare og programvare.
+- [x]  Skal kunne forklare hvordan et **«Translation Lookaside Buffer (TLB)»** brukes til å implementere rask adresseoversettelse.
+- [x]  Skal kunne forklare hvordan **virtuelt minne** kan brukes til å beskytte prosesser fra hverandres minneaksesser.
+- [x]  Skal kunne forklare hvordan **sidefeil** håndteres.
+- [x]  Skal kunne forklare hva en **virtuell maskin** er.
+- [x]  Skal kunne forklare hvordan vi konstruerer et **direktetilordnet hurtigbuffer** (figur 5.10) samt hvordan det kan utvides til å håndtere blokker som består av mer enn ett ord.
+- [x]  Skal kunne forklare hvordan **hurtigbuffere** kan integreres i en samlebåndsarkitektur.
+- [x]  Skal kjenne til prinsippene for hvordan hurtigbuffere håndterer **skriveoperasjoner**.
+- [x]  Skal kunne **beregne** hvordan minneaksesstid påvirker datamaskinens ytelse.
+- [x]  Skal kunne **beregne** hvordan treffraten i flernivå hurtigbuffer påvirker den gjennomsnittlige aksesstiden.
+- [x]  Skal forstå hvorfor **settassosiative og fullassosiative** hurtigbuffere kan øke treffraten og hvordan de konstrueres (figur 5.18).
+- [x]  Skal kjenne til hvordan man på **programvarenivå** kan påvirke treffraten i hurtigbuffere.
 
 #### T7: Parallelle datamaskiner
 
  Læringsmål                                                                                                                                                                                          Kilde 
- - [ ]  Skal kunne forklare hvorfor det er enklere å utnytte **parallellitet mellom uavhengige program** enn innad i ett program.                                                                       
- - [ ]  Skal kunne bruke **Amdahls lov** til å analysere skalerbarheten til parallelle programmer.                                                                                                      
- - [ ]  Skal kunne forklare **Flynns taksonomi** og kunne gi eksempler på SISD, SIMD, og MIMD maskiner.                                                                                                 
+ - [x]  Skal kunne forklare hvorfor det er enklere å utnytte **parallellitet mellom uavhengige program** enn innad i ett program.                                                                       
+ - [x]  Skal kunne bruke **Amdahls lov** til å analysere skalerbarheten til parallelle programmer.                                                                                                      
+ - [x]  Skal kunne forklare **Flynns taksonomi** og kunne gi eksempler på SISD, SIMD, og MIMD maskiner.                                                                                                 
  - [ ]  Skal kunne bruke **Roofline-modellen** og konseptet **operasjonsintensitet** til å analysere hvorvidt en applikasjon er minnebundet eller beregningsbundet.                                     
  - [ ]  Skal kunne beskrive den overordnede arkitekturen til multiprosessorer med **delt minne og distribuert minne** samt kjenne til deres styrker og svakheter.                                       
- - [ ]  Skal kunne beskrive den overordnede arkitekturen til en **flerkjerneprosessor** og kunne motivere for hvorfor arkitekturen er som den er.                                                       
+ - [x]  Skal kunne beskrive den overordnede arkitekturen til en **flerkjerneprosessor** og kunne motivere for hvorfor arkitekturen er som den er.                                                       
  - [ ]  Skal kunne forklare hvorfor **synkronisering** er nødvendig og de grove trekkene i hvordan synkronisering implementeres.                                                                        
- - [ ]  Skal kjenne til behovet for å holde hurtigbuffere **koherente** og de grove trekkene i hvordan det løses.                                                                                       
+ - [x]  Skal kjenne til behovet for å holde hurtigbuffere **koherente** og de grove trekkene i hvordan det løses.                                                                                       
  - [ ]  Skal kunne beskrive **minnekonsistensproblemet** og kjenne til de grove trekkene i hvordan det løses.                                                                                           
  - [ ]  Skal kunne forklare hva en **domene-spesifikk akselerator (DSA)** er og motivere for hvorfor disse kan oppnå høyere ytelse enn mer generelle arkitekturer.                                      
- - [ ]  Skal kunne forklare den overordnede arkitekturen til **grafikkprosessorer (GPUer)** samt kunne beskrive programmeringsmodellen som benyttes når man bruker GPUer til generell beregning.        
- - [ ]  Skal kunne beskrive likheter og forskjeller mellom **GPUer, vektorprosessorer, og SIMD-instruksjoner**.                                                                                         
- - [ ]  Skal kunne forklare hvorfor det er enklere å utnytte parallellitet mellom uavhengige program enn innad i ett program.                                                                           
- - [ ]  Skal kunne bruke Amdahls lov til å analysere skalerbarheten til parallelle programmer.                                                                                                          
- - [ ]  Skal kunne forklare Flynns taksonomi og kunne gi eksempler på SISD, SIMD, og MIMD maskiner.                                                                                                     
- - [ ]  Skal kunne beskrive den overordnede arkitekturen til multiprosessorer med delt minne og distribuert minne samt kjenne til deres styrker og svakheter.                                           
- - [ ]  Skal kunne beskrive den overordnede arkitekturen til en flerkjerneprosessor og kunne motivere for hvorfor arkitekturen er som den er.                                                           
- - [ ]  Skal kunne forklare hvorfor synkronisering er nødvendig og de grove trekkene i hvordan synkronisering implementeres.                                                                            
- - [ ]  Skal kjenne til behovet for å holde hurtigbuffere koherente og de grove trekkene i hvordan det løses.                                                                                           
- - [ ]  Skal kunne beskrive minnekonsistensproblemet og kjenne til de grove trekkene i hvordan det løses.                                                                                               
- - [ ]  Skal kunne forklare hva en domene-spesifikk akselerator (DSE) er og motivere for hvorfor disse kan oppnå høyere ytelse enn mer generelle arkitekturer (altså CPUer og GPUer).                   
- - [ ]  Skal kunne forklare hvorfor det er enklere å utnytte parallellitet mellom uavhengige program enn innad i ett program.                                                                           
- - [ ]  Skal kunne bruke Amdahls lov til å analysere skalerbarheten til parallelle programmer.                                                                                                          
- - [ ]  Skal kunne forklare Flynns taksonomi og kunne gi eksempler på SISD, SIMD, og MIMD maskiner.                                                                                                     
- - [ ]  Skal kunne beskrive den overordnede arkitekturen til multiprosessorer med delt minne og distribuert minne samt kjenne til deres styrker og svakheter.                                           
- - [ ]  Skal kunne beskrive den overordnede arkitekturen til en flerkjerneprosessor og kunne motivere for hvorfor arkitekturen er som den er.                                                           
- - [ ]  Skal kunne forklare hvorfor synkronisering er nødvendig og de grove trekkene i hvordan synkronisering implementeres.                                                                            
- - [ ]  Skal kjenne til behovet for å holde hurtigbuffere koherente og de grove trekkene i hvordan det løses.                                                                                           
- - [ ]  Skal kunne beskrive minnekonsistensproblemet og kjenne til de grove trekkene i hvordan det løses.                                                                                               
- - [ ]  Skal kunne forklare hva en domene-spesifikk akselerator (DSE) er og motivere for hvorfor disse kan oppnå høyere ytelse enn mer generelle arkitekturer (altså CPUer og GPUer).                   
+ - [x]  Skal kunne forklare den overordnede arkitekturen til **grafikkprosessorer (GPUer)** samt kunne beskrive programmeringsmodellen som benyttes når man bruker GPUer til generell beregning.        
+ - [x]  Skal kunne beskrive likheter og forskjeller mellom **GPUer, vektorprosessorer, og SIMD-instruksjoner**.                                                                                         
+ - [x]  Skal kunne forklare hvorfor det er enklere å utnytte parallellitet mellom uavhengige program enn innad i ett program.                                                                           
