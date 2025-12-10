@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/Tasklist for computers.md",
+                "file": "1 - Main notes/Domain-Specific Architectures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasklist for computers"
+              "title": "Domain-Specific Architectures"
+            }
+          },
+          {
+            "id": "e96edc4b8be61120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Læring datamaskin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Læring datamaskin"
             }
           },
           {
@@ -65,7 +89,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +143,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,16 +252,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd26aa8530808335",
+  "active": "e96edc4b8be61120",
   "lastOpenFiles": [
+    "1 - Main notes/Læring datamaskin.md",
     "1 - Main notes/Domain-Specific Architectures.md",
+    "4 - Sketch notes/Tasklist for computers.md",
     "1 - Main notes/Graphical processing unit.md",
     "5 - Attachments/Pasted image 20251208211604.png",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Hardware multithreading.md",
     "2 - Tags/ip.md",
     "5 - Attachments/Pasted image 20251208203224.png",
-    "4 - Sketch notes/Tasklist for computers.md",
     "2 - Tags/computers.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Central Processing Unit.md",
@@ -257,7 +285,6 @@
     "5 - Attachments/Pasted image 20251208133607.png",
     "1 - Main notes/Operating System.md",
     "4 - Sketch notes/KTN - 17.02.25.md",
-    "1 - Main notes/Seven great ideas in computer architecture.md",
     "5 - Attachments/Pasted image 20251208122921.png",
     "5 - Attachments/Pasted image 20251208113712.png",
     "5 - Attachments/Pasted image 20250901105533.png",
