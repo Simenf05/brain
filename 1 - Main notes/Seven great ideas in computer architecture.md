@@ -1,6 +1,6 @@
 2025-11-27 10:27
 
-Tags: #computers #datamaskiner #sevengreatideas
+Tags: #computers #datamaskiner
 
 # Seven great ideas in computer architecture
 
@@ -10,10 +10,10 @@ The use of abstraction is needed in order to simplify design. This way users of 
 ## Make the common case fast
 This is a principle about making the most basic instructions in the machine as fast as possible. Without this you might end up making some parts of the system really fast, and spend much time and effort on it. But if only a handful of instructions use that part of the system. Therefore you should always optimize the part of the system that is used the most. 
 
-## Performance via Parallelism 
+## Performance via [[Parallelism]] 
 Parallelism can be achieved by having multiple cores in a chip. With this the chip will need more logic, and the complexity will grow, but the gain can be massive. For some tasks that are able to be sped up in parallell the running time becomes proportional to the amount of cores that your chip has. Tasks like this can be [[compiling]] software, and calculating graphics. 
 
-## Performance via Pipelining
+## Performance via [[Pipelined computer architecture|Pipelining]]
 Pipelining is a technique where you split up the task needed to be completed into multiple parts of a pipeline. This way the clock cycle frequency can be increased, and the system is able to achieve higher performance. The [[The processor#Pipelined datapath|pipelined datapath]] is a implementation of the use of pipelining in processors. 
 
 ## Performance via Prediction

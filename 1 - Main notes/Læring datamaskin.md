@@ -21,7 +21,7 @@
 
 #### T1: Introduksjon og ytelse
 
-- [ ]  Kjenne til de 7 datamaskintypene og deres viktigste egenskaper.
+- [x]  Kjenne til de 7 datamaskintypene og deres viktigste egenskaper.
 - [ ]  Kjenne til de 7 store ideene i datamaskinarkitektur.
 - [x]  Kan beskrive størrelser med rett prefiks (for eksempel GB og GiB).
 - [x]  Kjenne rollen til applikasjonsprogramvare og systemprogramvare, herunder operativsystemet og kompilatoren.
@@ -38,10 +38,10 @@
 
 #### T2: Instruksjonssett
 
-- [ ]  Kjenner til de **tre designprinsippene for instruksjonssettdesign** og deres motivasjon.
+- [x]  Kjenner til de **tre designprinsippene for instruksjonssettdesign** og deres motivasjon.
 - [x]  Kan oversette fra et høynivåspråk til **assemblyinstruksjoner** (og omvendt).
 - [x]  Kan oversette fra assemblyinstruksjoner til **maskinkode** (og omvendt).
-- [ ]  Kjenner til **instruksjonsformatene i RISC-V** og kan forklare hvorfor de er definert slik de er.
+- [x]  Kjenner til **instruksjonsformatene i RISC-V** og kan forklare hvorfor de er definert slik de er.
 - [x]  Forstår hvordan instruksjoner lagres i minnet og hvordan dette utnyttes til å implementere **kontrollflyt**.
 - [x]  Kan representere **heltall** som binære og heksadesimale tall, og oversette mellom disse og titallsystemet.
 - [x]  Kan representere **negative heltall på 2’s komplement form** og oversette mellom dette og titallsystemet.
@@ -66,7 +66,7 @@ LæringsmålKilde
 - [x]  Skal kjenne til de logiske portene **AND, OR, og inverter** og deres symboler samt kunne beskrive oppførselen deres med sannhetstabeller.
 - [x]  Skal kjenne til symbolene og kunne gjengi sannhetstabellene for **kombinerte logiske porter** (NAND og NOR) og mer avanserte kretser (**multiplekser og dekoder**).
 - [x]  Skal kunne oversette mellom **boolske uttrykk** på sum-av-produkt form og sannhetstabeller.
-- [ ]  Skal kjenne til konseptet **buss** og notasjonen for adressering av enkeltlinjer i busser.
+- [x]  Skal kjenne til konseptet **buss** og notasjonen for adressering av enkeltlinjer i busser.
 - [ ]  Skal kunne konstruere en 32-bit **aritmetisk-logisk enhet (ALU)** som kan gjøre addisjon og subtraksjon samt logisk AND og OR og nulldeteksjon (figurene A.5.7 og A.5.8).
 - [ ]  Skal kunne utføre **multiplikasjon og divisjon** av binære tall og beskrive hvordan disse implementeres i maskinvare.
 - [x]  Skal kunne oppgi fordeler og ulemper med å representere tall i et **«fixed-point» format**.
