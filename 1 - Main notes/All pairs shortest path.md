@@ -75,8 +75,7 @@ $$
 With this knowledge we can speed up the entire process. This is because we only need to compute $\lceil {lg(n - 1)} \rceil$ matrices to reach the desired $L^{(n-1)}$. We do this in an iterative way. 
 ![[Pasted image 20251212162102.png]]
 ## Floyd-Warshall
-
-
+This next algorithm uses similar principles as the slow and faster APSP, but instead of limiting the edges, we limit the vertices. This way the algorithm 
 
 ## Further reading
 - [[Asymptotic notation]]
