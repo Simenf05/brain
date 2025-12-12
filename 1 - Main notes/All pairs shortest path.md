@@ -35,6 +35,12 @@ $$l_{ij}^{(r)} =
 min{ \{ l_{ik}^{(r-1)} + w_{kj} : 1 \le k \le n \} }
 $$
 
+We use [[Dynamic programming]] in order to recursively define the matrix where $r=|V-1|$ and we are allowed to use all the nodes once, which makes for a simple path. This matrix is $L^{(r-1)}$, consisting of $l_{ij}^{(n-1)}$, ($n=|V|$)[^1].
+
+The pseudocode produces $L^{(r)}$ with the weight matrix $W$ and $L^{(r-1)}$:
+![[Pasted image 20251212141204.png]]
+With each of the for loops iterating n times, we can trivially conclude that this algorithm has $\Theta({n^3})$ as its running time. 
+
 ## Faster-APSP
 ## Floyd-Warshall
 
@@ -45,3 +51,6 @@ $$
 - [[Single source shortest path]]
 - [[Dijkstra's algorithm]]
 - [[Bellman-Ford algorithm]]
+
+## Footnote
+[^1]: It is normal to use the variable $n$ as the amount of vertices, and also the dimensions of the matrix.
