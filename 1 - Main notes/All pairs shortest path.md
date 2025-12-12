@@ -52,12 +52,30 @@ $$
 L^{(3)}=L^{(2)}\cdot{W}=W^3
 $$ 
 
-
 With this subroutine we can define the actual algorithm:
 ![[Pasted image 20251212144015.png]]
 
+We get $n-1$ because a shortest simple path can at most contain $|V|-1$ vertices. 
+We get a running time of $\Theta{(n^4)}$ for the entire algorithm. But this can be improved on. 
 ## Faster-APSP
+The Faster-APSP works just the same way as [[#Slow-APSP]] but it uses the a property of matrix multiplication. Since each time you multiply $W$ with $L^{(r)}$ you get $L^{(r+1)}$, by the laws of matrix multiplication, you can $L^{(2r)} = L^{(r)} \cdot L^{(r)}$
+$$
+L^{(1)}={W}
+$$
+$$
+L^{(2)}=L^{(1)}\cdot L^{(1)}=W^2
+$$
+$$
+L^{(4)}=L^{(2)}\cdot L^{(2)}=W^4
+$$
+$$
+L^{(8)}=L^{(4)}\cdot L^{(4)}=W^8
+$$ 
+
+With this knowledge we can speed up the entire process. This is because we only need to compute $\lceil {lg(n - 1)} \rceil$ matrices to reach the desired $L^{(n-1)}$. We do this in an iterative way. 
+![[Pasted image 20251212162102.png]]
 ## Floyd-Warshall
+
 
 
 ## Further reading

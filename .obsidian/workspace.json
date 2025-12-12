@@ -48,8 +48,8 @@
               "type": "markdown",
               "state": {
                 "file": "1 - Main notes/All pairs shortest path.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -230,6 +230,7 @@
   },
   "active": "20aa230dec37d081",
   "lastOpenFiles": [
+    "5 - Attachments/Pasted image 20251212162102.png",
     "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/All pairs shortest path.md",
