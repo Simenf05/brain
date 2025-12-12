@@ -48,8 +48,8 @@
               "type": "markdown",
               "state": {
                 "file": "1 - Main notes/All pairs shortest path.md",
-                "mode": "source",
-                "source": false,
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -230,11 +230,11 @@
   },
   "active": "20aa230dec37d081",
   "lastOpenFiles": [
+    "1 - Main notes/Asymptotic notation.md",
+    "1 - Main notes/Algdat læringsmål.md",
+    "1 - Main notes/All pairs shortest path.md",
     "5 - Attachments/Pasted image 20251212144015.png",
     "5 - Attachments/Pasted image 20251212141204.png",
-    "1 - Main notes/All pairs shortest path.md",
-    "1 - Main notes/Algdat læringsmål.md",
-    "1 - Main notes/Asymptotic notation.md",
     "1 - Main notes/Læring datamaskin.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Algoritmiske problemtyper.md",
@@ -266,7 +266,6 @@
     "5 - Attachments/Pasted image 20251208113712.png",
     "5 - Attachments/Pasted image 20250901105533.png",
     "5 - Attachments",
-    "5 - Attachments/Pasted image 20251207213320.png",
     "1 - Main notes/Tasks for itgk.md~",
     "1 - Main notes/Algdat sammendrag.md~",
     "1 - Main notes/Flersykelprosessor.md~",

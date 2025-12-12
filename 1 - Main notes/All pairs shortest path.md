@@ -41,7 +41,18 @@ The pseudocode produces $L^{(r)}$ with the weight matrix $W$ and $L^{(r-1)}$:
 ![[Pasted image 20251212141204.png]]
 With each of the for loops iterating n times, we can trivially conclude that this algorithm has $\Theta({n^3})$ as its running time. 
 In a way the extention works like [[Matrix multiplication]]. We just use a different kind, this becomes explicit when we use this syntax:
-$$L^{(1)}=$$ 
+
+$$
+L^{(1)}=L^{(0)}\cdot{W}=W^1
+$$
+$$
+L^{(2)}=L^{(1)}\cdot{W}=W^2
+$$
+$$
+L^{(3)}=L^{(2)}\cdot{W}=W^3
+$$ 
+
+
 With this subroutine we can define the actual algorithm:
 ![[Pasted image 20251212144015.png]]
 
