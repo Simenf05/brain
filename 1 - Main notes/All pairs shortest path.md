@@ -17,6 +17,24 @@ The all pairs shortest path problem is a problem in which you search a graph for
 
 Both the slow and the fast version of the simple APSP algorithm uses the concept of limiting the amount of edges we use in each iteration. [[#Floyd-Warshall]] works in a different way by limiting the amount of nodes we can use in each iteration. 
 ## Slow-APSP
+The Slow-APSP algorithm is based on the [[Triangle inequality]] and uses it to determine the shortest path between each of the vertices. It uses this recursive formula:
+$$l_{ij}^{(0)} =
+\begin{cases*}
+0 & if $i = j$,\\
+\infty & if $i \neq j$.
+\end{cases*}
+$$
+This makes a matrix where $r=0$ and therefore the paths cannot use any edges. In this matrix every node will have a distance of 0 to itself, and $\infty$ to every other vertex.
+We can then define the distance matrix recursively by using the [[Triangle inequality]]. We get:
+$$l_{ij}^{(r)} =
+min{ \{ l_{ij}^{(r-1)}, min{ \{ l_{ik}^{(r-1)} + w_{kj} : 1 \le k \le n \} } \} }
+$$
+Which can be shortened to 
+
+$$l_{ij}^{(r)} =
+min{ \{ l_{ik}^{(r-1)} + w_{kj} : 1 \le k \le n \} }
+$$
+
 ## Faster-APSP
 ## Floyd-Warshall
 
