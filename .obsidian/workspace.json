@@ -8,60 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5906f70702f9cdb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Performance in computers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Performance in computers"
-            }
-          },
-          {
-            "id": "e96edc4b8be61120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Læring datamaskin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Læring datamaskin"
-            }
-          },
-          {
             "id": "7619fb89bdd6a7e4",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b24d5aae2a913865",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Arithmetic Logic Unit.md",
+                "file": "1 - Main notes/Algdat læringsmål.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +38,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arithmetic Logic Unit"
+              "title": "Algdat læringsmål"
+            }
+          },
+          {
+            "id": "20aa230dec37d081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/All pairs shortest path.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "All pairs shortest path"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: #algdat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,37 +228,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5906f70702f9cdb8",
+  "active": "20aa230dec37d081",
   "lastOpenFiles": [
+    "1 - Main notes/Algdat læringsmål.md",
+    "1 - Main notes/All pairs shortest path.md",
+    "1 - Main notes/Asymptotic notation.md",
+    "1 - Main notes/Læring datamaskin.md",
+    "1 - Main notes/Arithmetic Logic Unit.md",
+    "1 - Main notes/Algoritmiske problemtyper.md",
+    "1 - Main notes/Algdat sammendrag.md",
+    "1 - Main notes/Algdat algoritme oversikt.md",
+    "1 - Main notes/Internet protocol.md",
+    "1 - Main notes/Central Processing Unit.md",
+    "1 - Main notes/Transport layer.md",
+    "1 - Main notes/Performance in computers.md",
     "1 - Main notes/Domain-Specific Architectures.md",
     "1 - Main notes/Graphical processing unit.md",
-    "1 - Main notes/Central Processing Unit.md",
-    "1 - Main notes/Læring datamaskin.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "1 - Main notes/Memory hierarchy.md",
     "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Floating point numbers.md",
     "1 - Main notes/Instructions.md",
-    "1 - Main notes/Performance in computers.md",
-    "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Two's complement.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "5 - Attachments/Pasted image 20251208211604.png",
-    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Hardware multithreading.md",
     "2 - Tags/ip.md",
     "5 - Attachments/Pasted image 20251208203224.png",
     "2 - Tags/computers.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Maximum segment size.md",
-    "1 - Main notes/process.md",
-    "3 - Templates/Main note.md",
-    "2 - Tags/communication.md",
-    "1 - Main notes/Parallelism and memory.md",
-    "1 - Main notes/Parallelism.md",
     "5 - Attachments/Pasted image 20251208194331.png",
-    "1 - Main notes/Network Security.md",
-    "1 - Main notes/Virtual memory.md",
     "5 - Attachments/Pasted image 20251208143824.png",
     "5 - Attachments/Pasted image 20251208133607.png",
     "5 - Attachments/Pasted image 20251208122921.png",

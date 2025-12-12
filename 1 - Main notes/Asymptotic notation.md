@@ -1,7 +1,7 @@
 2025-08-22 10:31
 
 Status:
-Tags: #algorithms #algdat
+Tags: #algorithms #dsa
 
 # Asymptotic notation
 

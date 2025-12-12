@@ -1,6 +1,6 @@
 2025-11-30 12:01
 
-Tags: #algdat #algorithms 
+Tags: #dsa #algorithms 
 
 # Algdat læringsmål
 ## **Overordnede læringsmål**

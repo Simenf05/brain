@@ -1,7 +1,7 @@
 2025-08-29 09:23
 
 Status:
-Tags: #algdat #algorithms 
+Tags: #dsa #algorithms 
 
 # Algoritmiske problemtyper
 

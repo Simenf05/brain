@@ -1,6 +1,6 @@
 2025-11-26 17:17
 
-Tags: #algdat #algorithms #bellman-ford #dijkstra #sorting
+Tags: #dsa #algorithms #bellman-ford #dijkstra #sorting
 # Algdat sammendrag
 ## Forelesning 1
 Asymptotisk notasjon

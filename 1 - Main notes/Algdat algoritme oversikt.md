@@ -1,6 +1,6 @@
 2025-11-30 13:06
 
-Tags: #algdat #algorithms 
+Tags: #dsa #algorithms 
 
 # Algdat algoritme oversikt
 # **Oversikt over Algoritmer og Metoder i Pensumheftet**
