@@ -8,7 +8,7 @@ Status: #in-writing
 Tags: #networklayer #communication #it #packetswitch #router #forwarding #routing #packet
 
 # Router
-The router is the most fundamental part of every network on the internet. It serves as the final piece that connects and redirects [[link (network layer)|links]] in the network. A router often has many input and output links connected to it, and can redirect between them. When a router redirects one input link to another output link it is called forwarding, and when a packet travels through the network on many routers it is called [[Packet switching|routing]]. 
+The router is the most fundamental part of every network on the internet. It serves as the final piece that connects and redirects [[Link layer|link]] in the network. A router often has many input and output links connected to it, and can redirect between them. When a router redirects one input link to another output link it is called forwarding, and when a packet travels through the network on many routers it is called [[Packet switching|routing]]. 
 ### Forwarding
 The action of connecting one link to another is called forwarding. What link to forward to is determined by the forwarding table. There exists two main types of forwarding tables, [[#destination based forwarding]] and [[#longest prefix matching]]. The next part of the router is the part responsible for connecting the input link to the output link. This is done in whats called a [[#switching fabric]] and this can be done in multiple ways.
 #### Forwarding table

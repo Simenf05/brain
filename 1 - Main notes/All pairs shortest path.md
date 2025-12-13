@@ -6,7 +6,7 @@ aliases:
 
 2025-12-12 12:49
 
-Tags: #algorithms #dsa #shortestpath
+Tags: #algorithms #dsa #shortestpath #graph
 
 # All pairs shortest path
 
@@ -75,9 +75,21 @@ $$
 With this knowledge we can speed up the entire process. This is because we only need to compute $\lceil {lg(n - 1)} \rceil$ matrices to reach the desired $L^{(n-1)}$. We do this in an iterative way. 
 ![[Pasted image 20251212162102.png]]
 ## Floyd-Warshall
-This next algorithm uses similar principles as the slow and faster APSP, but instead of limiting the edges, we limit the vertices. This way the algorithm rather then asking if $$
+This next algorithm uses similar principles as the slow and faster APSP, but instead of limiting the amount of edges, we limit what vertices to use. This way we check if there is a faster way that uses the current iteration's vertex. We use this formula where $k$ is the current iteration's vertex:
+$$
+d_{ij}^{(k)} = 
+\begin{cases*}
+w_{ij} & if k = 0,\\
+min{ \{ d_{ij}^{k(-1)}, d_{ik}^{(k-1)} + d_{kj}^{(k-1)} \} } & if $k \ge 1$.
+\end{cases*}
+$$
+With this formula we get the matrix $D^{k}=(d_{ij}^{k})$, which when $k=n$ we get the shortest path from each node to every other node, including itself. 
+To implement this we use a bottom up [[Dynamic programming]] strategy where we first iterate over the $k$ nodes we are allowed to use. Then we calculate $d_{ij}^{(k)}$ for each of the $(i, j) \in V^2$. 
+We get a running time of $\Theta(n^3)$, because we have three for loops. 
+![[Pasted image 20251213112703.png]]
 
 ## Further reading
+- [[Graph theory]]
 - [[Asymptotic notation]]
 - [[Algoritmiske problemtyper]]
 - [[Single source shortest path]]
