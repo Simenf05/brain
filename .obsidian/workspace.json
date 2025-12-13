@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "All pairs shortest path"
             }
+          },
+          {
+            "id": "b5e0fc1ce5d1e980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Ord algdat 2024.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ord algdat 2024"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5086555480957,
-    "collapsed": true
+    "width": 238.5086555480957
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -217,14 +240,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20aa230dec37d081",
+  "active": "b5e0fc1ce5d1e980",
   "lastOpenFiles": [
+    "1 - Main notes/All pairs shortest path.md",
+    "4 - Sketch notes/Ord algdat 2024.md",
     "5 - Attachments/Pasted image 20251213112703.png",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/link (network layer).md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Graph theory.md",
-    "1 - Main notes/All pairs shortest path.md",
     "1 - Main notes/Asymptotic notation.md",
     "5 - Attachments/Pasted image 20251212162102.png",
     "5 - Attachments/Pasted image 20251212144015.png",
@@ -254,7 +278,6 @@
     "5 - Attachments/Pasted image 20251208143824.png",
     "5 - Attachments/Pasted image 20251208133607.png",
     "5 - Attachments/Pasted image 20251208122921.png",
-    "5 - Attachments/Pasted image 20251208113712.png",
     "5 - Attachments",
     "1 - Main notes/Tasks for itgk.md~",
     "1 - Main notes/Algdat sammendrag.md~",
