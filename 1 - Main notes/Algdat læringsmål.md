@@ -113,7 +113,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [x] [F6] Forstå hva **optimal delstruktur** er.
 *  [x] [F7] Forstå hva **overlappende delinstanser** er.
 *  [x] [F8] Forstå eksemplene **stavkapping** og **LCS**.
-*  [ ] [F9] Forstå løsningen på det **binære ryggsekkproblemet** (appendiks E i dette heftet) (Knapsack, Knapsack′).
+*  [x] [F9] Forstå løsningen på det **binære ryggsekkproblemet** (appendiks E i dette heftet) (Knapsack, Knapsack′).
 
 ### **Forelesning 7: Grådighet**
 
@@ -127,8 +127,8 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *   [x] [H1] Forstå hvordan grafer kan implementeres.
 *   [x] [H2] Forstå **BFS**, også for å finne korteste vei uten vekter (Inkl. Print-Path).
 *   [x] [H3] Forstå **DFS**, **parentesteoremet** og **hvit-sti-teoremet**.
-*   [ ] [H4] Forstå hvordan DFS klassifiserer kanter.
-*   [ ] [H5] Forstå Topological-Sort.
+*   [x] [H4] Forstå hvordan DFS klassifiserer kanter.
+*   [x] [H5] Forstå Topological-Sort.
 *   [x] [H6] Forstå Strongly-Connected-Components.
 *   [x] [H7] Forstå hvordan DFS kan implementeres med en stakk.
 *   [x] [H8] Forstå hva **traverseringstrær** (som bredde-først- og dybde-først-trær) er.
