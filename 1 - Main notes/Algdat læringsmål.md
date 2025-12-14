@@ -119,7 +119,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 
 *  [x] [G1] **!** Forstå designmetoden **grådighet**.
 *  [x] [G2] **!** Forstå **grådighetsegenskapen** (the greedy-choice property).
-*  [ ] [G3] Forstå eksemplene **aktivitetsutvelgelse** og det **kontinuerlige ryggsekkproblemet**.
+*  [x] [G3] Forstå eksemplene **aktivitetsutvelgelse** og det **kontinuerlige ryggsekkproblemet**.
 *  [x] [G4] Forstå **Huffman** og **Huffman-koder**.
 
 ### **Forelesning 8: Traversering av grafer**
@@ -154,16 +154,16 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [ ] [J7] Forstå ulike egenskaper ved korteste veier og oppdatering (Triangle inequality, upper-bound property, no-path property, convergence property, path-relaxation property, predecessor-subgraph property).
 *  [x] [J8] Forstå **Bellman-Ford**.
 *  [x] [J9] Forstå **Dag-Shortest-Paths**.
-*  [ ] [J10] **!** Forstå kobling mellom Dag-Shortest-Paths og **dynamisk programmering**.
+*  [x] [J10] **!** Forstå kobling mellom Dag-Shortest-Paths og **dynamisk programmering**.
 *  [x] [J11] Forstå **Dijkstra**, inkl. kjøretid med Fibonacci-haug.
 *  [ ] [J12] Kunne uttrykke korteste-vei-problemet (én til én) som et **lineært program**.
 
 ### **Forelesning 11: Korteste vei fra alle til alle**
 
-*  [ ] [K1] Forstå forgjengerstrukturen for alle-til-alle-varianten av korteste-vei-problemet (Print-All-Pairs-Shortest-Path).
-*  [ ] [K2] Forstå Slow-APSP og Faster-APSP.
-*  [ ] [K3] Forstå **Floyd-Warshall**.
-*  [ ] [K4] Forstå **Transitive-Closure**.
+*  [x] [K1] Forstå forgjengerstrukturen for alle-til-alle-varianten av korteste-vei-problemet (Print-All-Pairs-Shortest-Path).
+*  [x] [K2] Forstå Slow-APSP og Faster-APSP.
+*  [x] [K3] Forstå **Floyd-Warshall**.
+*  [x] [K4] Forstå **Transitive-Closure**.
 
 ### **Forelesning 12: Maksimal flyt**
 
@@ -186,7 +186,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 
 *  [x] [M1] Forstå **koding** (encoding) av en instans.
 *  [ ] [M2] Forstå hvorfor løsningen på det **binære ryggsekkproblemet** ikke er polynomisk.
-*  [ ] [M3] Forstå forskjellen på **konkrete** og **abstrakte problemer**.
+*  [x] [M3] Forstå forskjellen på **konkrete** og **abstrakte problemer**.
 *  [x] [M4] Forstå representasjonen av **beslutningsproblemer** som **formelle språk**.
 *  [ ] [M5] Forstå definisjonen av klassene **P**, **NP** og **co-NP**.
 *  [x] [M6] **!** Forstå definisjonen av **NP-hardhet** og **NP-kompletthet**.
