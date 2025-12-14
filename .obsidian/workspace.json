@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/Ord algdat 2024.md",
+                "file": "1 - Main notes/Algdat læringsmål.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ord algdat 2024"
+              "title": "Algdat læringsmål"
             }
           }
         ],
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5086555480957
+    "width": 238.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -242,8 +243,8 @@
   },
   "active": "b5e0fc1ce5d1e980",
   "lastOpenFiles": [
-    "1 - Main notes/All pairs shortest path.md",
     "4 - Sketch notes/Ord algdat 2024.md",
+    "1 - Main notes/All pairs shortest path.md",
     "5 - Attachments/Pasted image 20251213112703.png",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/link (network layer).md",

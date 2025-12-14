@@ -105,14 +105,14 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 
 ### **Forelesning 6: Dynamisk programmering**
 
-*  [ ] [F1] **!** Forstå ideen om en **delinstansgraf**.
+*  [x] [F1] **!** Forstå ideen om en **delinstansgraf**.
 *  [x] [F2] **!** Forstå designmetoden **dynamisk programmering**.
 *  [x] [F3] **!** Forstå løsning ved **memoisering** (top-down).
 *  [x] [F4] Forstå løsning ved **iterasjon** (bottom-up).
 *  [x] [F5] Forstå hvordan man rekonstruerer en løsning fra lagrede beslutninger.
 *  [x] [F6] Forstå hva **optimal delstruktur** er.
 *  [x] [F7] Forstå hva **overlappende delinstanser** er.
-*  [ ] [F8] Forstå eksemplene **stavkapping** og **LCS**.
+*  [x] [F8] Forstå eksemplene **stavkapping** og **LCS**.
 *  [ ] [F9] Forstå løsningen på det **binære ryggsekkproblemet** (appendiks E i dette heftet) (Knapsack, Knapsack′).
 
 ### **Forelesning 7: Grådighet**
