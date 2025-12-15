@@ -172,11 +172,11 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [x] [L3] **!** Kunne definere **restnettet** til et flytnett med en gitt flyt.
 *  [x] [L4] Forstå hvordan man kan **oppheve (cancel) flyt**.
 *  [x] [L5] Forstå hva en **forøkende sti** (augmenting path) er.
-*  [ ] [L6] Forstå hva **snitt**, **snitt-kapasitet** og **minimalt snitt** er.
-*  [ ] [L7] **!** Forstå **maks-flyt/min-snitt-teoremet**.
+*  [x] [L6] Forstå hva **snitt**, **snitt-kapasitet** og **minimalt snitt** er.
+*  [x] [L7] **!** Forstå **maks-flyt/min-snitt-teoremet**.
 *  [x] [L8] Forstå **Ford-Fulkerson-Method** og **Ford-Fulkerson**.
 *  [x] [L9] Forstå **Edmonds-Karp-algoritmen** (Ford-Fulkerson med BFS).
-*  [ ] [L10] Forstå hvordan Ford-Fulkerson kan finne et **minimalt snitt**.
+*  [x] [L10] Forstå hvordan Ford-Fulkerson kan finne et **minimalt snitt**.
 *  [x] [L11] Forstå hvordan maks-flyt kan finne en **maksimum bipartitt matching**.
 *  [x] [L12] **!** Forstå **heltallsteoremet** (integrality theorem).
 *  [x] [L13] **!** Være i stand til å konstruere **reduksjoner til maks-flyt-problemet**.
