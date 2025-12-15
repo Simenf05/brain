@@ -199,7 +199,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 ### **Forelesning 14: NP-komplette problemer**
 
 *  [x] [N1] **!** Forstå hvordan **NP-kompletthet kan bevises ved én reduksjon**.
-*  [ ] [N2] **!** Kjenne de **NP-komplette problemene** CIRCUIT-SAT, SAT, 3-CNF-SAT, CLIQUE, VERTEX-COVER, HAM-CYCLE, TSP og SUBSET-SUM.
+*  [x] [N2] **!** Kjenne de **NP-komplette problemene** CIRCUIT-SAT, SAT, 3-CNF-SAT, CLIQUE, VERTEX-COVER, HAM-CYCLE, TSP og SUBSET-SUM.
 *  [x] [N3] Forstå NP-kompletthetsbevisene for disse problemene.
 *  [x] [N4] Forstå at det **binære ryggsekkproblemet er NP-hardt**.
 *  [x] [N5] Forstå at **lengste-enkle-vei-problemet er NP-hardt**.
