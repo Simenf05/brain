@@ -5,14 +5,14 @@ Tags: #dsa #algorithms
 # Algdat læringsmål
 ## **Overordnede læringsmål**
 
-*  [ ] [X1] Dere skal ha kunnskap om et bredt spekter av etablerte algoritmer og datastrukturer.
+*  [x] [X1] Dere skal ha kunnskap om et bredt spekter av etablerte algoritmer og datastrukturer.
 *  [x] [X2] Dere skal ha kunnskap om klassiske algoritmiske problemer med kjente effektive løsninger.
 *  [x] [X3] Dere skal ha kunnskap om komplekse problemer uten kjente effektive løsninger.
 *  [x] [X4] Dere skal kunne analysere algoritmers korrekthet og effektivitet.
 *  [x] [X5] Dere skal kunne formulere problemer så de kan løses av algoritmer.
-*  [ ] [X6] **!** Dere skal kunne konstruere nye effektive algoritmer.
+*  [x] [X6] **!** Dere skal kunne konstruere nye effektive algoritmer.
 *  [x] [X7] Dere skal være i stand til å bruke eksisterende algoritmer og programvare på nye problemer.
-*  [ ] [X8] Dere skal være i stand til å utvikle nye løsninger på praktiske algoritmiske problemstillinger.
+*  [x] [X8] Dere skal være i stand til å utvikle nye løsninger på praktiske algoritmiske problemstillinger.
 
 ## **Forkunnskaper (Y-mål)**
 
@@ -39,7 +39,7 @@ Tags: #dsa #algorithms
 Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur og problemstilling som dekkes.
 
 **Læringsmål for hver algoritme:**
-*  [ ] [Z1] Kjenne den formelle definisjonen av det generelle problemet den løser.
+*  [x] [Z1] Kjenne den formelle definisjonen av det generelle problemet den løser.
 *  [ ] [Z2] Kjenne til eventuelle tilleggskrav den stiller for å være korrekt.
 *  [ ] [Z3] Vite hvordan den oppfører seg; kunne utføre algoritmen, trinn for trinn.
 *  [ ] [Z4] **!** Forstå korrekthetsbeviset; hvordan og hvorfor virker algoritmen egentlig?.
@@ -51,8 +51,8 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *   [ ] [Z8] Forstå hvordan strukturen representeres i minnet.
 
 **Læringsmål for hvert problem:**
-*  [ ] [Z9] Kunne angi presist hva input er.
-*  [ ] [Z10] Kunne angi presist hva output er og hvilke egenskaper det må ha.
+*  [x] [Z9] Kunne angi presist hva input er.
+*  [x] [Z10] Kunne angi presist hva output er og hvilke egenskaper det må ha.
 
 ## **Læringsmål per forelesning**
 
@@ -148,15 +148,15 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [x] [J1] Forstå ulike varianter av **korteste-vei-** eller **korteste-sti-problemet** (Single-source, single-destination, single-pair, all-pairs).
 *  [x] [J2] Forstå strukturen til korteste-vei-problemet.
 *  [x] [J3] Forstå at **korteste enkle vei** (simple path) kan eksistere selv om en negativ sykel forhindrer at korteste vei gjør det.
-*  [ ] [J4] Forstå at korteste enkle vei kan løses vha. **lengste enkle vei** og omvendt.
-*  [ ] [J5] Forstå hvordan man kan representere et **korteste-vei-tre**.
+*  [x] [J4] Forstå at korteste enkle vei kan løses vha. **lengste enkle vei** og omvendt.
+*  [x] [J5] Forstå hvordan man kan representere et **korteste-vei-tre**.
 *  [x] [J6] **!** Forstå **kant-oppdatering** (edge relaxation) og **Relax**.
 *  [ ] [J7] Forstå ulike egenskaper ved korteste veier og oppdatering (Triangle inequality, upper-bound property, no-path property, convergence property, path-relaxation property, predecessor-subgraph property).
 *  [x] [J8] Forstå **Bellman-Ford**.
 *  [x] [J9] Forstå **Dag-Shortest-Paths**.
 *  [x] [J10] **!** Forstå kobling mellom Dag-Shortest-Paths og **dynamisk programmering**.
 *  [x] [J11] Forstå **Dijkstra**, inkl. kjøretid med Fibonacci-haug.
-*  [ ] [J12] Kunne uttrykke korteste-vei-problemet (én til én) som et **lineært program**.
+*  [x] [J12] Kunne uttrykke korteste-vei-problemet (én til én) som et **lineært program**.
 
 ### **Forelesning 11: Korteste vei fra alle til alle**
 
