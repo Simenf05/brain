@@ -180,7 +180,7 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 *  [x] [L11] Forstå hvordan maks-flyt kan finne en **maksimum bipartitt matching**.
 *  [x] [L12] **!** Forstå **heltallsteoremet** (integrality theorem).
 *  [x] [L13] **!** Være i stand til å konstruere **reduksjoner til maks-flyt-problemet**.
-*  [ ] [L14] Kunne uttrykke maks-flyt og **billigste flyt** (minimum-cost flow) som **lineære program**.
+*  [x] [L14] Kunne uttrykke maks-flyt og **billigste flyt** (minimum-cost flow) som **lineære program**.
 
 ### **Forelesning 13: NP-kompletthet**
 
