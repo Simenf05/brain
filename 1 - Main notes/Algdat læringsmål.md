@@ -185,14 +185,14 @@ Disse målene gjelder gjennom hele semesteret for hver algoritme, datastruktur o
 ### **Forelesning 13: NP-kompletthet**
 
 *  [x] [M1] Forstå **koding** (encoding) av en instans.
-*  [ ] [M2] Forstå hvorfor løsningen på det **binære ryggsekkproblemet** ikke er polynomisk.
+*  [x] [M2] Forstå hvorfor løsningen på det **binære ryggsekkproblemet** ikke er polynomisk.
 *  [x] [M3] Forstå forskjellen på **konkrete** og **abstrakte problemer**.
 *  [x] [M4] Forstå representasjonen av **beslutningsproblemer** som **formelle språk**.
-*  [ ] [M5] Forstå definisjonen av klassene **P**, **NP** og **co-NP**.
+*  [x] [M5] Forstå definisjonen av klassene **P**, **NP** og **co-NP**.
 *  [x] [M6] **!** Forstå definisjonen av **NP-hardhet** og **NP-kompletthet**.
-*  [ ] [M7] Forstå forholdet mellom NP-hardhet/NP-kompletthet og ulike problemtyper (Søkeproblemer, beslutningsproblemer og optimeringsproblemer).
-*  [ ] [M8] Forstå den konvensjonelle hypotesen om forholdet mellom P, NP og NPC.
-*  [ ] [M9] Forstå reduksjon begge veier mellom **optimering** og **terskling**.
+*  [x] [M7] Forstå forholdet mellom NP-hardhet/NP-kompletthet og ulike problemtyper (Søkeproblemer, beslutningsproblemer og optimeringsproblemer).
+*  [x] [M8] Forstå den konvensjonelle hypotesen om forholdet mellom P, NP og NPC.
+*  [x] [M9] Forstå reduksjon begge veier mellom **optimering** og **terskling**.
 *  [x] [M10] Forstå reduksjon begge veier mellom **søk** og **beslutning**.
 *  [x] [M11] Forstå beviset for at **CIRCUIT-SAT er NP-komplett**.
 
