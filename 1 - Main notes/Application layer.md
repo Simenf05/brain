@@ -14,13 +14,13 @@ Server:
 - Is always on 
 - Provides service to users
 - Permanent ip address
-- Often runs [[linux]]
+- Often runs [[Linux]]
 
 Client:
 - Communicates with the server 
 - Connected in intervals 
 - Often has dynamic ip
-- Should be on [[linux]]
+- Should be on [[Linux]]
 
 ## Peer-to-peer paradigm
 In peer-to-peer communication the end users are also service providers. This way the load i split up and balanced between different end users. This is commonly used for file sharing with torrents. When the files are big and might be expensive to send from a server will it be better to share the burden in a network of peers. 

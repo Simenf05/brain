@@ -15,7 +15,7 @@ There is also possible to spoof the source of packets on the network. This can b
 Denial of service is an attack where the attacker launches many requests to the server and overloading the server. This makes the service unusable for any other users and shuts down the application. DDoS is when this is done from multiple hosts at the same time by one bad actor. To make it harder to DDoS we use access restrictions to prevent bad users to access the resources that can compromise the service. 
 
 ### Firewalls
-Firewalls can be used to mitigate attacks by ensuring certain restrictions on all the traffic in and out of the network. This way DOS attacks can be prevented by blocking users with too many requests. On [[linux]] this can be done by using [[iptables]] or [[ufw]].
+Firewalls can be used to mitigate attacks by ensuring certain restrictions on all the traffic in and out of the network. This way DOS attacks can be prevented by blocking users with too many requests. On [[Linux]] this can be done by using [[iptables]] or [[ufw]].
 
 ## References
 [Jim Kurose video](https://www.youtube.com/watch?v=yukwBqSwAkg&list=PL1ya5dD_M8uX-BLUF1FEvUNsYWQL5_l0O&index=6)

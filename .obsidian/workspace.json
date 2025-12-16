@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Algdat læringsmål.md",
+                "file": "1 - Main notes/Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algdat læringsmål"
+              "title": "Linux"
             }
           }
         ],
@@ -243,10 +243,11 @@
   },
   "active": "b5e0fc1ce5d1e980",
   "lastOpenFiles": [
+    "1 - Main notes/Linux.md",
+    "1 - Main notes/Algdat læringsmål.md",
     "4 - Sketch notes/Ord algdat 2024.md",
     "1 - Main notes/All pairs shortest path.md",
     "5 - Attachments/Pasted image 20251213112703.png",
-    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/link (network layer).md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Graph theory.md",
@@ -273,7 +274,6 @@
     "1 - Main notes/Two's complement.md",
     "4 - Sketch notes/Tasklist for computers.md",
     "5 - Attachments/Pasted image 20251208211604.png",
-    "1 - Main notes/Hardware multithreading.md",
     "5 - Attachments/Pasted image 20251208203224.png",
     "5 - Attachments/Pasted image 20251208194331.png",
     "5 - Attachments/Pasted image 20251208143824.png",
