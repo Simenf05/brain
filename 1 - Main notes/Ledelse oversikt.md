@@ -4,7 +4,7 @@
 
 Kapittel:
 
-- [ ] kap. 3
+- [x] kap. 3
 - [ ] kap. 4
 - [ ] kap. 5
 - [ ] kap. 6

@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,8 +265,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5e0fc1ce5d1e980",
+  "active": "95c77deb76a3a1eb",
   "lastOpenFiles": [
+    "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Linux.md",
     "1 - Main notes/Ledelse oversikt.md",
     "1 - Main notes/Algdat læringsmål.md",
@@ -296,7 +297,6 @@
     "1 - Main notes/Flersykelprosessor.md",
     "1 - Main notes/Floating point numbers.md",
     "1 - Main notes/Instructions.md",
-    "1 - Main notes/Two's complement.md",
     "5 - Attachments/Pasted image 20251208211604.png",
     "5 - Attachments/Pasted image 20251208203224.png",
     "5 - Attachments/Pasted image 20251208194331.png",
