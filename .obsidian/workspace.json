@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Linux.md",
+                "file": "1 - Main notes/Lederstiler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Lederstiler"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,7 +265,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c77deb76a3a1eb",
+  "active": "b5e0fc1ce5d1e980",
   "lastOpenFiles": [
     "1 - Main notes/Linux.md",
     "1 - Main notes/Ledelse oversikt.md",
