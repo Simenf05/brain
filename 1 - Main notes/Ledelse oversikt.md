@@ -1,0 +1,17 @@
+# Sketch note: 2025-12-17 13:10
+
+# Ledelse oversikt
+
+Kapittel:
+
+- [ ] kap. 3
+- [ ] kap. 4
+- [ ] kap. 5
+- [ ] kap. 6
+- [ ] kap. 7
+- [ ] kap. 8
+- [ ] kap. 10
+- [ ] kap. 11
+- [ ] kap. 14
+- [ ] kap. 15
+
