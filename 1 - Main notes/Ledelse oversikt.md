@@ -5,7 +5,7 @@
 Kapittel:
 
 - [x] kap. 3
-- [ ] kap. 4
+- [x] kap. 4
 - [ ] kap. 5
 - [ ] kap. 6
 - [ ] kap. 7
@@ -14,4 +14,3 @@ Kapittel:
 - [ ] kap. 11
 - [ ] kap. 14
 - [ ] kap. 15
-
