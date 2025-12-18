@@ -6,7 +6,7 @@ Kapittel:
 
 - [x] kap. 3
 - [x] kap. 4
-- [ ] kap. 5
+- [x] kap. 5
 - [ ] kap. 6
 - [ ] kap. 7
 - [ ] kap. 8
