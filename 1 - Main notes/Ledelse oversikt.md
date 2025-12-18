@@ -13,4 +13,4 @@ Kapittel:
 - [x] kap. 10
 - [x] kap. 11
 - [x] kap. 14
-- [ ] kap. 15
+- [x] kap. 15
