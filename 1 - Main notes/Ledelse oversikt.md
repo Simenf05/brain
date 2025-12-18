@@ -10,7 +10,7 @@ Kapittel:
 - [x] kap. 6
 - [x] kap. 7
 - [x] kap. 8
-- [ ] kap. 10
+- [x] kap. 10
 - [ ] kap. 11
 - [ ] kap. 14
 - [ ] kap. 15
