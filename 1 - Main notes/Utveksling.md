@@ -10,8 +10,10 @@ Tags: #japan
 
 ## uTokyo
 
+jeg må ha 15 credits på utokyo
+
 Maybe courses:
-- Technical & Scientific Computing II -> Parallelle beregninger
+- Technical & Scientific Computing II (2 credits) -> Parallelle beregninger
 - 
 
 
