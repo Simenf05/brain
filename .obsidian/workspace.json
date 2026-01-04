@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Hypertext transfer protocol"
             }
+          },
+          {
+            "id": "e2a2441d7db2a6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Utveksling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Utveksling"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -266,8 +290,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c77deb76a3a1eb",
+  "active": "e2a2441d7db2a6d2",
   "lastOpenFiles": [
+    "1 - Main notes/Hypertext transfer protocol.md",
+    "1 - Main notes/Utveksling.md",
     "1 - Main notes/Layers in the networking.md",
     "2 - Tags/communication.md",
     "1 - Main notes/Network layer.md",
@@ -296,8 +322,6 @@
     "1 - Main notes/Internet protocol.md",
     "1 - Main notes/Central Processing Unit.md",
     "1 - Main notes/Transport layer.md",
-    "1 - Main notes/Performance in computers.md",
-    "1 - Main notes/Domain-Specific Architectures.md",
     "5 - Attachments/Pasted image 20251208211604.png",
     "5 - Attachments/Pasted image 20251208203224.png",
     "5 - Attachments/Pasted image 20251208194331.png",
