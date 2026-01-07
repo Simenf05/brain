@@ -10,6 +10,10 @@ Tags: #japan
 
 ## uTokyo
 
+Alg professor: vorapong@is.s.u-tokyo.ac.jp
+Parallel beregning professor: nakajima@cc.u-tokyo.ac.jp 
+
+
 jeg må ha 15 credits på utokyo
 
 Maybe courses:
