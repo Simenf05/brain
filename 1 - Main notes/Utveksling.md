@@ -10,12 +10,11 @@ Tags: #japan
 ## Waseda
 
 ## Spørsmål jeg har:
-- Overlapp med neste semester?
-- GPA, hva er det? karakterer her eller vgs?
-- Hvor mange credits må jeg ha? og hva menes med `Førsteårsemner godkjennes ikke. *30 credits over 2 år pluss masteroppgave, ev. studieløp uten masteroppgave som krever ca 38-40 credits`
+- Overlapp med neste semester? Sjekke med https://www.ntnu.no/studier/emner/IT2901/#tab=omEmnet sin faglærer
+- GPA, hva er det? karakterer her eller vgs? Kontakte internasjonnale seksjon
+- Hvor mange credits må jeg ha? og hva menes med `Førsteårsemner godkjennes ikke. *30 credits over 2 år pluss masteroppgave, ev. studieløp uten masteroppgave som krever ca 38-40 credits` jeg må ha 15 credits
 - Skal jeg søke gjennom kun ntnu eller må jeg forholde meg til søknadsprosessen der også?
 - Når er språktest og hvordan tar jeg den?
-- 
 
 ## Fag
 - INFI41ZL Information retrival -> TDT4117 Informasjonsgjenfinning 
