@@ -9,6 +9,10 @@ Tags: #japan
 # Utveksling
 ## Waseda
 
+## Spørsmål jeg har:
+- 
+
+## Fag
 - INFI41ZL Information retrival -> TDT4117 Informasjonsgjenfinning 
 	- Link:  https://www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC024012012025260303401926&pLng=en
 	- Course code: 26MC024012
