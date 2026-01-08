@@ -18,7 +18,7 @@ Tags: #japan
 - 
 
 
-- INFB21ZL Computer Architecture -> TDT4240 Programvarearkitektur
+- INFB21ZL Computer Architecture -> 
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03200601202526MC03200626&pLng=en
 	- Course key: 26MC032006
 
