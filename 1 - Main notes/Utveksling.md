@@ -36,9 +36,7 @@ Tags: #japan
 
 Kanskje-fag:
 - Distributed Embedded and Real-Time Processing
-- Foundations of Statistics B
 - Programming Languages
-- 
 
 
 
