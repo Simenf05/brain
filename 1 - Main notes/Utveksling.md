@@ -33,6 +33,10 @@ Tags: #japan
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03301401202526MC03301426&pLng=en
 	- Course key: 26MC033014
 	- Day: Fall Wed. 3
+- INFK41ZL Distributed Embedded and Real-Time Processing -> 
+	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC024001012025260303400226&pLng=en
+	- Course key: 26MC024001
+	- Day: Fall Fri. 2
 
 
 
