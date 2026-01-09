@@ -20,15 +20,19 @@ Tags: #japan
 - INFI41ZL Information retrival -> TDT4117 Informasjonsgjenfinning 
 	- Link:  https://www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC024012012025260303401926&pLng=en
 	- Course key: 26MC024012
+	- Day: Fall Thur. 1
 - INFI21ZL Artificial Intelligence -> TDT4136 Introduction to Artificial Intelligence
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03200801202526MC03200826&pLng=en	
 	- Course key: 26MC032008
+	- Day: Fall Thur. 4
 - INFB21ZL Logic Circuits -> TTT4203 Innføring i analog og digital elektronikk
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC01200301202526MC01200326&pLng=en
 	- Course key: 26MC012003
+	- Day: Fall Tues. 5
 - INFJ31ZL Multimedia Systems A -> Noe multimedia
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03301401202526MC03301426&pLng=en
 	- Course key: 26MC033014
+	- Day: Fall Wed. 3
 
 
 
