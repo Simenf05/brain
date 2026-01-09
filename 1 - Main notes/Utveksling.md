@@ -29,7 +29,10 @@ Tags: #japan
 - INFJ31ZL Multimedia Systems A -> Noe multimedia
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03301401202526MC03301426&pLng=en
 	- Course key: 26MC033014
-- 
+
+
+
+- Japanese for ‘zero’ beginners
 
 Kanskje-fag:
 - Distributed Embedded and Real-Time Processing
