@@ -26,6 +26,15 @@ Tags: #japan
 - INFB21ZL Logic Circuits -> TTT4203 Innføring i analog og digital elektronikk
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC01200301202526MC01200326&pLng=en
 	- Course key: 26MC012003
+- INFJ31ZL Multimedia Systems A -> Noe multimedia
+	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03301401202526MC03301426&pLng=en
+	- Course key: 26MC033014
+- 
+
+Kanskje-fag:
+- Distributed Embedded and Real-Time Processing
+- Foundations of Statistics B
+- Programming Languages
 - 
 
 
