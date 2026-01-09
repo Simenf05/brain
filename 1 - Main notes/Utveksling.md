@@ -16,6 +16,9 @@ Tags: #japan
 - Skal jeg søke gjennom kun ntnu eller må jeg forholde meg til søknadsprosessen der også?
 - Når er språktest og hvordan tar jeg den?
 
+Alle fag som kan tas på Waseda:
+https://waseda.app.box.com/s/6zrmqod66mdgo08xk2kbn5kgvkzd5879/file/1928541904671
+NB: merk at jeg har hatt de fleste fagene og ikke kan ta fag for første klasse
 ## Fag
 - INFI41ZL Information retrival -> TDT4117 Informasjonsgjenfinning 
 	- Link:  https://www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC024012012025260303401926&pLng=en
@@ -38,15 +41,7 @@ Tags: #japan
 	- Course key: 26MC024001
 	- Day: Fall Fri. 2
 
-
-
 - Japanese for ‘zero’ beginners
-
-Kanskje-fag:
-- Distributed Embedded and Real-Time Processing
-- Programming Languages
-
-
 
 
 ## uTokyo
