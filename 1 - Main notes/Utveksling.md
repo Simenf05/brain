@@ -40,6 +40,10 @@ NB: merk at jeg har hatt de fleste fagene og ikke kan ta fag for første klasse
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC024001012025260303400226&pLng=en
 	- Course key: 26MC024001
 	- Day: Fall Fri. 2
+- INFP31ZL Software Engineering -> TDT4240 Programvarearkitektur
+	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03300901202526MC03300926&pLng=en%27www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03300901202526MC03300926&pLng=en
+	- Course key: 26MC033009
+	- Day: Fall Mon. 3
 
 - Japanese for ‘zero’ beginners
 
