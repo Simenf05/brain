@@ -32,11 +32,11 @@ NB: merk at jeg har hatt de fleste fagene og ikke kan ta fag for første klasse
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC01200301202526MC01200326&pLng=en
 	- Course key: 26MC012003
 	- Day: Fall Tues. 5
-- INFJ31ZL Multimedia Systems A -> Noe multimedia
+- INFJ31ZL Multimedia Systems A -> 
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03301401202526MC03301426&pLng=en
 	- Course key: 26MC033014
 	- Day: Fall Wed. 3
-- INFK41ZL Distributed Embedded and Real-Time Processing -> 
+- INFK41ZL Distributed Embedded and Real-Time Processing -> TTK4145 Real-time Programming
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC024001012025260303400226&pLng=en
 	- Course key: 26MC024001
 	- Day: Fall Fri. 2
@@ -46,7 +46,7 @@ NB: merk at jeg har hatt de fleste fagene og ikke kan ta fag for første klasse
 	- Day: Fall Mon. 3
 
 - Japanese for ‘zero’ beginners
-
+IIK3100 Ethical Hacking and Penetration Testing
 
 ## uTokyo
 
