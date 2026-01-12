@@ -32,7 +32,7 @@ NB: merk at jeg har hatt de fleste fagene og ikke kan ta fag for første klasse
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC01200301202526MC01200326&pLng=en
 	- Course key: 26MC012003
 	- Day: Fall Tues. 5
-- INFJ31ZL Multimedia Systems A -> 
+- INFJ31ZL Multimedia Systems A -> TTT4135 Multimedia Signal Processing
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03301401202526MC03301426&pLng=en
 	- Course key: 26MC033014
 	- Day: Fall Wed. 3
@@ -44,6 +44,7 @@ NB: merk at jeg har hatt de fleste fagene og ikke kan ta fag for første klasse
 	- Link: www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03300901202526MC03300926&pLng=en%27www.wsl.waseda.jp/syllabus/JAA104.php?pKey=26MC03300901202526MC03300926&pLng=en
 	- Course key: 26MC033009
 	- Day: Fall Mon. 3
+
 
 - Japanese for ‘zero’ beginners
 IIK3100 Ethical Hacking and Penetration Testing
