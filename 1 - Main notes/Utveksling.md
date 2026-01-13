@@ -52,17 +52,14 @@ IIK3100 Ethical Hacking and Penetration Testing
 
 ## Other universities 
 
-| Name                                              | Number of exchanges | Notes          |
-| ------------------------------------------------- | ------------------- | -------------- |
-| Chiba University                                  | 2                   | Rett ved tokyo |
-| Ehime University                                  | 4                   |                |
-| Kwansei Gakuin University                         | 3                   |                |
-| Kyoto University                                  | 2                   | Høyt snitt     |
-| Kyushu University                                 | 5                   | IV og NV       |
-| Nagasaki University                               | 3                   |                |
-| Osaka Metropolitan University                     | 2                   |                |
-| Science Tokyo                                     | 3                   | Høy rating     |
-| Tohoku University                                 | 2                   | Sendai         |
-| Tokyo University of Marine Science and Technology | 2-4                 | C snitt ish    |
-| Toyama University                                 | 2                   |                |
-| Yamanashi Gakuin University                       | 3                   |                |
+| Name                          | Number of exchanges | Notes                   |
+| ----------------------------- | ------------------- | ----------------------- |
+| Chiba University              | 2                   | Rett ved tokyo          |
+| Kwansei Gakuin University     | 3                   | Osaka men ikke sentralt |
+| Kyoto University              | 2                   | Høyt snitt              |
+| Nagasaki University           | 3                   |                         |
+| Osaka Metropolitan University | 2                   |                         |
+| Science Tokyo                 | 3                   | Høy rating              |
+| Tohoku University             | 2                   | Sendai                  |
+| Toyama University             | 2                   |                         |
+| Yamanashi Gakuin University   | 3                   |                         |
