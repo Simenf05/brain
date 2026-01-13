@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/The relational model.md",
+                "file": "1 - Main notes/Relational algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The relational model"
+              "title": "Relational algebra"
             }
           },
           {
@@ -317,7 +317,7 @@
   "active": "a918d253b1fe2b58",
   "lastOpenFiles": [
     "1 - Main notes/All pairs shortest path.md",
-    "1 - Main notes/The relational model.md",
+    "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Utveksling.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Lederstiler.md",
