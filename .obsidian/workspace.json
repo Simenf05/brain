@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -314,10 +314,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a918d253b1fe2b58",
+  "active": "e2a2441d7db2a6d2",
   "lastOpenFiles": [
-    "1 - Main notes/All pairs shortest path.md",
     "1 - Main notes/Relational algebra.md",
+    "1 - Main notes/All pairs shortest path.md",
     "1 - Main notes/Utveksling.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Lederstiler.md",
