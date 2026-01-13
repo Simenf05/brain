@@ -49,14 +49,20 @@ NB: merk at jeg har hatt de fleste fagene og ikke kan ta fag for første klasse
 - Japanese for ‘zero’ beginners
 IIK3100 Ethical Hacking and Penetration Testing
 
-## uTokyo
 
-Alg professor: vorapong@is.s.u-tokyo.ac.jp
-Parallel beregning professor: nakajima@cc.u-tokyo.ac.jp 
+## Other universities 
 
-
-jeg må ha 15 credits på utokyo
-
-Maybe courses:
-- Technical & Scientific Computing II (2 credits) -> Parallelle beregninger
-- 
+| Name                                              | Number of exchanges | Notes          |
+| ------------------------------------------------- | ------------------- | -------------- |
+| Chiba University                                  | 2                   | Rett ved tokyo |
+| Ehime University                                  | 4                   |                |
+| Kwansei Gakuin University                         | 3                   |                |
+| Kyoto University                                  | 2                   | Høyt snitt     |
+| Kyushu University                                 | 5                   | IV og NV       |
+| Nagasaki University                               | 3                   |                |
+| Osaka Metropolitan University                     | 2                   |                |
+| Science Tokyo                                     | 3                   | Høy rating     |
+| Tohoku University                                 | 2                   | Sendai         |
+| Tokyo University of Marine Science and Technology | 2-4                 | C snitt ish    |
+| Toyama University                                 | 2                   |                |
+| Yamanashi Gakuin University                       | 3                   |                |
