@@ -52,14 +52,13 @@ IIK3100 Ethical Hacking and Penetration Testing
 
 ## Other universities 
 
-| Name                          | Number of exchanges | Notes                   |
-| ----------------------------- | ------------------- | ----------------------- |
-| Chiba University              | 2                   | Rett ved tokyo          |
-| Kwansei Gakuin University     | 3                   | Osaka men ikke sentralt |
-| Kyoto University              | 2                   | Høyt snitt              |
-| Nagasaki University           | 3                   |                         |
-| Osaka Metropolitan University | 2                   |                         |
-| Science Tokyo                 | 3                   | Høy rating              |
-| Tohoku University             | 2                   | Sendai                  |
-| Toyama University             | 2                   |                         |
-| Yamanashi Gakuin University   | 3                   |                         |
+| Name                          | Number of exchanges | Notes                                 |
+| ----------------------------- | ------------------- | ------------------------------------- |
+| Chiba University              | 2                   | Rett ved tokyo                        |
+| Kwansei Gakuin University     | 3                   | Osaka men ikke sentralt               |
+| Kyoto University              | 2                   | Høyt snitt                            |
+| Nagasaki University           | 3                   | Virker chill, og litt varmt           |
+| Science Tokyo                 | 3                   | Høy rating og snitt                   |
+| Tohoku University             | 2                   | Sendai                                |
+| Toyama University             | 2                   |                                       |
+| Yamanashi Gakuin University   | 3                   | Gokk men virka chill, ikke høyt snitt |
