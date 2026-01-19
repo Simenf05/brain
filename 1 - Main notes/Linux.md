@@ -17,4 +17,4 @@ Linux is the kernel of
 ## Further reading
 - [[Operating System]]
 - [[Unix]]
-- [[process]]
+- [[Process]]

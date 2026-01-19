@@ -27,7 +27,7 @@ In peer-to-peer communication the end users are also service providers. This way
 
 ## Communication between processes
 
-[[process|Processes]] are programs running on a host, and when we have communication it usually is between processes. With the client-server paradigm the client would be the web browser and the server would be some sort of web server, like [[nginx]]. 
+[[Process|Processes]] are programs running on a host, and when we have communication it usually is between processes. With the client-server paradigm the client would be the web browser and the server would be some sort of web server, like [[nginx]]. 
 When the communication is between two processes on the same host the communication is called [[inter-process communication]] or IPC for short. When the processes are on different hosts we have to pass messages and this is where we can define the client as the process that reaches out to the other process. The process waiting for a response is the server process. 
 
 

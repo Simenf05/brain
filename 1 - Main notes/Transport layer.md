@@ -5,10 +5,10 @@ Tags: #communication #tcp #it #rdt #roundtriptime #udp #applicationlayer #networ
 
 # Transport layer
 
-The task of the transport layer is to provide a logical connection between different [[process|processes]]. The connection is used between different hosts meaning usually different machines or servers on the same network or over the internet. 
+The task of the transport layer is to provide a logical connection between different [[Process|processes]]. The connection is used between different hosts meaning usually different machines or servers on the same network or over the internet. 
 
 ### House example
-An analogy to this layer could be that if there was two houses with 12 children, then the host would be the house, the children would be the [[process|processes]] and letters sent between the houses would be transported by the transport layer. The transport layer has to know if a letter went missing on the way and resend lost letters.
+An analogy to this layer could be that if there was two houses with 12 children, then the host would be the house, the children would be the [[Process|processes]] and letters sent between the houses would be transported by the transport layer. The transport layer has to know if a letter went missing on the way and resend lost letters.
 
 ### Transport layer protocols: TCP and UDP
 

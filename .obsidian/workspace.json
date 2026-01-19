@@ -107,24 +107,10 @@
             "id": "95c77deb76a3a1eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Hypertext transfer protocol.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hypertext transfer protocol"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -133,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/process.md",
+                "file": "1 - Main notes/Thread.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +134,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "process"
+              "title": "Thread"
+            }
+          },
+          {
+            "id": "4223ae8e1ada0c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Process.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Process"
             }
           }
         ],
@@ -316,10 +326,12 @@
   },
   "active": "e2a2441d7db2a6d2",
   "lastOpenFiles": [
+    "1 - Main notes/Thread.md",
+    "1 - Main notes/Hypertext transfer protocol.md",
+    "1 - Main notes/Process.md",
     "1 - Main notes/Utveksling.md",
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/All pairs shortest path.md",
-    "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Layers in the networking.md",
@@ -344,8 +356,6 @@
     "1 - Main notes/Algoritmiske problemtyper.md",
     "1 - Main notes/Algdat sammendrag.md",
     "1 - Main notes/Algdat algoritme oversikt.md",
-    "1 - Main notes/Internet protocol.md",
-    "1 - Main notes/Central Processing Unit.md",
     "5 - Attachments/Pasted image 20251208211604.png",
     "5 - Attachments/Pasted image 20251208203224.png",
     "5 - Attachments/Pasted image 20251208194331.png",
