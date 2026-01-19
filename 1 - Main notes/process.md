@@ -8,7 +8,7 @@ Tags: #it #os #linux #communication
 
 # Process 
 
-A process on a machine is a 
+A process on
 
 
 ## Further reading

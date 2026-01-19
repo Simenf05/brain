@@ -133,9 +133,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Utveksling.md",
+                "file": "1 - Main notes/process.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Utveksling"
+              "title": "process"
             }
           }
         ],
@@ -290,8 +290,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -316,9 +316,9 @@
   },
   "active": "e2a2441d7db2a6d2",
   "lastOpenFiles": [
+    "1 - Main notes/Utveksling.md",
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/All pairs shortest path.md",
-    "1 - Main notes/Utveksling.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Algdat læringsmål.md",
