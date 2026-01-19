@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Process.md",
+                "file": "1 - Main notes/Scheduling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,11 +158,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Process"
+              "title": "Scheduling"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: #algdat",
+                "query": "Round robin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -324,11 +324,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2a2441d7db2a6d2",
+  "active": "4223ae8e1ada0c1c",
   "lastOpenFiles": [
+    "1 - Main notes/Router.md",
+    "1 - Main notes/Scheduling.md",
+    "1 - Main notes/Process.md",
     "1 - Main notes/Thread.md",
     "1 - Main notes/Hypertext transfer protocol.md",
-    "1 - Main notes/Process.md",
     "1 - Main notes/Utveksling.md",
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/All pairs shortest path.md",
@@ -345,7 +347,6 @@
     "4 - Sketch notes/Ord algdat 2024.md",
     "5 - Attachments/Pasted image 20251213112703.png",
     "1 - Main notes/link (network layer).md",
-    "1 - Main notes/Router.md",
     "1 - Main notes/Graph theory.md",
     "1 - Main notes/Asymptotic notation.md",
     "5 - Attachments/Pasted image 20251212162102.png",
@@ -355,7 +356,6 @@
     "1 - Main notes/Arithmetic Logic Unit.md",
     "1 - Main notes/Algoritmiske problemtyper.md",
     "1 - Main notes/Algdat sammendrag.md",
-    "1 - Main notes/Algdat algoritme oversikt.md",
     "5 - Attachments/Pasted image 20251208211604.png",
     "5 - Attachments/Pasted image 20251208203224.png",
     "5 - Attachments/Pasted image 20251208194331.png",

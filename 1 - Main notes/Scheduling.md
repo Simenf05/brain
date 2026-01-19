@@ -1,0 +1,40 @@
+---
+aliases:
+---
+2026-01-19 13:19
+
+Tags: #os #algorithms 
+# Scheduling
+Scheduling are policies that determine the order of execution between ready processes and threads. We have many different algorithms for scheduling, with different objectives. The scheduler can have different effects on the performance of the system. 
+
+## Terminologies
+We use different metrics to measure the effectiveness of schedulers. These can either be maximized or minimized depending on the effect. 
+Maximize:
+- CPU utilization (% [[Central Processing Unit|CPU]] busy)
+- Throughput ([[Process]] / time)
+Minimize:
+- Turnaround time (time between arrival and completion)
+- Waiting time (time in the ready queue)
+- Response time (time between arrival and first output)
+
+# Scheduling algorithms
+## Non-preemptive scheduling algorithms
+### First in first out (FIFO)
+Works like a queue, by executing processes based on arrival time. Can be implemented simply by using the queue data structure. 
+#### Downside
+The turnaround time can be bad, if a long process enters the queue first. All the other processes has to wait until the first one is completed. This makes FIFO a terrible algorithm in practice. This problem is called the convoy effect. 
+### Shortest Job First (SJF)
+The tasks with the shortest execution time is scheduled first, otherwise it works like FIFO. We assume that we cannot de-schedule a process once it has started.
+#### Downside
+If task A is long is started, then if task B and C is ready while A is executing, then we have to wait for A to complete. 
+## Preemptive scheduling algorithms
+These algorithms can stop execution of processes while they are running. 
+### Shortest Time-to-Complete First (STCF)
+Always switch to the task that has the shortest time to complete. This is better because short tasks will get priority. 
+#### Downside
+May cause starvation of tasks with long execution time, when shorter tasks always gets the prioritized. 
+
+
+## Further reading
+- [[Process]]
+- [[Operating System]]
