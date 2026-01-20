@@ -30,11 +30,16 @@ If task A is long is started, then if task B and C is ready while A is executing
 ## Preemptive scheduling algorithms
 These algorithms can stop execution of processes while they are running. 
 ### Shortest Time-to-Complete First (STCF)
-Always switch to the task that has the shortest time to complete. This is better because short tasks will get priority. 
+Always switch to the task that has the shortest time to complete. This is better because short tasks will get priority.
 #### Downside
 May cause starvation of tasks with long execution time, when shorter tasks always gets the prioritized. 
+
+### Round Robin (RR)
+Introduces a concept of time slice/time quantum/scheduling quantum, which is a small fixed slice of execution time. It will execute each process for the time slice, before switching to the next. The algorithm will switch regardless whether the task is completed, and if it is not finished it will be added to the tail of the FIFO queue. 
+
 
 
 ## Further reading
 - [[Process]]
 - [[Operating System]]
+- [[Router#Round robin (RR)]]
