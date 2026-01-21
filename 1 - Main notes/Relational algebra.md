@@ -10,7 +10,7 @@ Tags: #database #relation
 ## Primitive operations
 ### Select ($\sigma$)
 Filtering rows by a predicate set $p$, makes a new set of all the rows included $\sigma_p(r)$. We use predicate logic to combine multiple comparisons into bigger expressions. In the predicate you can use multiple columns from the input relation. 
-### Project ($\pi$)
+### Project ($\pi$) $\Pi$
 Project will remove make a new relation only containing the specific columns. $\Pi_{name}(\sigma_{dept\_name='Physics'}(instructor))$
 ### Cross product 
 Cross product combination of two relations. 

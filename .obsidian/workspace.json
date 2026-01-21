@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Structured Query Language.md",
+                "file": "1 - Main notes/Relational algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Structured Query Language"
+              "title": "Relational algebra"
             }
           },
           {
@@ -254,8 +254,8 @@
   },
   "active": "a918d253b1fe2b58",
   "lastOpenFiles": [
-    "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Structured Query Language.md",
+    "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Network layer.md",
