@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "a918d253b1fe2b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Relational algebra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Relational algebra"
-            }
-          },
-          {
             "id": "95c77deb76a3a1eb",
             "type": "leaf",
             "state": {
@@ -252,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a918d253b1fe2b58",
+  "active": "95c77deb76a3a1eb",
   "lastOpenFiles": [
-    "1 - Main notes/Structured Query Language.md",
     "1 - Main notes/Relational algebra.md",
+    "1 - Main notes/Structured Query Language.md",
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Network layer.md",
