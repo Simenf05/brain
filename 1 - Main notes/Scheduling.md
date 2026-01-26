@@ -36,6 +36,13 @@ May cause starvation of tasks with long execution time, when shorter tasks alway
 
 ### Round Robin (RR)
 Introduces a concept of time slice/time quantum/scheduling quantum, which is a small fixed slice of execution time. It will execute each process for the time slice, before switching to the next. The algorithm will switch regardless whether the task is completed, and if it is not finished it will be added to the tail of the FIFO queue. 
+Is good for response-time, every process gets a good response time. 
+The size of the time-slice can change the entire behavior of the algorithm. If the size is bigger then processes, then it works like FIFO. If it is small we need a lot of context switches.
+#### Downside
+It has poor turnaround-time. Because every task has to wait for every other task. 
+There can be overhead when switching context. 
+
+
 
 
 

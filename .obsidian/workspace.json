@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/All pairs shortest path.md",
+                "file": "1 - Main notes/Scheduling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,21 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "All pairs shortest path"
-            }
-          },
-          {
-            "id": "95c77deb76a3a1eb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Scheduling"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c77deb76a3a1eb",
+  "active": "20aa230dec37d081",
   "lastOpenFiles": [
+    "1 - Main notes/All pairs shortest path.md",
+    "1 - Main notes/Untitled.md",
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Structured Query Language.md",
     "1 - Main notes/Lederstiler.md",
@@ -240,7 +231,6 @@
     "1 - Main notes/Process.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Utveksling.md",
-    "1 - Main notes/All pairs shortest path.md",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Layers in the networking.md",
     "2 - Tags/communication.md",
@@ -259,7 +249,6 @@
     "5 - Attachments/Pasted image 20251212141204.png",
     "1 - Main notes/Læring datamaskin.md",
     "1 - Main notes/Arithmetic Logic Unit.md",
-    "1 - Main notes/Algoritmiske problemtyper.md",
     "5 - Attachments/Pasted image 20251208211604.png",
     "5 - Attachments/Pasted image 20251208203224.png",
     "5 - Attachments/Pasted image 20251208194331.png",
