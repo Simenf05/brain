@@ -42,6 +42,10 @@ The size of the time-slice can change the entire behavior of the algorithm. If t
 It has poor turnaround-time. Because every task has to wait for every other task. 
 There can be overhead when switching context. 
 
+## Priority-based Scheduling
+We schedule tasks based on priority, each process has an integer representing the priority. The task with the highest priority is always scheduled. 
+There can be starvation, because there can always be tasks with better priority that makes one task never get cpu time. To solve this we use aging, and allow old tasks to gain priority. 
+
 
 
 
