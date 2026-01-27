@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Algdat læringsmål.md",
+                "file": "1 - Main notes/Structured Query Language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algdat læringsmål"
+              "title": "Structured Query Language"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Scheduling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20aa230dec37d081",
+  "active": "b24d5aae2a913865",
   "lastOpenFiles": [
+    "1 - Main notes/Algdat læringsmål.md",
+    "1 - Main notes/Scheduling.md",
     "1 - Main notes/All pairs shortest path.md",
     "1 - Main notes/Untitled.md",
     "1 - Main notes/Relational algebra.md",
@@ -226,12 +227,10 @@
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Router.md",
     "1 - Main notes/Network layer.md",
-    "1 - Main notes/Scheduling.md",
     "1 - Main notes/Thread.md",
     "1 - Main notes/Process.md",
     "1 - Main notes/Hypertext transfer protocol.md",
     "1 - Main notes/Utveksling.md",
-    "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/Layers in the networking.md",
     "2 - Tags/communication.md",
     "1 - Main notes/The control plane (networking).md",
