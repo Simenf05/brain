@@ -46,9 +46,9 @@ There can be overhead when switching context.
 We schedule tasks based on priority, each process has an integer representing the priority. The task with the highest priority is always scheduled. 
 There can be starvation, because there can always be tasks with better priority that makes one task never get cpu time. To solve this we use aging, and allow old tasks to gain priority. 
 
-## Multi-level feedback queue (MLFQ)
+### Multi-level feedback queue (MLFQ)
 It is a good scheduling algorithm because it does not require prior knowledge of estimated time use for each job. 
-### Rules
+#### Rules
 1. If `priority(A) > priority(B): A runs`
 2. If `priority(A) == priority(B): A and B run with RR`
 3. Jobs that enter the system are placed at the highest priority
@@ -56,10 +56,11 @@ It is a good scheduling algorithm because it does not require prior knowledge of
 - 4b If a job gives back cpu before time slice, keep priority
 5. After time S, move all the jobs to the topmost level
 To prevent abuse of rule four by always giving up right before time slice is used up, we instead use time allotment. This works by keeping track of time used per job, and moving jobs down when the time is used up. 
+## Proportional share scheduling
+This is a type of scheduling that is based on maximizing the fairness of the scheduler. If there is two users of the computer, we want to have each user get the same amount of [[Central Processing Unit|CPU]] time. The [[Linux]] kernel uses [[Completely Fair Scheduler]], which falls into this category. 
 
-
-
-
+### Lottery scheduling
+Based on having tickets for each job. Every time a job is scheduled we draw from the tickets, and based on who owns the ticket we decide what to schedule. In the first few draws, it might accidentally be that one job got more CPU. Though it might be erratic at the start, through many draws, probability will even out and the scheduling will become fair. 
 
 
 
@@ -68,3 +69,4 @@ To prevent abuse of rule four by always giving up right before time slice is use
 - [[Process]]
 - [[Operating System]]
 - [[Router#Round robin (RR)]]
+- [[Linux]]
