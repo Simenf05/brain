@@ -13,8 +13,8 @@ It is the currently in use algorithm for the [[Linux]] scheduler. It has a focus
 - Choose the process with lowest virtual runtime (vruntime)
 - Run each process for a time slice.
 - Determine time slice based on sched_latency, the number of processes, and priority
-
-di
+### Nice value
+The priority is based on the nice value. It ranges from -20 to 19 and the default is 0. Positive nice value indicates low priority and negative is high priority. The nice value is used to determine the time slice.
 
 
 ## Further reading
