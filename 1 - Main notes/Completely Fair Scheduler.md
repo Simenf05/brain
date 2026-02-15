@@ -14,7 +14,7 @@ It is the currently in use algorithm for the [[Linux]] scheduler. It has a focus
 - Run each process for a time slice.
 - Determine time slice based on sched_latency, the number of processes, and priority
 
-
+di
 
 
 ## Further reading
