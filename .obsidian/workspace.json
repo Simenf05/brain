@@ -11,24 +11,10 @@
             "id": "b24d5aae2a913865",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Transport layer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Transport layer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -37,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Scheduling.md",
+                "file": "1 - Main notes/Completely Fair Scheduler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scheduling"
+              "title": "Completely Fair Scheduler"
             }
           },
           {
@@ -243,13 +229,14 @@
   },
   "active": "98b22aabc4532945",
   "lastOpenFiles": [
-    "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Transport layer.md",
+    "1 - Main notes/Completely Fair Scheduler.md",
+    "1 - Main notes/Scheduling.md",
+    "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Process.md",
     "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Structured Query Language.md",
     "1 - Main notes/Algdat læringsmål.md",
-    "1 - Main notes/Scheduling.md",
     "1 - Main notes/All pairs shortest path.md",
     "1 - Main notes/Untitled.md",
     "1 - Main notes/Relational algebra.md",
@@ -269,7 +256,6 @@
     "4 - Sketch notes/Ord algdat 2024.md",
     "5 - Attachments/Pasted image 20251213112703.png",
     "1 - Main notes/link (network layer).md",
-    "1 - Main notes/Graph theory.md",
     "5 - Attachments/Pasted image 20251212162102.png",
     "5 - Attachments/Pasted image 20251212144015.png",
     "5 - Attachments/Pasted image 20251212141204.png",
