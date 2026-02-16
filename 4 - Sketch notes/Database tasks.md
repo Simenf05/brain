@@ -7,8 +7,7 @@ Learn how to retrieve and filter data.
 1. List all customers with their city and country.
 2. Show all products with price > 20.
 3. Find customers located in Germany.
-4. Get employees hired after 1993.
-5. Show the top 10 most expensive products.
+4. Show the top 10 most expensive products.
 
 **Skills**
 
