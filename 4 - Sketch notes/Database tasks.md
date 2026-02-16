@@ -74,8 +74,7 @@ Northwind shines here.
 **Tasks**
 
 1. Show orders with customer names.
-2. List products with their category names.
-3. Show orders with employee who handled them.
+2. Show orders with employee who handled them.
 
 
 ---
