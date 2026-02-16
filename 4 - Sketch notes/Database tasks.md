@@ -49,12 +49,6 @@ Understand summaries and statistics.
 4. Count how many orders exist.
 5. Get total number of products per category.
 
-**Skills**
-
-* `COUNT()`
-* `AVG()`
-* `MIN()`, `MAX()`
-* `GROUP BY`
 
 ---
 
@@ -68,10 +62,6 @@ Filter grouped data.
 2. Find customers who made more than 10 orders.
 3. Get countries with more than 5 customers.
 
-**Skills**
-
-* `HAVING`
-* Group filtering vs `WHERE`
 
 ---
 
@@ -87,10 +77,6 @@ Northwind shines here.
 2. List products with their category names.
 3. Show orders with employee who handled them.
 
-**Skills**
-
-* `INNER JOIN`
-* Foreign keys
 
 ---
 
@@ -117,10 +103,7 @@ Northwind shines here.
 1. Show all customers and their orders (including those with none).
 2. Find customers who never ordered anything.
 
-**Skills**
 
-* `LEFT JOIN`
-* `IS NULL`
 
 ---
 
@@ -134,11 +117,6 @@ Learn computed columns.
 2. Calculate total price per order line (`UnitPrice * Quantity`).
 3. Add a column: “expensive” if price > 50.
 
-**Skills**
-
-* Arithmetic
-* `AS`
-* `CASE WHEN`
 
 ---
 
@@ -174,11 +152,6 @@ Northwind has a classic: Orders ↔ Products via OrderDetails.
 2. Find total price of order #10248.
 3. Show top 5 most sold products.
 
-**Skills**
-
-* Bridge tables
-* Aggregation across joins
-
 ---
 
 ## 🟠 9. Window Functions (If SQLite ≥ 3.25)
@@ -191,11 +164,6 @@ Modern SQL skill.
 2. Running total of sales by order date.
 3. Top 3 most expensive products per category.
 
-**Skills**
-
-* `ROW_NUMBER()`
-* `RANK()`
-* `PARTITION BY`
 
 ---
 
@@ -209,10 +177,6 @@ Real-world essential.
 2. Orders in the last 30 days (relative query).
 3. Count orders per year.
 
-**Skills**
-
-* Date filtering
-* SQLite date functions (`strftime`)
 
 ---
 
@@ -239,11 +203,6 @@ Often overlooked but critical.
 1. Find duplicate company names.
 2. Customers missing region.
 3. Products with null supplier.
-
-**Skills**
-
-* `NULL` handling
-* Data quality checks
 
 ---
 
