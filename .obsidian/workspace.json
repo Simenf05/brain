@@ -42,6 +42,30 @@
             }
           },
           {
+            "id": "35e44ec84a541474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Database tasks.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Database tasks"
+            }
+          },
+          {
             "id": "20aa230dec37d081",
             "type": "leaf",
             "state": {
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,10 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98b22aabc4532945",
+  "active": "35e44ec84a541474",
   "lastOpenFiles": [
-    "1 - Main notes/Transport layer.md",
     "1 - Main notes/Completely Fair Scheduler.md",
+    "4 - Sketch notes/Database tasks.md",
+    "1 - Main notes/Transport layer.md",
     "1 - Main notes/Scheduling.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Process.md",
@@ -238,7 +263,6 @@
     "1 - Main notes/Structured Query Language.md",
     "1 - Main notes/Algdat læringsmål.md",
     "1 - Main notes/All pairs shortest path.md",
-    "1 - Main notes/Untitled.md",
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Lederstiler.md",
     "1 - Main notes/Router.md",
