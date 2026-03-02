@@ -40,9 +40,33 @@
               "icon": "lucide-file",
               "title": "Completely Fair Scheduler"
             }
+          },
+          {
+            "id": "3627800944f53305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Database sketch for er diagram.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Database sketch for er diagram"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -188,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98b22aabc4532945",
+  "active": "3627800944f53305",
   "lastOpenFiles": [
+    "1 - Main notes/Completely Fair Scheduler.md",
+    "4 - Sketch notes/Database sketch for er diagram.md",
     "4 - Sketch notes/Database tasks.md",
     "1 - Main notes/Scheduling.md",
-    "1 - Main notes/Completely Fair Scheduler.md",
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Reliable data transfer.md",
     "1 - Main notes/Process.md",
@@ -231,7 +254,6 @@
     "1 - Main notes/Linux.md",
     "4 - Sketch notes/Ord algdat 2024.md",
     "5 - Attachments/Pasted image 20251213112703.png",
-    "1 - Main notes/link (network layer).md",
     "5 - Attachments/Pasted image 20251212162102.png",
     "5 - Attachments/Pasted image 20251212144015.png",
     "5 - Attachments/Pasted image 20251212141204.png",
