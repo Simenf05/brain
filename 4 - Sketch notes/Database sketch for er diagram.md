@@ -3,71 +3,71 @@
 # Database sketch for er diagram
 
 ## Senter (dragvoll, moholt, etc)
-- id
-- navn
-- addresse
-- fasiliteter
-- åpeningstider
-- saler
-- bemanning (med tid)
+- [ ] id
+- [ ] navn
+- [ ] addresse
+- [ ] fasiliteter
+- [ ] åpeningstider
+- [ ] saler
+- [ ] bemanning (med tid)
 
 ## Sal
-- id
-- sykler
+- [ ] id
+- [ ] sykler
 
 ## Tredemølle
-- Produsent
-- Max hastighet
-- Max stigning
-- nummer
-- sted
+- [ ] Produsent
+- [ ] Max hastighet
+- [ ] Max stigning
+- [ ] nummer
+- [ ] sted
 
 ## Sykler
-- BodyBike
-- nummer
-- sted
+- [ ] BodyBike
+- [ ] nummer
+- [ ] sted
 
 ## Gruppetimer
-- id
-- starttid og slutttid
-- antall plasser
-- opprette dato
-- aktivitet (type gruppetime kun merket med "spin")
-- instruktør
-- meldt på
+- [ ] id
+- [ ] starttid og slutttid
+- [ ] antall plasser
+- [ ] opprette dato
+- [ ] aktivitet (type gruppetime kun merket med "spin")
+- [ ] instruktør
+- [ ] meldt på
 
 ## Bruker
-- id
-- prikk relasjon
-- fornavn
-- etternavn
-- epost
-- mobilnr
+- [ ] id
+- [ ] prikk relasjon
+- [ ] fornavn
+- [ ] etternavn
+- [ ] epost
+- [ ] mobilnr
 
 ## Instructor for
-- brukerId
-- GruppetimeId
+- [ ] brukerId
+- [ ] GruppetimeId
 
 ## Registered for
-- brukerId
-- GruppetimeId
-- timestamp
+- [ ] brukerId
+- [ ] GruppetimeId
+- [ ] timestamp
 
 ## Attended
-- brukerId
-- GruppetimeId
-- attended
+- [ ] brukerId
+- [ ] GruppetimeId
+- [ ] attended
 
 ## Idrettslag
-- id
-- navn
+- [ ] id
+- [ ] navn
 
 ## SalBooking
-- idrettslagId
-- salId
-- tidspunkt
+- [ ] idrettslagId
+- [ ] salId
+- [ ] tidspunkt
 
 ## StudentIdrettslag medlem
-- idrettslagId
-- BrukerId
+- [ ] idrettslagId
+- [ ] BrukerId
 
