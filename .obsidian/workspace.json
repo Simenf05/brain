@@ -64,9 +64,33 @@
               "icon": "lucide-file",
               "title": "Database sketch for er diagram"
             }
+          },
+          {
+            "id": "2b9479e00a6ade5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Brainstorm for PU text.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorm for PU text"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -227,8 +250,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3627800944f53305",
+  "active": "2b9479e00a6ade5b",
   "lastOpenFiles": [
+    "1 - Main notes/Brainstorm for PU text.md",
     "4 - Sketch notes/Database sketch for er diagram.md",
     "1 - Main notes/Completely Fair Scheduler.md",
     "4 - Sketch notes/Database tasks.md",
@@ -254,7 +278,6 @@
     "1 - Main notes/Address resolution protocol.md",
     "1 - Main notes/Ledelse oversikt.md",
     "1 - Main notes/Linux.md",
-    "4 - Sketch notes/Ord algdat 2024.md",
     "5 - Attachments/Pasted image 20251213112703.png",
     "5 - Attachments/Pasted image 20251212162102.png",
     "5 - Attachments/Pasted image 20251212144015.png",
