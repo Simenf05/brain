@@ -11,19 +11,9 @@
             "id": "b24d5aae2a913865",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "98b22aabc4532945",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Completely Fair Scheduler.md",
+                "file": "1 - Main notes/Graphical processing unit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Completely Fair Scheduler"
-            }
-          },
-          {
-            "id": "3627800944f53305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Sketch notes/Database sketch for er diagram.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Database sketch for er diagram"
+              "title": "Graphical processing unit"
             }
           },
           {
@@ -71,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Brainstorm for PU text.md",
+                "file": "1 - Main notes/Internet protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +52,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Brainstorm for PU text"
+              "title": "Internet protocol"
+            }
+          },
+          {
+            "id": "317482531c493122",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,11 +227,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b9479e00a6ade5b",
+  "active": "317482531c493122",
   "lastOpenFiles": [
-    "1 - Main notes/Brainstorm for PU text.md",
-    "4 - Sketch notes/Database sketch for er diagram.md",
+    "1 - Main notes/Graphical processing unit.md",
+    "1 - Main notes/Internet protocol.md",
+    "1 - Main notes/Domain-Specific Architectures.md",
+    "1 - Main notes/Central Processing Unit.md",
     "1 - Main notes/Completely Fair Scheduler.md",
+    "4 - Sketch notes/Database sketch for er diagram.md",
+    "1 - Main notes/Brainstorm for PU text.md",
     "4 - Sketch notes/Database tasks.md",
     "1 - Main notes/Scheduling.md",
     "1 - Main notes/Transport layer.md",
@@ -275,10 +255,6 @@
     "1 - Main notes/Layers in the networking.md",
     "2 - Tags/communication.md",
     "1 - Main notes/The control plane (networking).md",
-    "2 - Tags/ip.md",
-    "1 - Main notes/Address resolution protocol.md",
-    "1 - Main notes/Ledelse oversikt.md",
-    "1 - Main notes/Linux.md",
     "5 - Attachments/Pasted image 20251213112703.png",
     "5 - Attachments/Pasted image 20251212162102.png",
     "5 - Attachments/Pasted image 20251212144015.png",

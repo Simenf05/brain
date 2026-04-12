@@ -1,8 +1,7 @@
 # Sketch note: 2026-03-02 14:57
 
-# Database sketch for er diagram
-
-## Senter (dragvoll, moholt, etc)
+## Database sketch for er diagram 
+## senter (dragvoll, moholt, etc)
 - [ ] id
 - [ ] navn
 - [ ] addresse
