@@ -11,9 +11,10 @@ Teksten svarer på problemstillingen ved å utforske ulike sider ved parprogramm
 I rapporten brukes også pensum og selvvalgt stoff til å sammenligne og reflektere over egne opplevelser 
 
 Bra:
-- 
+- God bruk av kilder løpende i teksten. 
+- Sterk og interessant problemstilling. 
 Forbedringer:
-- 
+- Side 1 linje 18 nevnes ytelsesregresjoner 
 
 1. En oppsummering av rapporten
 	- Oppsummer rapporten med dine egne ord. Oppsummeringen bør reflekterer din forståelse av rapporten.
