@@ -15,12 +15,13 @@ Bra:
 - Sterk og interessant problemstilling.
 - Bra bruk av begreper fra pensum og selvvalgt litteratur.
 Forbedringer:
-- Kunne brukt mer av I-en i DIEP.
+- Kunne brukt mer av I-en i DIEP. 
 - Kunne koblet hvert avsnitt tydeligere opp mot problemstillingen. 
-- 
+- Ytelsesregresjoner er litt vagt, kunne vært mer presist. 
 
 1. En oppsummering av rapporten
 	- Oppsummer rapporten med dine egne ord. Oppsummeringen bør reflekterer din forståelse av rapporten.
+	
 
 2. Relevans: Passer rapporten med tema?
 	- Beskriv, ut fra din forståelse, om rapporten svarer på problemstillingen, har forfatteren tydeliggjort hvorfor rapporten svarer på problemstillingen?
