@@ -6,7 +6,7 @@
 
 Rapporten handler om forholdet mellom bruken av KI og parprogrammering (PP). Teksten konkluderte med at parprogrammering er mindre relevant enn det det har vært før, men fortsatt kan være relevant i noen sammenhenger. Ifølge erfaringene fra skriveren så kan KI erstatte bruken av parprogrammering som et daglig verktøy, men det fortsetter å være viktig i kritiske deler av utviklingsprosessen. 
 
-Teksten svarer på problemstillingen ved å utforske ulike sider ved parprogrammering. Den ser på både positive og negative aspekter ved parprogrammering og nytten av det i motsetning til en KI drevet arbeidsflyt uten parprogrammering. Det er ikke alltid helt tydelig hvordan teksten er koblet til problemstillingen. 
+Teksten svarer på problemstillingen ved å utforske ulike sider ved parprogrammering. Den ser på både positive og negative aspekter ved parprogrammering og nytten av det i motsetning til en KI drevet arbeidsflyt uten parprogrammering. Det er ikke alltid helt tydelig hvordan avsnittene er koblet til problemstillingen. Dette kunne vært forbedret ved å legge til noen setninger som knytter det til problemstilling. 
 
 I rapporten brukes også pensum og selvvalgt stoff til å sammenligne og reflektere over egne opplevelser. Dette gjøres med et kritisk syn og knyttet til relevant pensum. 
 
@@ -16,6 +16,7 @@ Bra:
 - Bra bruk av begreper fra pensum og selvvalgt litteratur.
 Forbedringer:
 - Kunne brukt mer av I-en i DIEP.
+- Kunne koblet hvert avsnitt tydeligere opp mot problemstillingen. 
 - 
 
 1. En oppsummering av rapporten
