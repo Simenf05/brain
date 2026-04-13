@@ -6,5 +6,6 @@
   "showInlineTitle": false,
   "showLineNumber": true,
   "promptDelete": false,
-  "attachmentFolderPath": "5 - Attachments"
+  "attachmentFolderPath": "5 - Attachments",
+  "tabSize": 4
 }
