@@ -24,7 +24,7 @@ HTTP 1.1 does mostly the same as 1.0, but allows the connection to stay open for
 
 #### HTTP 2.0
 #### HTTP 3.0 / QUIC
-This version of http uses [[User datagram protocol|udp]] to transfer the objects instead of the standard tcp. With this approach more is done at the [[application layer]] to make sure we still have [[reliable data transfer]]. The QUIC protocol makes a handshake in just one [[round trip time|rtt]] and this is way faster then tcp's 2 [[round trip time|rtt]]s. QUIC also introduces parallelism to the protocol, so that there is no head of the line blocking. This means that if one of the objects is lost in [[Reliable data transfer|rdt]] then the others can send while there is recovery. This makes it much faster for certain tasks.
+This version of http uses [[User datagram protocol|udp]] to transfer the objects instead of the standard tcp. With this approach more is done at the [[Application layer]] to make sure we still have [[Reliable data transfer]]. The QUIC protocol makes a handshake in just one [[round trip time|rtt]] and this is way faster then tcp's 2 [[round trip time|rtt]]s. QUIC also introduces parallelism to the protocol, so that there is no head of the line blocking. This means that if one of the objects is lost in [[Reliable data transfer|rdt]] then the others can send while there is recovery. This makes it much faster for certain tasks.
 
 
 ## References

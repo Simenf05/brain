@@ -10,7 +10,7 @@ Tags: #rdt #it #communication #transportlayer #tcp #roundtriptime
 
 # Reliable data transfer
 
-The reliable data transfer protocol can be divided up into many iterations of the same idea; ensure reliable end to end communication. Therefore this page will have sections that build upon each other, and at the end conclude by referencing the [[transmission control protocol]] that is used today. 
+The reliable data transfer protocol can be divided up into many iterations of the same idea; ensure reliable end to end communication. Therefore this page will have sections that build upon each other, and at the end conclude by referencing the [[Transmission control protocol]] that is used today. 
 
 The idea behind reliable data transfer is that the sending process and the receiving process should both have an interface that in some way ensures the completeness of the message. This is done by having a standard for what to send in the unreliable channel, and evaluating the results. 
 

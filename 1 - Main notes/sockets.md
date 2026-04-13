@@ -4,7 +4,7 @@ Status: #in-writing
 Tags: #communication #it #technology #applicationlayer #transportlayer #tcp #udp
 
 # sockets
-The socketing interface connects [[Transmission control protocol|tcp]] and other technologies from the [[transport layer]] with an standardized way of connecting. This makes it easier to make an application on the [[application layer]] without having to directly connect to tcp and struggle with that. 
+The socketing interface connects [[Transmission control protocol|tcp]] and other technologies from the [[Transport layer]] with an standardized way of connecting. This makes it easier to make an application on the [[Application layer]] without having to directly connect to tcp and struggle with that. 
 
 
 ### Addressing the socket

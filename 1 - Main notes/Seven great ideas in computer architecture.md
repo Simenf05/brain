@@ -5,7 +5,7 @@ Tags: #computers #datamaskiner
 # Seven great ideas in computer architecture
 
 ## Abstraction
-The use of abstraction is needed in order to simplify design. This way users of the computer don't have to worry about the little details of every piece of hardware. One big abstraction is the [[operating system]], that provides a layer of abstraction from the hardware. The operating system is a software abstraction, but we also have abstractions within the hardware. 
+The use of abstraction is needed in order to simplify design. This way users of the computer don't have to worry about the little details of every piece of hardware. One big abstraction is the [[Operating System]], that provides a layer of abstraction from the hardware. The operating system is a software abstraction, but we also have abstractions within the hardware. 
 
 ## Make the common case fast
 This is a principle about making the most basic instructions in the machine as fast as possible. Without this you might end up making some parts of the system really fast, and spend much time and effort on it. But if only a handful of instructions use that part of the system. Therefore you should always optimize the part of the system that is used the most. 

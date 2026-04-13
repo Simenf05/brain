@@ -14,14 +14,14 @@ This is a more direct way of dealing with congestion by the [[Router|router]]. I
 ### Congestion control in [[Transmission control protocol|tcp]]
 #### AIMD: Additive Increase Multiplicative Decrease
 This algorithm is simple in the way it functions but is still the backbone of how every [[Transmission control protocol|tcp]] implementation must behave. 
-The algorithm increases the sending rate by 1 [[maximum segment size]] (MSS) every [[round trip time|rtt]] until loss is detected. When loss is detected the algorithm will cut the sending rate in half. Loss is defined as receiving triple duplicate ACKs and this is the only time the sending rate will decrease. When there is a timeout for an ACK on the senders side it will reset the size of the window to 1 [[Maximum segment size|MSS]]. This gives a saw graph for the sending rate. 
+The algorithm increases the sending rate by 1 [[Maximum segment size]] (MSS) every [[round trip time|rtt]] until loss is detected. When loss is detected the algorithm will cut the sending rate in half. Loss is defined as receiving triple duplicate ACKs and this is the only time the sending rate will decrease. When there is a timeout for an ACK on the senders side it will reset the size of the window to 1 [[Maximum segment size|MSS]]. This gives a saw graph for the sending rate. 
 ##### The slow start
 When the sending rate reset to 1 [[Maximum segment size|MSS]] the increase will start increasing exponentially. This way the sending rate gets back to a good rate fast, but when should it swap from exponentially to AIMD? The threshold is based on the last sending rate from before the loss: 
 $$
 ssthresh = \frac{cwnd}{2}
 $$
 
-![Graph showing how both TCP reno and TCP tahoe resets after loss.](./Congestion-control-threshold.png)
+![Graph showing how both TCP reno and TCP tahoe resets after loss.](Congestion-control-threshold.png)
 #### TCP CUBIC 
 The CUBIC implementation of the tcp congestion control is almost the same as the [[#AIMD Additive Increase Multiplicative Decrease|AIMD]] implementation. But when the rate is cut in half it increases the rates differently. It starts by picking a point forward in time K. Then it would increase the rate by the cube of the difference between the current time and K. With this function we get to the last loss much faster, and this is better because it is more likely that sending rate is the bottleneck. This is the version of tcp that is implemented in the [[Linux]] implementation of tcp found [here](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/net/ipv4/tcp.c). 
 

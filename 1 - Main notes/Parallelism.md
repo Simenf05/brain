@@ -8,7 +8,7 @@ aliases:
 Tags: #parallelism #computers 
 
 # Parallelism
-Parallelism refers to the execution of multiple tasks at the same time. A normal way of categorizing this is to look at how many streams of data and [[instructions]] one processor has. If there is one at most one instruction at a time, and only one data-stream, then the execution would be classified as *single instruction-streams single data-streams*. This is the most basic model that is used by a uni-processor. When you look at the other side of the equation you get the *multiple instruction-streams multiple data-streams*, and this is the normal multiprocessor in used widely today.
+Parallelism refers to the execution of multiple tasks at the same time. A normal way of categorizing this is to look at how many streams of data and [[Instructions]] one processor has. If there is one at most one instruction at a time, and only one data-stream, then the execution would be classified as *single instruction-streams single data-streams*. This is the most basic model that is used by a uni-processor. When you look at the other side of the equation you get the *multiple instruction-streams multiple data-streams*, and this is the normal multiprocessor in used widely today.
 ## SI/MI and SD/MD
 
 |     | SD                  | MD                        |

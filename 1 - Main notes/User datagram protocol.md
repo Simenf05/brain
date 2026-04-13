@@ -22,10 +22,10 @@ The UDP can be useful because it does not need a connection, and therefore it is
 | length           | checksum |
 | Application data |          |
 
-The UDP header only has four elements, and it is ip and port used for [[multiplexing and demultiplexing]] and routing on the network. And also the length that since the segment can have a variable length, and the checksum used for checking if the data has been corrupted on the transfer. 
+The UDP header only has four elements, and it is ip and port used for [[Multiplexing and demultiplexing]] and routing on the network. And also the length that since the segment can have a variable length, and the checksum used for checking if the data has been corrupted on the transfer. 
 
 #### How to calculate checksum
-To calculate the checksum you would need to first treat the segment as 16 bit integers. This includes the header values and the data from the [[application layer]]. This way we get a long list of 16 bit integers like these two:
+To calculate the checksum you would need to first treat the segment as 16 bit integers. This includes the header values and the data from the [[Application layer]]. This way we get a long list of 16 bit integers like these two:
 
 ```
   1 0 0 1 1 0 0 1 0 0 1 1 1 0 0 0
