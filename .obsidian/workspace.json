@@ -54,19 +54,9 @@
               "icon": "lucide-file",
               "title": "Internet protocol"
             }
-          },
-          {
-            "id": "317482531c493122",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "317482531c493122",
+  "active": "2b9479e00a6ade5b",
   "lastOpenFiles": [
     "1 - Main notes/Graphical processing unit.md",
     "1 - Main notes/Internet protocol.md",
