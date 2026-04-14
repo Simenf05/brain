@@ -33,4 +33,18 @@ Forbedringer:
 4. Oppgi 3 bra punkter med rapporten, og gi 3 forslag til hvordan den kan forbedres
 	- Skriv konkret hva som styrker rapporten, og hva du ville anbefalt som forbedringer.
 
+Teksten handler om bruken av parprogrammering i tre ulike situasjoner: oppstartfasen, arbeid med Git, og en kompleks arbeidsoppgave. Problemstillingen handler om koblingen mellom parprogrammering og læring, trygghet og kvaliteten på tekniske beslutninger. Dette drøftes i kontekst av prosjektet vårt, der alle teamene har ulike spredning av kompetanse. Rapporten konkluderer med at parprogrammering er mest hensiktsmessig når det er nyttig for læring innad i teamet, eller kompleksiteten er høy. Det er ikke nyttig å bruke parprogrammering hele tiden, men heller av og til, når det er nødvendig. 
+
+Ja, teksten svarer godt på problemstillingen. Det er tydelig kobling mellom erfaringene, og hvordan de er relevante til problemstillingen. Teksten har til slutt en god konklusjon som tydeliggjør svaret på problemstillingen. 
+
+Forfatteren viser god evne til å kritisk reflektere de egne erfaringene fra prosjektet ved å se på fordeler og ulemper med parprogrammering. Dette knyttes også opp mot pensum på en relevant måte. 
+
+Bra:
+- Gode eksempler fra egne erfaringer.
+- Nyanserte drøftinger med både positivt og negativt. 
+- Bra bruk av teori.
+Forbedringer: 
+- Gjort mer rede for begreper. 
+- Kunne hatt en mer presis konklusjon. 
+- Generalisert litt mer når det gjelder råd til andre grupper.
 
