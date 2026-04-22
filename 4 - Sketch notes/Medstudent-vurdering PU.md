@@ -48,3 +48,33 @@ Forbedringer:
 - Kunne hatt en mer presis konklusjon. 
 - Generalisert litt mer når det gjelder råd til andre grupper.
 
+
+1. En oppsummering av rapporten
+	- Oppsummer rapporten med dine egne ord. Oppsummeringen bør reflekterer din forståelse av rapporten.
+	
+
+2. Relevans: Passer rapporten med tema?
+	- Beskriv, ut fra din forståelse, om rapporten svarer på problemstillingen, har forfatteren tydeliggjort hvorfor rapporten svarer på problemstillingen?
+  
+
+3. Vurdering av rapporten sin evne til å kritisk reflektere over egne erfaringer i relasjon til pensum og selvvalgt stoff
+	- Vurder om forfatteren evner å reflektere over egne erfaringer i relasjon til pensum og selvvalgt stoff.
+
+4. Oppgi 3 bra punkter med rapporten, og gi 3 forslag til hvordan den kan forbedres
+	- Skriv konkret hva som styrker rapporten, og hva du ville anbefalt som forbedringer.
+
+
+Teksten handler om hvordan parprogrammering kan påvirke kodekvalitet og læring i et studentprosjekt. Forfatteren skriver både om teori og enge erfaringer fra prosjektet vårt. Dette sammenlignes også mot slutten mot en arbeidsflyt med bruke av KI, siden forfatterens prosjekt valgte å ikke benytte seg av slike verktøy. Rapporten konkluderer med at effekten ved parprogrammering varierer fra kompetansenivå og kompleksiteten på oppgaven. Parprogrammering kan ha stor nytt når det er varierende kompetansenivå eller komplekse arbeidsoppgaver. 
+
+Teksten er relevant til tema gjennom en relevant og interessant problemstilling. Den kobler tydelig teori til problemstillingen, og sammenligner dette med egne relevante erfaringer. 
+
+Forfatteren viser god evne til å kritisk reflektere i teksten. Erfaringene vurderes kritisk opp mot pensum. Dette er tydelig gjennom feilene som oppsto rundt "Definition of Done", som reflekteres godt. 
+
+Bra:
+- Bra bruk av pensum og selvvalgt litteratur.
+- God struktur. 
+- Liker sammenligningen med bruken av KI.
+Forbedringer:
+- Kunne formuler problemstillingen tydeligere i teksten. 
+- Kunne utdypet mer konkrete eksempler fra prosjektet. 
+- Kunne gitt mer konkrete anbefalinger i konkulsjonen. 
