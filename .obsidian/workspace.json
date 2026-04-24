@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Completely Fair Scheduler.md",
+                "file": "1 - Main notes/Utveksling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Completely Fair Scheduler"
+              "title": "Utveksling"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "1744732f8b6857ef",
   "lastOpenFiles": [
+    "1 - Main notes/Completely Fair Scheduler.md",
     "1 - Main notes/Communication Technology.md",
     "1 - Main notes/Central Processing Unit.md",
     "1 - Main notes/Brainstorm for PU text.md",
@@ -221,7 +222,6 @@
     "1 - Main notes/Tasks for itgk.md",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes/TCP-finite-state-machine.png",
-    "1 - Main notes/Structured Query Language.md",
     "1 - Main notes/IPv6-datagram-format.png",
     "1 - Main notes/IPv4-datagram-format.png",
     "1 - Main notes/DHCP-message-flow.png",
