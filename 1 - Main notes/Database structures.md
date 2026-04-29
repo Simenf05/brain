@@ -7,7 +7,7 @@ aliases:
 Tags: #dbms #database #dsa
 
 # Database structures
-
++
 ## Heapfiles
 
 ## Hashfiles
