@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Database structures.md",
+                "file": "1 - Main notes/Database management system (DBMS).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Database structures"
+              "title": "Database management system (DBMS)"
+            }
+          },
+          {
+            "id": "f3929af0c615b66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Sketch notes/Ringe reiseforsikring.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ringe reiseforsikring"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945,
-    "collapsed": true
+    "width": 295.51103591918945
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -192,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31b387ec6de6bc7b",
+  "active": "f3929af0c615b66b",
   "lastOpenFiles": [
+    "4 - Sketch notes/Ringe reiseforsikring.md",
     "1 - Main notes/Database management system (DBMS).md",
     "1 - Main notes/Database structures.md",
     "1 - Main notes/Completely Fair Scheduler.md",
@@ -220,7 +245,6 @@
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/Thread.md",
-    "1 - Main notes/The data plane (networking).md",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/IPv6-datagram-format.png",
