@@ -20,3 +20,10 @@ hvilke uker skal jeg jobbe.
 
 Kan også jobbe i august. 
 Må flytte sakene ut av bolig i trondheim + gjøre dugnad
+
+
+# Hva det blir til
+Kjøpe vanlig reiseforsikring og se mer på ansa forsikring. 
+Jeg kan jobbe på festival i starten av juni på evt festivaler.
+Jeg skal opp til trd i 7. august, for å flytte ut med tanke på utveksling.
+Jeg kan ta ferie i uke 29 og 30. Jeg kan jobbe hele august.
