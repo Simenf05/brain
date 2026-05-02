@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945
+    "width": 295.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -218,8 +219,8 @@
   },
   "active": "f3929af0c615b66b",
   "lastOpenFiles": [
-    "4 - Sketch notes/Ringe reiseforsikring.md",
     "1 - Main notes/Database management system (DBMS).md",
+    "4 - Sketch notes/Ringe reiseforsikring.md",
     "1 - Main notes/Database structures.md",
     "1 - Main notes/Completely Fair Scheduler.md",
     "1 - Main notes/Utveksling.md",
