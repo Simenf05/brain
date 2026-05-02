@@ -1,5 +1,6 @@
 ---
 aliases:
+  - relational algebra
 ---
 
 2026-01-13 10:19

@@ -55,8 +55,7 @@
               "title": "Ringe reiseforsikring"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3929af0c615b66b",
+  "active": "31b387ec6de6bc7b",
   "lastOpenFiles": [
+    "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Database management system (DBMS).md",
     "4 - Sketch notes/Ringe reiseforsikring.md",
     "1 - Main notes/Database structures.md",
@@ -245,7 +245,6 @@
     "1 - Main notes/Two's complement.md",
     "1 - Main notes/Transport layer.md",
     "1 - Main notes/Transmission control protocol.md",
-    "1 - Main notes/Thread.md",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/IPv6-datagram-format.png",
