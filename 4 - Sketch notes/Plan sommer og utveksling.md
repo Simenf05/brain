@@ -1,7 +1,6 @@
-# Sketch note: 2026-05-02 09:05
+# Ringe for planlegging 
 
-# Ringe reiseforsikring
-
+## Forsikring
 Ekskom:
 - Reiseforsikring for reise i mars neste år
 	- Jeg må betale for et år, kanskje verdt det for japan også
@@ -13,3 +12,11 @@ Japan:
 	- Ja, reiseforsikring dekker det
 Mest relevant er Student i utlandet, som er en pakke
 - Den inneholder reiseforsikring og innbo, men er mye dyrere. Idk om det blir verdt det
+
+## Sommerjobb
+hvilke uker skal jeg jobbe.
+- fellesferie i 28, 29, 30
+- kanskje jeg er på hytta en av ukene
+
+Kan også jobbe i august. 
+Må flytte sakene ut av bolig i trondheim + gjøre dugnad

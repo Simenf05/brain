@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sketch notes/Ringe reiseforsikring.md",
+                "file": "4 - Sketch notes/Plan sommer og utveksling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ringe reiseforsikring"
+              "title": "Plan sommer og utveksling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31b387ec6de6bc7b",
+  "active": "f3929af0c615b66b",
   "lastOpenFiles": [
-    "4 - Sketch notes/Ringe reiseforsikring.md",
     "1 - Main notes/Database storage and indexing structures.md",
+    "5 - Attachments/Pasted image 20260502113205.png",
+    "4 - Sketch notes/Plan sommer og utveksling.md",
     "1 - Main notes/Database management system (DBMS).md",
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Completely Fair Scheduler.md",
@@ -244,7 +246,6 @@
     "1 - Main notes/Untitled.base",
     "1 - Main notes/Two's complement.md",
     "1 - Main notes/Transport layer.md",
-    "1 - Main notes/Transmission control protocol.md",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes/TCP-finite-state-machine.png",
     "1 - Main notes/IPv6-datagram-format.png",
@@ -256,7 +257,6 @@
     "5 - Attachments/Pasted image 20251213112703.png",
     "5 - Attachments/Pasted image 20251212162102.png",
     "5 - Attachments/Pasted image 20251212144015.png",
-    "5 - Attachments/Pasted image 20251212141204.png",
     "5 - Attachments",
     "1 - Main notes/Tasks for itgk.md~",
     "1 - Main notes/Algdat sammendrag.md~",
