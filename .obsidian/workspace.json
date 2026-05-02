@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Database management system (DBMS).md",
+                "file": "1 - Main notes/Database storage and indexing structures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Database management system (DBMS)"
+              "title": "Database storage and indexing structures"
             }
           },
           {
@@ -218,10 +218,10 @@
   },
   "active": "31b387ec6de6bc7b",
   "lastOpenFiles": [
-    "1 - Main notes/Relational algebra.md",
-    "1 - Main notes/Database management system (DBMS).md",
     "4 - Sketch notes/Ringe reiseforsikring.md",
-    "1 - Main notes/Database structures.md",
+    "1 - Main notes/Database storage and indexing structures.md",
+    "1 - Main notes/Database management system (DBMS).md",
+    "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Completely Fair Scheduler.md",
     "1 - Main notes/Utveksling.md",
     "1 - Main notes/Communication Technology.md",
