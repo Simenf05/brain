@@ -29,11 +29,14 @@ This happens when the hash function hashes and finds that the slot is full and t
 ![[Pasted image 20260503093949.png]] 
 
 ### B+-trees
-The most common type of index is the B+-tree. This type of index is made for keeping sorted data fast and searchable. It works by having keys that point to the next level in the tree, and 
-#### Clustered
-#### Unclustered
-
+The most common type of index is the B+-tree. This type of index is made for keeping sorted data fast and searchable. It works by having keys that point to the next level in the tree. For a key on a $\text{level}>0$ the left pointer for each value will point to keys that are strictly smaller, and keys on the right pointer will be equal or larger. At $\text{level} = 0$ all the keys are stored, and if the tree is in the clustered variant the records are also stored there. 
+The fill degree of the B+-tree is generally regarded as $2/3$, meaning that at all times only two thirds of the space is used. 
+##### Clustered
+For clustered B+-trees you keep the records stored at $\text{level} = 0$ in the tree. This makes them efficient for range selects and sorts. But the tradeoff is that they use more space. Therefore you need to use more blocks to store less keys. 
+##### Unclustered
+With unclustered B+-trees you use a separate structure to store the records, and only keep the keys in the B+-tree. This can be done with a [[Database storage#Database storage#Heapfiles|heapfile]]. This makes these trees bad for scans, because you always have to read one more block for each lookup, and for a scan that adds up. The benefit of the unclustered variant is that they take up less space, and can contain far more keys on less blocks. On the lowest level they only have to keep the key and the [[Database storage#BlockId and device size|BlockId]]. 
 ### LSM trees
+
 ## Further reading
 - [[Database storage]]
 - [[Database management system (DBMS)]]
