@@ -25,6 +25,10 @@ With this strategy you use another hash function to store the record. This might
 #### Extensible hashing
 To improve on the problems with static hashing 
 
+##### Directory doubling
+This happens when the hash function hashes and 
+![[Pasted image 20260503093949.png]] 
+
 ### B+-trees
 #### Clustered
 #### Unclustered
