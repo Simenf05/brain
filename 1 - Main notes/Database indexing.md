@@ -29,7 +29,7 @@ This happens when the hash function hashes and finds that the slot is full and t
 ![[Pasted image 20260503093949.png]] 
 
 ### B+-trees
-The most common type of index is the B+-tree. 
+The most common type of index is the B+-tree. This type of index is made for keeping sorted data fast and searchable. It works by having keys that point to the next level in the tree, and 
 #### Clustered
 #### Unclustered
 
