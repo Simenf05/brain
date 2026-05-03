@@ -23,13 +23,13 @@ With external hashing you allow the filled blocks to link to other block with li
 With this strategy you use another hash function to store the record. This might also be referred to as distributed hashing.  
 ![[Pasted image 20260503092120.png]]
 #### Extensible hashing
-To improve on the problems with static hashing 
-
+To improve on the problems with static hashing we use **extensible hashing**. It works by allowing the amount of slots in the hash to increase. This is done by keeping the slots and information separate. We also have a notion of local and global depth, this determines how many bits to use when looking up the values. 
 ##### Directory doubling
-This happens when the hash function hashes and 
+This happens when the hash function hashes and finds that the slot is full and the local and global depth is equal. When the slot it full it has to double the directory and add a new slot. This is done by increasing the global and local depth by one and copying the current slot. After the copy it has to rehash all the values and use the new slots. 
 ![[Pasted image 20260503093949.png]] 
 
 ### B+-trees
+The most common type of index is the B+-tree. 
 #### Clustered
 #### Unclustered
 
