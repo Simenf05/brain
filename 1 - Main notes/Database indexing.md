@@ -35,7 +35,8 @@ The fill degree of the B+-tree is generally regarded as $2/3$, meaning that at a
 For clustered B+-trees you keep the records stored at $\text{level} = 0$ in the tree. This makes them efficient for range selects and sorts. But the tradeoff is that they use more space. Therefore you need to use more blocks to store less keys. 
 ##### Unclustered
 With unclustered B+-trees you use a separate structure to store the records, and only keep the keys in the B+-tree. This can be done with a [[Database storage#Database storage#Heapfiles|heapfile]]. This makes these trees bad for scans, because you always have to read one more block for each lookup, and for a scan that adds up. The benefit of the unclustered variant is that they take up less space, and can contain far more keys on less blocks. On the lowest level they only have to keep the key and the [[Database storage#BlockId and device size|BlockId]]. 
-### LSM trees
+### Log-Structured Merge trees (LSM trees)
+
 
 ## Further reading
 - [[Database storage]]

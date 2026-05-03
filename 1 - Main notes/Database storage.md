@@ -23,7 +23,7 @@ Page directory is used for keeping the address to where each tuple starts. This 
 ![[Pasted image 20260503084135.png]]
 
 ## Heapfiles
-While the database has many complex data structures, like the [[Database indexing#B+-trees|B+-trees]] or the [[Database indexing#LSM trees|LSM trees]], the most simple structure containing blocks is the heapfiles. These are dead simple, often linked lists that link [[#blocks]] together. They are useful in many contexts, for example on scanning operations such as joins. An index don't help with scanning when all elements are used. 
+While the database has many complex data structures, like the [[Database indexing#B+-trees|B+-trees]] or the [[Database indexing#Log-Structured Merge trees (LSM trees)|LSM trees]], the most simple structure containing blocks is the heapfiles. These are dead simple, often linked lists that link [[#blocks]] together. They are useful in many contexts, for example on scanning operations such as joins. An index don't help with scanning when all elements are used. 
 The heapfiles can also be used with an index to make search faster and the index smaller. More about clustered and unclustered B+-trees [[Database indexing#B+-trees|here]].
 ## Further reading
 - [[Database management system (DBMS)]]

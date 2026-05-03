@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Database storage.md",
+                "file": "1 - Main notes/Database indexing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Database storage"
+              "title": "Database indexing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,12 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31b387ec6de6bc7b",
+  "active": "07b23f7dc095b634",
   "lastOpenFiles": [
-    "5 - Attachments/Pasted image 20260503093949.png",
-    "5 - Attachments/Pasted image 20260503092120.png",
     "1 - Main notes/Database storage.md",
     "1 - Main notes/Database indexing.md",
+    "5 - Attachments/Pasted image 20260503093949.png",
+    "5 - Attachments/Pasted image 20260503092120.png",
     "1 - Main notes/Untitled.md",
     "5 - Attachments/Pasted image 20260503084135.png",
     "4 - Sketch notes/Plan sommer og utveksling.md",
@@ -257,7 +258,6 @@
     "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes",
     "4 - Sketch notes/1 - Main notes/Untitled.base",
-    "5 - Attachments/Pasted image 20251213112703.png",
     "5 - Attachments",
     "1 - Main notes/Tasks for itgk.md~",
     "1 - Main notes/Algdat sammendrag.md~",
