@@ -19,9 +19,9 @@ The crucial part about the optimizer is that it cannot change the result of the 
 The database buffer is the part of the database that stores the most important information. Usually writing to the disk is slow, and therefore we mostly write to the buffer and then occasionally the buffer is written to the disk. The more important parts (like the [[Database logging|log]]) is written more frequently while the data rarely is written. 
 
 ## Storage and indexing
-One of the most important parts of the database is how the database structures the data stored. This is done through multiple types of data structures within the storage. More about them [[Database storage and indexing structures|here]].
+One of the most important parts of the database is how the database structures the data stored. This is done through multiple types of data structures within the storage. More about them [[Database storage|here]].
 
 ## Further reading
-- [[Database storage and indexing structures]]
+- [[Database storage]]
 - [[Relational algebra]]
 - [[Database logging]]
