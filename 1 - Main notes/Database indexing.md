@@ -45,3 +45,4 @@ The memtable is the most recently written data, and it is stored in the main mem
 ## Further reading
 - [[Database storage]]
 - [[Database management system (DBMS)]]
+- [[Transactions (Databases)]]

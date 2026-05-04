@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Database indexing.md",
+                "file": "1 - Main notes/Transactions (Databases).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Database indexing"
+              "title": "Transactions (Databases)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +217,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31b387ec6de6bc7b",
+  "active": "07b23f7dc095b634",
   "lastOpenFiles": [
+    "4 - Sketch notes/2026-05-04.md",
+    "1 - Main notes/Transactions (Databases).md",
     "1 - Main notes/Database indexing.md",
     "1 - Main notes/Algdat algoritme oversikt.md",
-    "4 - Sketch notes/2026-05-04.md",
     "5 - Attachments/Pasted image 20260503131624.png",
     "1 - Main notes/Database storage.md",
     "5 - Attachments/Pasted image 20260503093949.png",
@@ -248,7 +250,6 @@
     "1 - Main notes/konseptuell modell.md",
     "1 - Main notes/interasksjonssystemer.md",
     "1 - Main notes/Virtual memory.md",
-    "1 - Main notes/Virtual machines.md",
     "1 - Main notes/Untitled.base",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes/TCP-finite-state-machine.png",
