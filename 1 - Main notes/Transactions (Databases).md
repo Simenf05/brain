@@ -12,15 +12,14 @@ A transaction in the context of a database can be thought of as a business logic
 ## Dangers
 Some of the dangers relating to concurrency control is *dirty read*, *dirty write*, *unrepeatable read* and *incorrect summary*.
 ### Dirty read
-#### What 
-#### When
+Dirty read occurs when the a transaction reads data that is not committed. This can happen when transactions 1 starts running and writes a new value to some database object $X$. After this another transaction might try to read $X$ resulting in reading a value that might be rolled back later. 
+![[Pasted image 20260504163232.png]]
 ### Dirty write
-#### What 
-#### When
-### Unrepeatable read
-#### When
+Dirty write is when one transaction overwrites another transactions value that is not yet committed. This can happen with a history where two transactions are writing the same value, and the first don't commit before the next also writes. 
+![[Pasted image 20260504164431.png]]
+### Unrepeatable read / Read skew
+
 ### Incorrect summary
-#### When
 ## ACID
 To prevent dagers relating to transactions and concurrency we use the acronym ACID.
 ACID stands for:
