@@ -18,8 +18,10 @@ Dirty read occurs when the a transaction reads data that is not committed. This 
 Dirty write is when one transaction overwrites another transactions value that is not yet committed. This can happen with a history where two transactions are writing the same value, and the first don't commit before the next also writes. 
 ![[Pasted image 20260504164431.png]]
 ### Unrepeatable read / Read skew
-
+This happens when doing operations such as nested joins, that has to read the same object multiple times within a transaction. If another transaction writes while the nested join is running, it causes differing values to be read. ![[Pasted image 20260504172256.png]] 
 ### Incorrect summary
+This happens when the database is performing any aggregate function and the data changes while the aggregate is calculating. The result will be inconsistent. 
+
 ## ACID
 To prevent dagers relating to transactions and concurrency we use the acronym ACID.
 ACID stands for:
