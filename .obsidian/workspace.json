@@ -16,16 +16,7 @@
                 "file": "4 - Sketch notes/2026-05-04.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2026-05-04"
@@ -40,16 +31,7 @@
                 "file": "1 - Main notes/Transactions (Databases).md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Transactions (Databases)"
@@ -125,25 +107,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c47be78dc59d0a76",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "4 - Sketch notes/Tasklist for computers.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Tasklist for computers"
-            }
-          },
-          {
             "id": "d450ada7a8f4aa82",
             "type": "leaf",
             "state": {
@@ -198,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,8 +182,9 @@
   },
   "active": "07b23f7dc095b634",
   "lastOpenFiles": [
-    "4 - Sketch notes/2026-05-04.md",
+    "5 - Attachments/Pasted image 20260504160416.png",
     "1 - Main notes/Transactions (Databases).md",
+    "4 - Sketch notes/2026-05-04.md",
     "1 - Main notes/Database indexing.md",
     "1 - Main notes/Algdat algoritme oversikt.md",
     "5 - Attachments/Pasted image 20260503131624.png",
@@ -249,7 +213,6 @@
     "1 - Main notes/round trip time.md",
     "1 - Main notes/konseptuell modell.md",
     "1 - Main notes/interasksjonssystemer.md",
-    "1 - Main notes/Virtual memory.md",
     "1 - Main notes/Untitled.base",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes/TCP-finite-state-machine.png",
