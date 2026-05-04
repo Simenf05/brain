@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Main notes/Database indexing.md",
+                "file": "4 - Sketch notes/2026-05-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Database indexing"
+              "title": "2026-05-04"
             }
           },
           {
@@ -53,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Database indexing"
-            }
-          },
-          {
-            "id": "6ab95a0c4624adb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Algdat algoritme oversikt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Algdat algoritme oversikt"
             }
           }
         ]
@@ -111,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dsa",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,9 +218,10 @@
   },
   "active": "31b387ec6de6bc7b",
   "lastOpenFiles": [
-    "5 - Attachments/Pasted image 20260503131624.png",
-    "1 - Main notes/Algdat algoritme oversikt.md",
     "1 - Main notes/Database indexing.md",
+    "1 - Main notes/Algdat algoritme oversikt.md",
+    "4 - Sketch notes/2026-05-04.md",
+    "5 - Attachments/Pasted image 20260503131624.png",
     "1 - Main notes/Database storage.md",
     "5 - Attachments/Pasted image 20260503093949.png",
     "5 - Attachments/Pasted image 20260503092120.png",
@@ -279,7 +255,6 @@
     "1 - Main notes/IPv6-datagram-format.png",
     "1 - Main notes/IPv4-datagram-format.png",
     "1 - Main notes/DHCP-message-flow.png",
-    "1 - Main notes/Congestion-control-threshold.png",
     "1 - Main notes",
     "4 - Sketch notes/1 - Main notes/Untitled.base",
     "5 - Attachments",
