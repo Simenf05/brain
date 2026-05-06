@@ -161,12 +161,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31b387ec6de6bc7b",
+  "active": "fd26aa8530808335",
   "lastOpenFiles": [
     "1 - Main notes/Recovery.md",
     "2 - Tags/it.md",

@@ -61,6 +61,8 @@ Less formally it is when two operations change outcome when they change in order
 #### Definitions 
 **Serial schedule** is a schedule that does not interleave operations from different transactions.
 **Serializable schedule** is a schedule that has the same effect on the database as a serial schedule.
+**Conflict equivalent** is when two schedules have the same sequence of conflicts. 
+**Conflict serializable schedule** is a schedule that is conflict equivalent with a serial schedule. This implies serializability. 
 
 
 ## Further reading
