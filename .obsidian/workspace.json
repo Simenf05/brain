@@ -37,8 +37,7 @@
               "title": "Recovery"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07b23f7dc095b634",
+  "active": "31b387ec6de6bc7b",
   "lastOpenFiles": [
     "1 - Main notes/Recovery.md",
     "2 - Tags/it.md",

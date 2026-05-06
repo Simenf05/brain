@@ -25,8 +25,10 @@ $$
 \text{w}_1(\text{A});\text{w}_1(\text{B});\text{w}_2(\text{A});\text{c}_1;\text{r}_2(\text{B});\text{c}_2
 $$
 ### Strict 
-Strict schedule means that other transactions never can either write or read from uncommitted values. 
+Strict schedule means that other transactions never can either write or read from uncommitted values. This means that we can do undo recovery by before images. 
 
+The schedules have the subset property:
+$\text{Strict}\subset\text{ACA}\subset\text{Recoverable}\subset\text{All schedules}$
 
 ## Further reading
 - [[Transactions]]

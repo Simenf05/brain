@@ -56,11 +56,15 @@ For two operations to conflict they need to:
 2. They use the same data element
 3. At least one of the operations is a write
 Less formally it is when two operations change outcome when they change in order. 
+### Serializability
 
-[[Recovery]]
+#### Definitions 
+**Serial schedule** is a schedule that does not interleave operations from different transactions.
+**Serializable schedule** is a schedule that has the same effect on the database as a serial schedule.
 
 
 ## Further reading
 - [[Database storage]]
 - [[Database management system (DBMS)]]
 - [[Database indexing]]
+- [[Recovery]]
