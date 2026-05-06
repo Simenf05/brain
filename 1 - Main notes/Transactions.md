@@ -66,6 +66,11 @@ To ensure that a schedule is conflict serializable we use locks. We have two dif
 ## Locking
 ### Two phase locking (2PL)
 This is a locking scheme that is used to achieve serializality. It is 2PL if all locks are locked before unlocks start. 
+The nice thing with 2pl is that it implies the schedule being [[#conflict serializable]]. Therefore it can be used to get conflict serializable schedules. 
+
+**Basic 2PL** is when all locking is until a point where unlocking starts. It looks like a mountain. 
+**Conservative 2PL** is when you start by locking everything, and then unlock throughout. 
+**Strict 2PL** is when 
 
 ## Further reading
 - [[Database storage]]
