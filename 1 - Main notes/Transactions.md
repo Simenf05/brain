@@ -63,6 +63,9 @@ Less formally it is when two operations change outcome when they change in order
 #### Conflict serializable
 Conflict serializable schedules are useful because they imply that the schedule is serializable. Therefore we can use them to determine if a schedule is serializable. 
 To ensure that a schedule is conflict serializable we use locks. We have two different types of locks, **read_lock(X)** and **write_lock(X)**. The read locks are not exclusive, and write locks are exclusive. This means that multiple transactions can read the same data at the same time, but only one transaction can write it. 
+## Locking
+### Two phase locking (2PL)
+This is a locking scheme that is used to achieve serializality. It is 2PL if 
 
 ## Further reading
 - [[Database storage]]
