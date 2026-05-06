@@ -70,7 +70,8 @@ The nice thing with 2pl is that it implies the schedule being [[#conflict serial
 
 **Basic 2PL** is when all locking is until a point where unlocking starts. It looks like a mountain. 
 **Conservative 2PL** is when you start by locking everything, and then unlock throughout. 
-**Strict 2PL** is when 
+**Strict 2PL** is when reading locks are unlocked, but write locks are held until commit. 
+**Rigorous 2PL** is when all locks are unlocked after commit. 
 
 ## Further reading
 - [[Database storage]]
