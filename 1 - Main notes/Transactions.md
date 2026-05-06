@@ -60,6 +60,9 @@ Less formally it is when two operations change outcome when they change in order
 **Serializable schedule** is a schedule that has the same effect on the database as a serial schedule.
 **Conflict equivalent** is when two schedules have the same sequence of conflicts. 
 **Conflict serializable schedule** is a schedule that is conflict equivalent with a serial schedule. This implies serializability. 
+#### Conflict serializable
+Conflict serializable schedules are useful because they imply that the schedule is serializable. Therefore we can use them to determine if a schedule is serializable. 
+To ensure that a schedule is conflict serializable we use locks. We have two different types of locks, **read_lock(X)** and **write_lock(X)**. The read locks are not exclusive, and write locks are exclusive. This means that multiple transactions can read the same data at the same time, but only one transaction can write it. 
 
 ## Further reading
 - [[Database storage]]
