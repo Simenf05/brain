@@ -32,11 +32,20 @@ ACID stands for:
 
 ## Isolation level
 ![[Pasted image 20260504160416.png]]
-
-
-
-
-
+The database can configure how much isolation is needed for transactions. In practice no ACID database will use the read uncommitted level. For the other levels they can be used within databases. The further down the levels, the slower the database goes. That is because it has to make sure to not have conflicts. At the lowest level it is serial, and that means transactions run as if they are serial. 
+Dangers without for each of the isolation levels:
+**Read committed prevents:**
+- [[#Dirty read]]
+- [[#Dirty write]]
+**Repeatable reads prevents:**
+- [[#Unrepeatable read / Read skew]]
+**Serializable prevents:**
+- The phantom problem is that new records might appear while scanning during nested loop joins. 
+### How to do read committed
+#### Locking
+You can use locks to isolate the different transactions. Each transaction has to get the lock on data objects before reading or writing. These locks can either be mutual exclusive or read only locks. This can be efficient, but is a slightly older way to do it. 
+#### Snapshot isolation
+More modern solutions use snapshot isolation instead. It is a clean version that keeps older data around until every transaction is finished with the data. This means that 
 ## Further reading
 - [[Database storage]]
 - [[Database management system (DBMS)]]
