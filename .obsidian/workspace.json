@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Sketch notes/Tasklist for computers.md",
+                "file": "1 - Main notes/Transactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tasklist for computers"
+              "title": "Outgoing links from Transactions"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Sketch notes/Tasklist for computers.md",
+                "file": "1 - Main notes/Transactions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tasklist for computers"
+              "title": "Outline of Transactions"
             }
           },
           {
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd26aa8530808335",
+  "active": "31b387ec6de6bc7b",
   "lastOpenFiles": [
     "1 - Main notes/Recovery.md",
-    "2 - Tags/it.md",
     "1 - Main notes/Transactions.md",
+    "2 - Tags/it.md",
     "1 - Main notes/round trip time.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
     "4 - Sketch notes/2026-05-04.md",

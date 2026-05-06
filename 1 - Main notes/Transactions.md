@@ -21,7 +21,6 @@ Dirty write is when one transaction overwrites another transactions value that i
 This happens when doing operations such as nested joins, that has to read the same object multiple times within a transaction. If another transaction writes while the nested join is running, it causes differing values to be read. ![[Pasted image 20260504172256.png]] 
 ### Incorrect summary
 This happens when the database is performing any aggregate function and the data changes while the aggregate is calculating. The result will be inconsistent. 
-
 ## ACID
 To prevent dagers relating to transactions and concurrency we use the acronym ACID.
 ACID stands for:
@@ -29,7 +28,6 @@ ACID stands for:
 - **Consistency:** The state of the database should be consistent (primary key, checks, etc.) before and after transactions. 
 - **Isolation:** Each transaction should not interfere with other transactions while running concurrently. 
 - **Durability:** After any transaction commits it should become permanent within the database, even after recovery. 
-
 ## Isolation level
 ![[Pasted image 20260504160416.png]]
 The database can configure how much isolation is needed for transactions. In practice no ACID database will use the read uncommitted level. For the other levels they can be used within databases. The further down the levels, the slower the database goes. That is because it has to make sure to not have conflicts. At the lowest level it is serial, and that means transactions run as if they are serial. 
@@ -57,13 +55,11 @@ For two operations to conflict they need to:
 3. At least one of the operations is a write
 Less formally it is when two operations change outcome when they change in order. 
 ### Serializability
-
 #### Definitions 
 **Serial schedule** is a schedule that does not interleave operations from different transactions.
 **Serializable schedule** is a schedule that has the same effect on the database as a serial schedule.
 **Conflict equivalent** is when two schedules have the same sequence of conflicts. 
 **Conflict serializable schedule** is a schedule that is conflict equivalent with a serial schedule. This implies serializability. 
-
 
 ## Further reading
 - [[Database storage]]
