@@ -7,8 +7,8 @@ aliases:
 
 Tags: #database #dbms
 
-# Transactions (Databases)
-A transaction in the context of a database can be thought of as a business logical operation. This can be when buying a train ticket, where it is important that both the money gets spent and that the ticket is delivered. Such a transaction has to always complete both parts of the operation, and it is better to not do any of them then half. Being able to rollback transactions that fail is one of the most important characteristics of transactions in databases. When, and not if, but when a transaction in the database fails, it has to be able to undo the transaction and restore the database. These fails can be in terms of power outages or other errors in the software. More about [[Recovery (Databases)|recovery]]. 
+# Transactions
+A transaction in the context of a database can be thought of as a business logical operation. This can be when buying a train ticket, where it is important that both the money gets spent and that the ticket is delivered. Such a transaction has to always complete both parts of the operation, and it is better to not do any of them then half. Being able to rollback transactions that fail is one of the most important characteristics of transactions in databases. When, and not if, but when a transaction in the database fails, it has to be able to undo the transaction and restore the database. These fails can be in terms of power outages or other errors in the software. More about [[Recovery|recovery]]. 
 ## Dangers
 Some of the dangers relating to concurrency control is *dirty read*, *dirty write*, *unrepeatable read* and *incorrect summary*.
 ### Dirty read
@@ -41,11 +41,25 @@ Dangers without for each of the isolation levels:
 - [[#Unrepeatable read / Read skew]]
 **Serializable prevents:**
 - The phantom problem is that new records might appear while scanning during nested loop joins. 
-### How to do read committed
+### Achieving read committed
 #### Locking
 You can use locks to isolate the different transactions. Each transaction has to get the lock on data objects before reading or writing. These locks can either be mutual exclusive or read only locks. This can be efficient, but is a slightly older way to do it. 
 #### Snapshot isolation
-More modern solutions use snapshot isolation instead. It is a clean version that keeps older data around until every transaction is finished with the data. This means that 
+More modern solutions use snapshot isolation instead. It is a clean version that keeps older data around until every transaction is finished with the data. This means that the database sacrifices memory for more secure isolation. In some ways this mirrors garbage collection from programming language design. 
+### Achieving repeatable read
+This is achieved by using [[#Snapshot isolation]].
+### Achieving serializable
+It means that the transactions perform as if they are serial. It can use two phase locking.
+## Transaction conflicts
+For two operations to conflict they need to:
+1. Belong to different transactions
+2. They use the same data element
+3. At least one of the operations is a write
+Less formally it is when two operations change outcome when they change in order. 
+
+[[Recovery]]
+
+
 ## Further reading
 - [[Database storage]]
 - [[Database management system (DBMS)]]
