@@ -65,7 +65,7 @@ Conflict serializable schedules are useful because they imply that the schedule 
 To ensure that a schedule is conflict serializable we use locks. We have two different types of locks, **read_lock(X)** and **write_lock(X)**. The read locks are not exclusive, and write locks are exclusive. This means that multiple transactions can read the same data at the same time, but only one transaction can write it. 
 ## Locking
 ### Two phase locking (2PL)
-This is a locking scheme that is used to achieve serializality. It is 2PL if 
+This is a locking scheme that is used to achieve serializality. It is 2PL if all locks are locked before unlocks start. 
 
 ## Further reading
 - [[Database storage]]
