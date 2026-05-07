@@ -1,0 +1,1 @@
+# Daily note: {{date}} {{time}}
