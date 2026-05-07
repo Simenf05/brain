@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,14 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07b23f7dc095b634",
+  "active": "ae27c43327b1aee2",
   "lastOpenFiles": [
+    "1 - Main notes/Recovery.md",
     "4 - Sketch notes/2026-05-07.md",
     "3 - Templates/Daily note.md",
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
     "1 - Main notes/Transactions.md",
-    "1 - Main notes/Recovery.md",
     "2 - Tags/it.md",
     "1 - Main notes/round trip time.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
