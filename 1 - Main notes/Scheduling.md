@@ -46,7 +46,6 @@ There can be overhead when switching context.
 ## Priority-based Scheduling
 We schedule tasks based on priority, each process has an integer representing the priority. The task with the highest priority is always scheduled. 
 There can be starvation, because there can always be tasks with better priority that makes one task never get cpu time. To solve this we use aging, and allow old tasks to gain priority. 
-
 ### Multi-level feedback queue (MLFQ)
 It is a good scheduling algorithm because it does not require prior knowledge of estimated time use for each job. 
 #### Rules
