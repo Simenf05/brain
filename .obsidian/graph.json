@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#os  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.63036122259957,
-  "lineSizeMultiplier": 0.623433158382217,
-  "collapse-forces": false,
-  "centerStrength": 0.893238653905526,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.75201705699201,
+  "lineSizeMultiplier": 0.72982943007987,
+  "collapse-forces": true,
+  "centerStrength": 0.496480303235414,
   "repelStrength": 15.7307811052794,
   "linkStrength": 1,
-  "linkDistance": 56,
-  "scale": 1.1082883764836382,
+  "linkDistance": 30,
+  "scale": 0.6052789714038668,
   "close": false
 }

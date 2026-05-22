@@ -41,10 +41,15 @@
             "id": "ca3f3dd0771944f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Process.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Process"
             }
           }
         ],
@@ -80,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recoverable",
+                "query": "turing machine",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,8 +198,10 @@
   },
   "active": "ca3f3dd0771944f6",
   "lastOpenFiles": [
-    "1 - Main notes/Thread.md",
+    "1 - Main notes/turing machine.md",
     "1 - Main notes/Process.md",
+    "1 - Main notes/Scheduling.md",
+    "1 - Main notes/Thread.md",
     "1 - Main notes/OS plan.md",
     "1 - Main notes/Transactions.md",
     "4 - Sketch notes/2026-05-07.md",
@@ -225,8 +233,6 @@
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Completely Fair Scheduler.md",
     "1 - Main notes/Utveksling.md",
-    "1 - Main notes/Communication Technology.md",
-    "1 - Main notes/Central Processing Unit.md",
     "1 - Main notes/Untitled.base",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes",
