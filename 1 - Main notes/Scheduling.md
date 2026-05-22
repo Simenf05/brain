@@ -19,6 +19,7 @@ Minimize:
 
 # Scheduling algorithms
 ## Non-preemptive scheduling algorithms
+The non-preemptive scheduling algorithms are the simplest algorithms for scheduling. Non-preemptive means that the algorithm cannot deschedule any of the tasks after scheduling them. In practice you always want to deschedule, because you might have long running tasks that runs long. 
 ### First in first out (FIFO)
 Works like a queue, by executing processes based on arrival time. Can be implemented simply by using the queue data structure. 
 #### Downside
