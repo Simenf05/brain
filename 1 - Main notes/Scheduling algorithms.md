@@ -8,11 +8,14 @@ aliases:
 Tags: #os #scheduling #algorithms 
 
 # Scheduling algorithms
-This document includes the most simple algorithms for scheduling, and most of them are not useful in practice. 
+This document includes the most simple algorithms for scheduling. These are mostly theoretical, for learning purposes and therefore not useful in practice. To read about actual useful scheduling algorithms see: [[Multi-Level Feedback Queue (MLFQ)|MLFQ]] and [[Completely Fair Scheduler (CFS)|CFS]].
+## Preemption
+Preemption, also sometimes called descheduling, is when the scheduler stops a startet job, and schedules another job. For modern applications this is a critical functionality of the scheduler, as we never know how long any job will run. For all we know it might be a server, and continue running forever. This is one of the reasons that the [[#Non-preemptive scheduling algorithms]] of this document is fully theoretical. 
+But to begin with we assume that the scheduler cannot preempt the jobs. 
 ## Non-preemptive scheduling algorithms
-The non-preemptive scheduling algorithms are the simplest algorithms for scheduling. Non-preemptive means that the algorithm cannot deschedule any of the tasks after scheduling them. In practice you always want to deschedule, because you might have long running tasks that runs long. 
+The non-preemptive scheduling algorithms are the simplest algorithms for scheduling. They assume, no preemption. 
 ### First in first out (FIFO)
-Works like a queue, by executing processes based on arrival time. Can be implemented simply by using the queue data structure. 
+The first scheduling algorithm is just using FIFO. It works like a queue, by executing processes based on arrival time. Can be implemented simply by using the queue data structure. 
 #### Downside
 The turnaround time can be bad, if a long process enters the queue first. All the other processes has to wait until the first one is completed. This makes FIFO a terrible algorithm in practice. This problem is called the convoy effect. 
 ### Shortest Job First (SJF)
@@ -37,3 +40,5 @@ There can be overhead when switching context.
 
 ## Further reading
 - [[Scheduling]]
+- [[Multi-Level Feedback Queue (MLFQ)]]
+- [[Completely Fair Scheduler (CFS)]]
