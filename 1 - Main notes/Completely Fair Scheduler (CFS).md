@@ -1,12 +1,14 @@
 ---
 aliases:
+  - cfs
+  - CFS
 ---
 
 2026-02-15 17:39
 
 Tags: #os #scheduling #algorithms 
 
-# Completely Fair Scheduler
+# Completely Fair Scheduler (CFS)
 It is the currently in use algorithm for the [[Linux]] scheduler. It has a focus on keeping overhead low while still being fair between processes. 
 
 ## Scheduling method
