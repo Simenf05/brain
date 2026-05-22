@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f78bda885a141bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Main notes/Process.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Process"
-            }
-          },
-          {
             "id": "f543c73d05028e01",
             "type": "leaf",
             "state": {
@@ -51,9 +36,34 @@
               "icon": "lucide-file",
               "title": "Process"
             }
+          },
+          {
+            "id": "4bcd20ea0e5722ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "108340c310dae5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Virtualizing the CPU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtualizing the CPU"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,13 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca3f3dd0771944f6",
+  "active": "108340c310dae5d6",
   "lastOpenFiles": [
-    "1 - Main notes/turing machine.md",
     "1 - Main notes/Process.md",
+    "1 - Main notes/Virtualizing the CPU.md",
+    "1 - Main notes/OS plan.md",
+    "1 - Main notes/turing machine.md",
     "1 - Main notes/Scheduling.md",
     "1 - Main notes/Thread.md",
-    "1 - Main notes/OS plan.md",
     "1 - Main notes/Transactions.md",
     "4 - Sketch notes/2026-05-07.md",
     "1 - Main notes/NU stuff.md",
@@ -232,7 +243,6 @@
     "1 - Main notes/Database management system (DBMS).md",
     "1 - Main notes/Relational algebra.md",
     "1 - Main notes/Completely Fair Scheduler.md",
-    "1 - Main notes/Utveksling.md",
     "1 - Main notes/Untitled.base",
     "1 - Main notes/TCP-handshake.png",
     "1 - Main notes",
