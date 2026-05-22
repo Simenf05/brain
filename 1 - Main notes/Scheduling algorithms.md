@@ -8,7 +8,7 @@ aliases:
 Tags: #os #scheduling #algorithms 
 
 # Scheduling algorithms
-
+This document includes the most simple algorithms for scheduling, and most of them are not useful in practice. 
 ## Non-preemptive scheduling algorithms
 The non-preemptive scheduling algorithms are the simplest algorithms for scheduling. Non-preemptive means that the algorithm cannot deschedule any of the tasks after scheduling them. In practice you always want to deschedule, because you might have long running tasks that runs long. 
 ### First in first out (FIFO)
