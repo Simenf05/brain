@@ -107,8 +107,7 @@
               "title": "Proportional share scheduling"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "506c83c052ae252b",
+  "active": "f543c73d05028e01",
   "lastOpenFiles": [
     "1 - Main notes/Scheduling.md",
     "1 - Main notes/Scheduling algorithms.md",
