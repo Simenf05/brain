@@ -19,17 +19,17 @@ The first scheduling algorithm is just using FIFO. It works like a queue, by exe
 #### Downside
 The turnaround time can be bad, if a long process enters the queue first. All the other processes has to wait until the first one is completed. This makes FIFO a terrible algorithm in practice. This problem is called the convoy effect. 
 ### Shortest Job First (SJF)
-The tasks with the shortest execution time is scheduled first, otherwise it works like FIFO. We assume that we cannot de-schedule a process once it has started.
+The tasks with the shortest execution time is scheduled first, otherwise it works like FIFO. We assume that we cannot deschedule a process once it has started. For this type of theoretical scheduling, SJF is provably optimum. But when we allow tasks to arrive at different times it becomes bad. 
 #### Downside
 If task A is long is started, then if task B and C is ready while A is executing, then we have to wait for A to complete. 
 ## Preemptive scheduling algorithms
-These algorithms can stop execution of processes while they are running. 
+We now move on to the preemptive scheduling algorithms. These algorithms can stop execution of processes while they are running, and therefore are closer to real world algorithms. 
 ### Shortest Time-to-Complete First (STCF)
-Always switch to the task that has the shortest time to complete. This is better because short tasks will get priority.
+When minimizing the turnover time, we can use the STCF policy. It suggests switching to the task that has the shortest time to complete. Using this strategy we get the optimal turnaround time short tasks will get priority.
 #### Downside
-May cause starvation of tasks with long execution time, when shorter tasks always gets the prioritized. 
-
+The fatal flaw of STCF is that it might cause starvation of tasks with long execution time. This happens when shorter tasks always arrives before the long tasks gets to run.
 ### Round Robin (RR)
+Turnaround time is not always the most 
 Introduces a concept of time slice/time quantum/scheduling quantum, which is a small fixed slice of execution time. It will execute each process for the time slice, before switching to the next. The algorithm will switch regardless whether the task is completed, and if it is not finished it will be added to the tail of the FIFO queue. 
 Is good for response-time, every process gets a good response time. 
 The size of the time-slice can change the entire behavior of the algorithm. If the size is bigger then processes, then it works like FIFO. If it is small we need a lot of context switches.
