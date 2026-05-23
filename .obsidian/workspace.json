@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.51103591918945
+    "width": 295.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0dd2d235f4ebe",
@@ -250,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e65eba5daea50b7",
+  "active": "506c83c052ae252b",
   "lastOpenFiles": [
     "1 - Main notes/Scheduling.md",
     "1 - Main notes/Scheduling algorithms.md",
