@@ -11,10 +11,15 @@
             "id": "cd4e6bc70cebf9b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Untitled 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -136,8 +141,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -162,6 +167,7 @@
   },
   "active": "cd4e6bc70cebf9b3",
   "lastOpenFiles": [
+    "1 - Main notes/Untitled 2.md",
     "1 - Main notes/OS plan.md",
     "1 - Main notes/Proportional share scheduling.md",
     "1 - Main notes/Completely Fair Scheduler (CFS).md",
@@ -187,7 +193,6 @@
     "3 - Templates/Sketch note.md",
     "3 - Templates/Main note.md",
     "1 - Main notes/Seven great ideas in computer architecture.md",
-    "4 - Sketch notes/2026-05-04.md",
     "5 - Attachments/Pasted image 20260504172256.png",
     "5 - Attachments/Pasted image 20260504164431.png",
     "5 - Attachments/Pasted image 20260504163232.png",
