@@ -9,3 +9,5 @@ Liste over japan ting som må fikses:
 - [ ] Fikse dokumenter og bestille time
 - [ ] Lånekassen med dokumenter
 - [ ] Mer dokumenter til japan, helse og annet. Ref mail
+	- [x] Helse
+	- [ ] Annet
