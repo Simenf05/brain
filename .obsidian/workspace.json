@@ -26,10 +26,15 @@
             "id": "3fbe2ab5c62067d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Main notes/Multi-Level Feedback Queue (MLFQ).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-Level Feedback Queue (MLFQ)"
             }
           },
           {
