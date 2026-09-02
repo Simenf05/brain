@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Proportional share scheduling.md",
+                "file": "1 - Main notes/Japan stuff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Proportional share scheduling"
+              "title": "Outline of Japan stuff"
             }
           },
           {
@@ -270,10 +270,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd26aa8530808335",
+  "active": "1c74ac3aa516d986",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1 - Main notes/Proportional share scheduling.md",
+    "conflict-files-obsidian-git.md",
     "1 - Main notes/Completely Fair Scheduler (CFS).md",
     "1 - Main notes/Multi-Level Feedback Queue (MLFQ).md",
     "1 - Main notes/Scheduling algorithms.md",
