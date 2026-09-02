@@ -126,24 +126,9 @@
               "icon": "lucide-file",
               "title": "Proportional share scheduling"
             }
-          },
-          {
-            "id": "9813109e0a4a16e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -247,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Main notes/Transactions.md",
+                "file": "1 - Main notes/Proportional share scheduling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transactions"
+              "title": "Outline of Proportional share scheduling"
             }
           },
           {
@@ -285,10 +270,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9813109e0a4a16e8",
+  "active": "fd26aa8530808335",
   "lastOpenFiles": [
-    "1 - Main notes/Proportional share scheduling.md",
     "conflict-files-obsidian-git.md",
+    "1 - Main notes/Proportional share scheduling.md",
     "1 - Main notes/Completely Fair Scheduler (CFS).md",
     "1 - Main notes/Multi-Level Feedback Queue (MLFQ).md",
     "1 - Main notes/Scheduling algorithms.md",
