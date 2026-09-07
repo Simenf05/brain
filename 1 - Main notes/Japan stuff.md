@@ -3,7 +3,7 @@ Liste over japan ting som må fikses:
 - [x] Søke visum på ambassaden
 - [x] Fylle ut visum forms
 - [x] Hente visum
-- [ ] Fikse visit japan web
+- [x] Fikse visit japan web
 - [x] Ringe legen om å ta med meds inn i japan
 	- [x] Stikke til apotek
 - [ ] # maybe Fikse dokumenter og bestille time hos legen
