@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desche",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
